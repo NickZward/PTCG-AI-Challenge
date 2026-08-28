@@ -1,0 +1,18 @@
+encoder your_deck <- my-agent/mluc_v1/deck.csv (60 cards)
+673 games / 15 players / cap=64 main_only=False feat=2
+  250/673 games -> 15669 decisions
+  500/673 games -> 31004 decisions
+
+DONE: 673 games -> 42450 decisions -> model/az/imit_mluc.npz (69MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                   53924  (92.0% of drops)
+  trivial_single_option                            3887  ( 6.6% of drops)
+  no_select_or_action                               680  ( 1.2% of drops)
+  empty_choice                                       66  ( 0.1% of drops)
+  target_not_enumerated_type1                        60  ( 0.1% of drops)
+  TOTAL DROPPED                                   58617   kept 42450 (42.0% of all decisions)
+
+kept by select type: {0: 25315, 1: 15693, 9: 852, 4: 379, 8: 159, 5: 52}
+candidates: mean 7.8 median 6 p90 16 max 64
+target index: mean 2.81  frac==0 32.5%  random-guess top1 21.4%

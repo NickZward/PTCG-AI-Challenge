@@ -1,0 +1,40 @@
+loading ['model/az/imit_drag_c.npz']
+  + imit_drag_c.npz: 141931 decisions, players ['Petit Canard', 'Kh0a', 'THIRD PTCG Club', 'Dipam Chakraborty', 'Pokemon Siuuuu']...
+decoder feat=2 vocab=73883
+141931 decisions -> 141281 after filter (min_wr=0.0 wins_only=False main_only=False)
+1369 games detected -> held-out 47 games / 5067 decisions (disjoint from the 136214 training decisions)
+  turn-CLOSING slice: 8857 decisions (6.2%) x4.0
+hashing candidate bags for tie groups...
+tie mask ready: 10277 extra credited candidates (0.07/decision)
+  [held-out baselines] n=5067  random=22.7%  always-0=28.2%
+initialized from model/az/drag_valfix_best.pth
+device=mps  params=13,859,458  objective=softmax CE
+
+train=136214 held=5067 epochs=6 bs=128
+    ep0 500/1064 loss 0.8440
+    ep0 1000/1064 loss 0.8330
+epoch 0: loss 0.8320 (pol 0.6297 val 0.0674)  MAIN-top1 59.8%  all-top1 67.7% (strict 67.4%)  top3 93.3%  306s
+    t0:60%(2433)  t1:74%(2397)  t4:51%(47)  t8:99%(139)  t9:100%(51)
+    ep1 500/1064 loss 0.7957
+    ep1 1000/1064 loss 0.7938
+epoch 1: loss 0.7938 (pol 0.6135 val 0.0601)  MAIN-top1 60.8%  all-top1 67.9% (strict 67.6%)  top3 93.0%  249s
+    t0:61%(2433)  t1:73%(2397)  t4:51%(47)  t8:99%(139)  t9:100%(51)
+    ep2 500/1064 loss 0.7327
+    ep2 1000/1064 loss 0.7339
+epoch 2: loss 0.7342 (pol 0.5773 val 0.0523)  MAIN-top1 61.2%  all-top1 67.9% (strict 67.5%)  top3 93.3%  241s
+    t0:61%(2433)  t1:72%(2397)  t4:55%(47)  t8:99%(139)  t9:100%(51)
+    ep3 500/1064 loss 0.6827
+    ep3 1000/1064 loss 0.6827
+epoch 3: loss 0.6822 (pol 0.5425 val 0.0466)  MAIN-top1 61.2%  all-top1 68.0% (strict 67.7%)  top3 93.2%  225s
+    t0:61%(2433)  t1:73%(2397)  t4:53%(47)  t8:99%(139)  t9:100%(51)
+    ep4 500/1064 loss 0.6488
+    ep4 1000/1064 loss 0.6451
+epoch 4: loss 0.6447 (pol 0.5150 val 0.0432)  MAIN-top1 61.0%  all-top1 67.9% (strict 67.5%)  top3 93.2%  223s
+    t0:61%(2433)  t1:73%(2397)  t4:51%(47)  t8:99%(139)  t9:100%(51)
+    ep5 500/1064 loss 0.6260
+    ep5 1000/1064 loss 0.6253
+epoch 5: loss 0.6254 (pol 0.4995 val 0.0419)  MAIN-top1 61.2%  all-top1 67.9% (strict 67.6%)  top3 93.2%  221s
+    t0:61%(2433)  t1:73%(2397)  t4:53%(47)  t8:99%(139)  t9:100%(51)
+
+BEST held-out top1: 68.0%  -> model/az/drag_close_best.pth
+CLOSE_BUILT

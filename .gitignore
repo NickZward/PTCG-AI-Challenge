@@ -1,0 +1,31 @@
+# Code-and-docs-only backup: the full working folder is ~155GB of replay
+# data, model weights, and scraped episodes that don't belong in git.
+# Strategy: ignore everything, re-include source, docs, logs, and manifests.
+
+*
+!*/
+!.gitignore
+!*.py
+!*.md
+!*.sh
+!requirements*.txt
+!/*.csv
+!/strategy_track/**
+
+# Huge data/weight directories — never descend
+model/
+scraped/
+kaggle_ds/
+kaggle_big/data/
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Archives and weights
+*.tar.gz
+*.zip
+*.pth
+*.pt
+*.ckpt
+*.db

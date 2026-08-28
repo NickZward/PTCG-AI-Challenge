@@ -1,0 +1,32 @@
+loading ['model/az/imit_oger_f2.npz']
+  + imit_oger_f2.npz: 76820 decisions, players ['palsystem', 'flg', 'Dipam Chakraborty', 'takayosi', 'KouFu']...
+decoder feat=2 vocab=73883
+76820 decisions -> 50871 after filter (min_wr=0.5 wins_only=False main_only=False)
+1175 games detected -> held-out 78 games / 3333 decisions (disjoint from the 47538 training decisions)
+boosting players ['palsystem'] -> pids [0] x3.0
+hashing candidate bags for tie groups...
+tie mask ready: 9541 extra credited candidates (0.12/decision)
+  [held-out baselines] n=3333  random=19.1%  always-0=27.9%
+initialized from model/az/grimm_imit_v11_best.pth
+device=mps  params=13,859,458  objective=softmax CE
+
+train=47538 held=3333 epochs=8 bs=128
+epoch 0: loss 2.1263 (pol 2.0948 val 0.1050)  MAIN-top1 50.2%  all-top1 52.5% (strict 52.1%)  top3 79.6%  126s
+    t0:50%(2046)  t1:53%(1090)  t2:11%(28)  t4:61%(59)  t9:99%(97)
+epoch 1: loss 1.6244 (pol 1.6150 val 0.0314)  MAIN-top1 54.9%  all-top1 57.2% (strict 56.8%)  top3 82.7%  177s
+    t0:55%(2046)  t1:58%(1090)  t2:32%(28)  t4:64%(59)  t9:99%(97)
+epoch 2: loss 1.4532 (pol 1.4446 val 0.0288)  MAIN-top1 55.9%  all-top1 58.2% (strict 57.9%)  top3 83.6%  148s
+    t0:56%(2046)  t1:59%(1090)  t2:32%(28)  t4:64%(59)  t9:99%(97)
+epoch 3: loss 1.3237 (pol 1.3154 val 0.0277)  MAIN-top1 60.2%  all-top1 60.9% (strict 60.5%)  top3 85.0%  169s
+    t0:60%(2046)  t1:59%(1090)  t2:46%(28)  t4:61%(59)  t9:99%(97)
+epoch 4: loss 1.2026 (pol 1.1947 val 0.0265)  MAIN-top1 59.3%  all-top1 60.7% (strict 60.3%)  top3 85.3%  203s
+    t0:59%(2046)  t1:60%(1090)  t2:46%(28)  t4:61%(59)  t9:99%(97)
+epoch 5: loss 1.0947 (pol 1.0870 val 0.0258)  MAIN-top1 58.6%  all-top1 60.5% (strict 60.1%)  top3 85.2%  225s
+    t0:59%(2046)  t1:61%(1090)  t2:43%(28)  t4:59%(59)  t9:99%(97)
+epoch 6: loss 1.0177 (pol 1.0100 val 0.0256)  MAIN-top1 58.5%  all-top1 60.3% (strict 59.9%)  top3 85.2%  242s
+    t0:59%(2046)  t1:60%(1090)  t2:50%(28)  t4:58%(59)  t9:99%(97)
+epoch 7: loss 0.9791 (pol 0.9715 val 0.0255)  MAIN-top1 58.6%  all-top1 60.4% (strict 60.1%)  top3 85.3%  242s
+    t0:59%(2046)  t1:61%(1090)  t2:46%(28)  t4:58%(59)  t9:99%(97)
+
+BEST held-out top1: 60.9%  -> model/az/oger_v12init_best.pth
+A_DONE

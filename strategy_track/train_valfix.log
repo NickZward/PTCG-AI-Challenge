@@ -1,0 +1,33 @@
+loading ['model/az/imit_oger_both.npz']
+  + imit_oger_both.npz: 90886 decisions, players ['palsystem', 'Artalmaz31', 'takayosi', 'ANDPAD kaggler team', 'flg']...
+decoder feat=2 vocab=73883
+90886 decisions -> 89164 after filter (min_wr=0.0 wins_only=False main_only=False)
+1492 games detected -> held-out 88 games / 4920 decisions (disjoint from the 84244 training decisions)
+hashing candidate bags for tie groups...
+tie mask ready: 12931 extra credited candidates (0.14/decision)
+  [held-out baselines] n=4920  random=21.1%  always-0=37.9%
+initialized from model/az/oger_f2pal_best.pth
+device=mps  params=13,859,458  objective=softmax CE
+
+train=84244 held=4920 epochs=6 bs=128
+    ep0 500/658 loss 0.4033
+epoch 0: loss 0.3943 (pol 0.2454 val 0.0496)  MAIN-top1 66.9%  all-top1 70.0% (strict 69.2%)  top3 91.7%  193s
+    t0:67%(3392)  t1:76%(1385)  t4:68%(73)  t9:100%(57)
+    ep1 500/658 loss 0.3357
+epoch 1: loss 0.3355 (pol 0.2266 val 0.0363)  MAIN-top1 66.2%  all-top1 69.6% (strict 68.9%)  top3 91.8%  191s
+    t0:66%(3392)  t1:76%(1385)  t4:71%(73)  t9:100%(57)
+    ep2 500/658 loss 0.2955
+epoch 2: loss 0.2949 (pol 0.2006 val 0.0314)  MAIN-top1 66.4%  all-top1 69.6% (strict 68.9%)  top3 92.1%  190s
+    t0:66%(3392)  t1:76%(1385)  t4:70%(73)  t9:100%(57)
+    ep3 500/658 loss 0.2640
+epoch 3: loss 0.2635 (pol 0.1789 val 0.0282)  MAIN-top1 66.8%  all-top1 69.9% (strict 69.2%)  top3 91.9%  190s
+    t0:67%(3392)  t1:76%(1385)  t4:71%(73)  t9:100%(57)
+    ep4 500/658 loss 0.2420
+epoch 4: loss 0.2424 (pol 0.1634 val 0.0263)  MAIN-top1 66.4%  all-top1 69.6% (strict 68.9%)  top3 91.8%  189s
+    t0:66%(3392)  t1:76%(1385)  t4:71%(73)  t9:100%(57)
+    ep5 500/658 loss 0.2306
+epoch 5: loss 0.2322 (pol 0.1554 val 0.0256)  MAIN-top1 66.5%  all-top1 69.7% (strict 69.0%)  top3 91.8%  190s
+    t0:67%(3392)  t1:76%(1385)  t4:71%(73)  t9:100%(57)
+
+BEST held-out top1: 70.0%  -> model/az/oger_valfix_best.pth
+VALFIX_DONE

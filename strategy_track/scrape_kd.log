@@ -1,0 +1,15 @@
+resolved 1/1 target teams:
+  @kdcyberdude (team 16561259)
+crawl 10: 0/1 resolved, queue 993
+crawl 20: 1/1 resolved, queue 4734
+  @kdcyberdude: sub 55415891 -> 30 fresh eps (team total 30)
+  @kdcyberdude: sub 55030014 -> 0 fresh eps (team total 30)
+  @kdcyberdude: sub 54794079 -> 0 fresh eps (team total 30)
+
+FRESH EPISODE TOTALS:
+  @kdcyberdude: 30
+
+@kdcyberdude: downloading 30 -> /Users/nickzwart/Desktop/PTCG-AI-Challenge/kd_fresh/_kdcyberdude
+  DONE @kdcyberdude: +30, had 0, fail 0
+
+All done.

@@ -1,0 +1,72 @@
+== DRAG value spread ==
+    pdiff -2: n=  382  value +0.0676
+    pdiff -1: n=  848  value +0.4329
+    pdiff +0: n= 2056  value +0.6289
+    pdiff +1: n=  600  value +0.6756
+    pdiff +2: n=  247  value +0.8179
+    pdiff +3: n=   38  value +0.8298
+    pdiff +5: n=   21  value +0.9293
+== GRIMM: graft (v12 value + kd policy, SEARCH=32) vs v12 ==
+  grimm_graft    vs v12: 49-50 =  49.5%  (N=99)
+== OGERPON: does search help now? ==
+General field gauntlet: N=60/opponent, 5 archetypes = 62.3% of the true meta (renormalised)
+
+===== my-agent/oger_vf16 =====
+  vs Grimmsnarl    25-35  =  41.7%   (meta 30.7%)
+  vs Alakazam      18-42  =  30.0%   (meta 17.8%)
+  vs Ogerpon       22-38  =  36.7%   (meta 8.8%)
+  vs M-Lucario     35-25  =  58.3%   (meta 3.8%)
+  vs Crustle       29-31  =  48.3%   (meta 1.2%)
+  FIELD-WEIGHTED SCORE: 38.8%
+
+===== my-agent/oger_vf1 =====
+  vs Grimmsnarl    42-18  =  70.0%   (meta 30.7%)
+  vs Alakazam      37-23  =  61.7%   (meta 17.8%)
+  vs Ogerpon       34-26  =  56.7%   (meta 8.8%)
+  vs M-Lucario     50-10  =  83.3%   (meta 3.8%)
+  vs Crustle       23-36  =  39.0%   (meta 1.2%)
+  FIELD-WEIGHTED SCORE: 66.0%
+
+===== my-agent/oger_pol =====
+  vs Grimmsnarl    36-24  =  60.0%   (meta 30.7%)
+  vs Alakazam      36-24  =  60.0%   (meta 17.8%)
+  vs M-Lucario     52-7   =  88.1%   (meta 3.8%)
+  vs Crustle       29-31  =  48.3%   (meta 1.2%)
+  FIELD-WEIGHTED SCORE: 61.7%
+
+=== RANKING ===
+   66.0%  my-agent/oger_vf1
+   61.7%  my-agent/oger_pol
+   38.8%  my-agent/oger_vf16
+== DRAGAPULT: does search help now? ==
+General field gauntlet: N=60/opponent, 5 archetypes = 62.3% of the true meta (renormalised)
+
+===== my-agent/drag_vf16 =====
+  vs Grimmsnarl     8-52  =  13.3%   (meta 30.7%)
+  vs Alakazam      29-31  =  48.3%   (meta 17.8%)
+  vs Ogerpon       12-48  =  20.0%   (meta 8.8%)
+  vs M-Lucario     37-23  =  61.7%   (meta 3.8%)
+  vs Crustle       15-45  =  25.0%   (meta 1.2%)
+  FIELD-WEIGHTED SCORE: 27.4%
+
+===== my-agent/drag_vf1 =====
+  vs Grimmsnarl    22-38  =  36.7%   (meta 30.7%)
+  vs Alakazam      56-4   =  93.3%   (meta 17.8%)
+  vs Ogerpon       29-31  =  48.3%   (meta 8.8%)
+  vs M-Lucario     56-4   =  93.3%   (meta 3.8%)
+  vs Crustle       42-18  =  70.0%   (meta 1.2%)
+  FIELD-WEIGHTED SCORE: 58.6%
+
+===== my-agent/drag_pol =====
+  vs Grimmsnarl    23-37  =  38.3%   (meta 30.7%)
+  vs Alakazam      50-10  =  83.3%   (meta 17.8%)
+  vs Ogerpon       22-38  =  36.7%   (meta 8.8%)
+  vs M-Lucario     53-7   =  88.3%   (meta 3.8%)
+  vs Crustle       45-15  =  75.0%   (meta 1.2%)
+  FIELD-WEIGHTED SCORE: 54.7%
+
+=== RANKING ===
+   58.6%  my-agent/drag_vf1
+   54.7%  my-agent/drag_pol
+   27.4%  my-agent/drag_vf16
+ALL_GATES_DONE

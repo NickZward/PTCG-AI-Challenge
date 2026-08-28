@@ -1,0 +1,58 @@
+loading ['model/az/imit_oger2.npz']
+  + imit_oger2.npz: 143108 decisions, players ['palsystem', 'Artalmaz31', 'takayosi', 'ANDPAD kaggler team', 'flg']...
+decoder feat=2 vocab=73883
+143108 decisions -> 140473 after filter (min_wr=0.0 wins_only=False main_only=False)
+2353 games detected -> held-out 80 games / 4933 decisions (disjoint from the 135540 training decisions)
+boosting players ['Dipam Chakraborty'] -> pids [9] x3.0
+boosting decisions vs Alakazam (idx 1) x3.0
+hashing candidate bags for tie groups...
+tie mask ready: 20249 extra credited candidates (0.14/decision)
+  [held-out baselines] n=4933  random=21.1%  always-0=37.6%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=135540 held=4933 epochs=10 bs=128
+    ep0 500/1058 loss 1.1696
+    ep0 1000/1058 loss 1.0882
+epoch 0: loss 1.0810 (pol 0.9263 val 0.0773)  MAIN-top1 54.8%  all-top1 58.3% (strict 57.6%)  top3 86.5%  246s
+    t0:55%(3289)  t1:64%(1486)  t4:64%(69)  t9:100%(66)
+    ep1 500/1058 loss 0.9326
+    ep1 1000/1058 loss 0.9201
+epoch 1: loss 0.9149 (pol 0.7966 val 0.0591)  MAIN-top1 58.7%  all-top1 61.9% (strict 61.2%)  top3 88.8%  228s
+    t0:59%(3289)  t1:67%(1486)  t4:67%(69)  t9:100%(66)
+    ep2 500/1058 loss 0.8184
+    ep2 1000/1058 loss 0.8108
+epoch 2: loss 0.8092 (pol 0.7162 val 0.0465)  MAIN-top1 57.5%  all-top1 61.4% (strict 60.7%)  top3 88.6%  214s
+    t0:58%(3289)  t1:67%(1486)  t4:72%(69)  t9:100%(66)
+    ep3 500/1058 loss 0.7134
+    ep3 1000/1058 loss 0.7153
+epoch 3: loss 0.7149 (pol 0.6396 val 0.0376)  MAIN-top1 58.6%  all-top1 62.6% (strict 61.9%)  top3 89.5%  213s
+    t0:59%(3289)  t1:69%(1486)  t4:75%(69)  t9:100%(66)
+    ep4 500/1058 loss 0.6157
+    ep4 1000/1058 loss 0.6193
+epoch 4: loss 0.6211 (pol 0.5579 val 0.0316)  MAIN-top1 60.5%  all-top1 63.8% (strict 63.0%)  top3 89.8%  214s
+    t0:61%(3289)  t1:69%(1486)  t4:62%(69)  t9:100%(66)
+    ep5 500/1058 loss 0.5228
+    ep5 1000/1058 loss 0.5198
+epoch 5: loss 0.5207 (pol 0.4658 val 0.0275)  MAIN-top1 60.3%  all-top1 63.9% (strict 63.1%)  top3 89.6%  215s
+    t0:60%(3289)  t1:70%(1486)  t4:72%(69)  t9:100%(66)
+    ep6 500/1058 loss 0.4287
+    ep6 1000/1058 loss 0.4270
+epoch 6: loss 0.4264 (pol 0.3776 val 0.0244)  MAIN-top1 60.0%  all-top1 63.2% (strict 62.5%)  top3 89.6%  233s
+    t0:60%(3289)  t1:68%(1486)  t4:70%(69)  t9:100%(66)
+    ep7 500/1058 loss 0.3484
+    ep7 1000/1058 loss 0.3469
+epoch 7: loss 0.3463 (pol 0.3020 val 0.0222)  MAIN-top1 59.8%  all-top1 62.9% (strict 62.2%)  top3 89.4%  223s
+    t0:60%(3289)  t1:68%(1486)  t4:65%(69)  t9:100%(66)
+    ep8 500/1058 loss 0.2912
+    ep8 1000/1058 loss 0.2919
+epoch 8: loss 0.2917 (pol 0.2500 val 0.0209)  MAIN-top1 59.5%  all-top1 62.8% (strict 62.0%)  top3 89.4%  216s
+    t0:60%(3289)  t1:68%(1486)  t4:67%(69)  t9:100%(66)
+    ep9 500/1058 loss 0.2656
+    ep9 1000/1058 loss 0.2660
+epoch 9: loss 0.2662 (pol 0.2255 val 0.0203)  MAIN-top1 59.0%  all-top1 62.3% (strict 61.5%)  top3 89.3%  213s
+    t0:59%(3289)  t1:67%(1486)  t4:67%(69)  t9:100%(66)
+
+BEST held-out top1: 63.9%  -> model/az/oger_v5_best.pth
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/oger_v5_np.npz (28MB fp16)
+checked 120 real decisions over 1 games: argmax agreement 120/120 = 100.0%  max |value diff| 0.0005  max |logit diff| 0.0062
+PASS

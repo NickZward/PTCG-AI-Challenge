@@ -1,0 +1,37 @@
+146079 samples, vocab=353, align_rate=100.0000%
+split: 131629 train / 14450 held-out (1800/200 games)
+device=mps params=3,654,625 encoder=fine-tuned lr=0.0001
+  ep0 50/257 train_nll=0.3194
+  ep0 100/257 train_nll=0.1909
+  ep0 150/257 train_nll=0.1470
+  ep0 200/257 train_nll=0.1249
+  ep0 250/257 train_nll=0.1114
+epoch 0: train_nll=0.1099  held_nll=0.0576
+  saved model/az/belief_v0.pth
+  ep1 50/257 train_nll=0.0572
+  ep1 100/257 train_nll=0.0566
+  ep1 150/257 train_nll=0.0556
+  ep1 200/257 train_nll=0.0545
+  ep1 250/257 train_nll=0.0534
+epoch 1: train_nll=0.0532  held_nll=0.0475
+  saved model/az/belief_v0.pth
+  ep2 50/257 train_nll=0.0467
+  ep2 100/257 train_nll=0.0455
+  ep2 150/257 train_nll=0.0444
+  ep2 200/257 train_nll=0.0435
+  ep2 250/257 train_nll=0.0426
+epoch 2: train_nll=0.0425  held_nll=0.0389
+  saved model/az/belief_v0.pth
+
+==== held-out metrics (model vs archetype-average baseline) ====
+  [belief_v0 all  ] n= 14450  presence-AUC=0.9181 (87 cards)  top-H overlap=0.3827
+  [belief_v0 T1-6 ] n=  7664  presence-AUC=0.9010 (65 cards)  top-H overlap=0.3765
+  [belief_v0 T7+  ] n=  6786  presence-AUC=0.9196 (68 cards)  top-H overlap=0.3898
+  [arch-base all  ] n= 14450  presence-AUC=0.9206 (87 cards)  top-H overlap=0.3853
+  [arch-base T1-6 ] n=  7664  presence-AUC=0.9141 (65 cards)  top-H overlap=0.3974
+  [arch-base T7+  ] n=  6786  presence-AUC=0.9045 (68 cards)  top-H overlap=0.3716
+
+headline: model must beat baseline on both metrics
+  all  : AUC 0.9181 vs 0.9206 (-0.0025)   overlap 0.3827 vs 0.3853 (-0.0026)
+  T1-6 : AUC 0.9010 vs 0.9141 (-0.0132)   overlap 0.3765 vs 0.3974 (-0.0209)
+  T7+  : AUC 0.9196 vs 0.9045 (+0.0152)   overlap 0.3898 vs 0.3716 (+0.0182)

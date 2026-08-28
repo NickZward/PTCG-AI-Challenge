@@ -1,0 +1,78 @@
+loading ['model/az/imit_drag2.npz']
+  + imit_drag2.npz: 276378 decisions, players ['Petit Canard', 'Kh0a', 'THIRD PTCG Club', 'Dipam Chakraborty', 'Pokemon Siuuuu']...
+decoder feat=2 vocab=73883
+276378 decisions -> 275166 after filter (min_wr=0.0 wins_only=False main_only=False)
+2677 games detected -> held-out 50 games / 5024 decisions (disjoint from the 270142 training decisions)
+boosting players ['Sixth Sense'] -> pids [7] x3.0
+hashing candidate bags for tie groups...
+  tie-hash 200000/276378
+tie mask ready: 20326 extra credited candidates (0.07/decision)
+  [held-out baselines] n=5024  random=22.5%  always-0=28.5%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=270142 held=5024 epochs=10 bs=128
+    ep0 500/2110 loss 1.6790
+    ep0 1000/2110 loss 1.5676
+    ep0 1500/2110 loss 1.4977
+    ep0 2000/2110 loss 1.4482
+epoch 0: loss 1.4390 (pol 1.2392 val 0.0999)  MAIN-top1 50.0%  all-top1 58.0% (strict 57.5%)  top3 88.3%  423s
+    t0:50%(2494)  t1:64%(2325)  t4:53%(59)  t8:96%(103)  t9:100%(43)
+    ep1 500/2110 loss 1.2367
+    ep1 1000/2110 loss 1.2183
+    ep1 1500/2110 loss 1.2014
+    ep1 2000/2110 loss 1.1823
+epoch 1: loss 1.1800 (pol 1.0231 val 0.0785)  MAIN-top1 56.4%  all-top1 62.8% (strict 62.4%)  top3 90.7%  441s
+    t0:56%(2494)  t1:67%(2325)  t4:61%(59)  t8:96%(103)  t9:100%(43)
+    ep2 500/2110 loss 1.0606
+    ep2 1000/2110 loss 1.0483
+    ep2 1500/2110 loss 1.0448
+    ep2 2000/2110 loss 1.0370
+epoch 2: loss 1.0351 (pol 0.9161 val 0.0595)  MAIN-top1 57.7%  all-top1 64.2% (strict 63.6%)  top3 90.9%  555s
+    t0:58%(2494)  t1:69%(2325)  t4:56%(59)  t8:97%(103)  t9:100%(43)
+    ep3 500/2110 loss 0.9328
+    ep3 1000/2110 loss 0.9312
+    ep3 1500/2110 loss 0.9306
+    ep3 2000/2110 loss 0.9254
+epoch 3: loss 0.9246 (pol 0.8299 val 0.0473)  MAIN-top1 57.7%  all-top1 64.3% (strict 63.8%)  top3 91.7%  534s
+    t0:58%(2494)  t1:69%(2325)  t4:59%(59)  t8:97%(103)  t9:100%(43)
+    ep4 500/2110 loss 0.8234
+    ep4 1000/2110 loss 0.8240
+    ep4 1500/2110 loss 0.8241
+    ep4 2000/2110 loss 0.8240
+epoch 4: loss 0.8235 (pol 0.7462 val 0.0387)  MAIN-top1 58.2%  all-top1 64.8% (strict 64.3%)  top3 91.8%  607s
+    t0:58%(2494)  t1:70%(2325)  t4:63%(59)  t8:97%(103)  t9:100%(43)
+    ep5 500/2110 loss 0.7038
+    ep5 1000/2110 loss 0.7103
+    ep5 1500/2110 loss 0.7148
+    ep5 2000/2110 loss 0.7153
+epoch 5: loss 0.7154 (pol 0.6503 val 0.0325)  MAIN-top1 58.4%  all-top1 64.4% (strict 63.8%)  top3 91.1%  522s
+    t0:58%(2494)  t1:69%(2325)  t4:56%(59)  t8:97%(103)  t9:100%(43)
+    ep6 500/2110 loss 0.6035
+    ep6 1000/2110 loss 0.6072
+    ep6 1500/2110 loss 0.6092
+    ep6 2000/2110 loss 0.6089
+epoch 6: loss 0.6092 (pol 0.5528 val 0.0282)  MAIN-top1 57.5%  all-top1 64.2% (strict 63.6%)  top3 91.4%  480s
+    t0:58%(2494)  t1:70%(2325)  t4:49%(59)  t8:97%(103)  t9:100%(43)
+    ep7 500/2110 loss 0.5078
+    ep7 1000/2110 loss 0.5126
+    ep7 1500/2110 loss 0.5144
+    ep7 2000/2110 loss 0.5123
+epoch 7: loss 0.5125 (pol 0.4621 val 0.0252)  MAIN-top1 58.5%  all-top1 64.8% (strict 64.3%)  top3 91.5%  466s
+    t0:58%(2494)  t1:70%(2325)  t4:49%(59)  t8:97%(103)  t9:100%(43)
+    ep8 500/2110 loss 0.4354
+    ep8 1000/2110 loss 0.4377
+    ep8 1500/2110 loss 0.4406
+    ep8 2000/2110 loss 0.4408
+epoch 8: loss 0.4410 (pol 0.3942 val 0.0234)  MAIN-top1 56.9%  all-top1 64.3% (strict 63.7%)  top3 91.2%  471s
+    t0:57%(2494)  t1:70%(2325)  t4:54%(59)  t8:97%(103)  t9:100%(43)
+    ep9 500/2110 loss 0.4037
+    ep9 1000/2110 loss 0.4014
+    ep9 1500/2110 loss 0.4027
+    ep9 2000/2110 loss 0.4025
+epoch 9: loss 0.4030 (pol 0.3577 val 0.0227)  MAIN-top1 56.4%  all-top1 64.0% (strict 63.3%)  top3 91.2%  436s
+    t0:56%(2494)  t1:70%(2325)  t4:53%(59)  t8:97%(103)  t9:100%(43)
+
+BEST held-out top1: 64.8%  -> model/az/drag_v4_best.pth
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/drag_v4_np.npz (28MB fp16)
+checked 120 real decisions over 1 games: argmax agreement 120/120 = 100.0%  max |value diff| 0.0006  max |logit diff| 0.0170
+PASS

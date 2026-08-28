@@ -1,0 +1,27 @@
+loading ['model/az/imit_drag_elite.npz']
+  + imit_drag_elite.npz: 15066 decisions, players ['Dipam Chakraborty']
+decoder feat=2 vocab=73883
+15066 decisions -> 15006 after filter (min_wr=0.0 wins_only=False main_only=False)
+137 games detected -> held-out 9 games / 984 decisions (disjoint from the 14022 training decisions)
+hashing candidate bags for tie groups...
+tie mask ready: 1015 extra credited candidates (0.07/decision)
+  [held-out baselines] n=984  random=22.8%  always-0=33.4%
+initialized from model/az/drag_v1_best.pth
+device=mps  params=13,859,458  objective=softmax CE
+
+train=14022 held=984 epochs=6 bs=128
+epoch 0: loss 1.0245 (pol 1.0245 val 0.0003)  MAIN-top1 76.7%  all-top1 77.5% (strict 77.5%)  top3 97.7%  34s
+    t0:77%(450)  t1:77%(495)  t8:100%(26)
+epoch 1: loss 0.9016 (pol 0.9015 val 0.0003)  MAIN-top1 75.6%  all-top1 76.8% (strict 76.8%)  top3 97.6%  31s
+    t0:76%(450)  t1:76%(495)  t8:100%(26)
+epoch 2: loss 0.7796 (pol 0.7795 val 0.0003)  MAIN-top1 77.1%  all-top1 77.5% (strict 77.5%)  top3 97.2%  31s
+    t0:77%(450)  t1:76%(495)  t8:100%(26)
+epoch 3: loss 0.6754 (pol 0.6753 val 0.0003)  MAIN-top1 76.7%  all-top1 77.1% (strict 77.1%)  top3 97.3%  31s
+    t0:77%(450)  t1:76%(495)  t8:100%(26)
+epoch 4: loss 0.6033 (pol 0.6032 val 0.0003)  MAIN-top1 76.4%  all-top1 76.9% (strict 76.9%)  top3 97.3%  31s
+    t0:76%(450)  t1:76%(495)  t8:100%(26)
+epoch 5: loss 0.5667 (pol 0.5666 val 0.0003)  MAIN-top1 76.2%  all-top1 76.6% (strict 76.6%)  top3 97.3%  31s
+    t0:76%(450)  t1:75%(495)  t8:100%(26)
+
+BEST held-out top1: 77.5%  -> model/az/drag_v2elite_best.pth
+D2_DONE

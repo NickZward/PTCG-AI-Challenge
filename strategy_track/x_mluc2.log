@@ -1,0 +1,22 @@
+encoder your_deck <- luca_mluc_deck.csv (60 cards)
+1371 games / 25 players / cap=64 main_only=False feat=2
+  250/1371 games -> 15604 decisions
+  500/1371 games -> 30937 decisions
+  750/1371 games -> 47396 decisions
+  1000/1371 games -> 63501 decisions
+  1250/1371 games -> 79562 decisions
+
+DONE: 1371 games -> 87396 decisions -> model/az/imit_mluc2.npz (143MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                  111490  (91.9% of drops)
+  trivial_single_option                            7975  ( 6.6% of drops)
+  no_select_or_action                              1399  ( 1.2% of drops)
+  empty_choice                                      262  ( 0.2% of drops)
+  target_not_enumerated_type1                       207  ( 0.2% of drops)
+  target_not_enumerated_type2                         5  ( 0.0% of drops)
+  TOTAL DROPPED                                  121338   kept 87396 (41.9% of all decisions)
+
+kept by select type: {0: 52377, 1: 32055, 9: 1790, 4: 763, 8: 324, 5: 85, 2: 2}
+candidates: mean 7.8 median 6 p90 16 max 64
+target index: mean 2.84  frac==0 32.0%  random-guess top1 21.2%

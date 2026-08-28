@@ -1,0 +1,42 @@
+loading ['model/az/imit_mluc2.npz']
+  + imit_mluc2.npz: 87396 decisions, players ['Majkel1337', 'M Sato', '李秉叡（ntumlnoob）', 'Abhyuday', 'LiamK']...
+decoder feat=2 vocab=73883
+87396 decisions -> 85616 after filter (min_wr=0.0 wins_only=False main_only=False)
+1399 games detected -> held-out 81 games / 4934 decisions (disjoint from the 80682 training decisions)
+boosting players ['Luca'] -> pids [24] x3.0
+hashing candidate bags for tie groups...
+tie mask ready: 18792 extra credited candidates (0.22/decision)
+  [held-out baselines] n=4934  random=19.5%  always-0=29.7%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=80682 held=4934 epochs=8 bs=128
+    ep0 500/630 loss 1.2180
+epoch 0: loss 1.1894 (pol 1.0373 val 0.0761)  MAIN-top1 52.8%  all-top1 57.9% (strict 57.1%)  top3 85.7%  168s
+    t0:53%(2981)  t1:63%(1779)  t4:96%(49)  t9:99%(112)
+    ep1 500/630 loss 0.9695
+epoch 1: loss 0.9597 (pol 0.8365 val 0.0616)  MAIN-top1 57.4%  all-top1 62.9% (strict 62.0%)  top3 89.7%  134s
+    t0:57%(2981)  t1:69%(1779)  t4:98%(49)  t9:99%(112)
+    ep2 500/630 loss 0.8558
+epoch 2: loss 0.8537 (pol 0.7472 val 0.0533)  MAIN-top1 59.2%  all-top1 64.5% (strict 63.6%)  top3 90.5%  135s
+    t0:59%(2981)  t1:70%(1779)  t4:96%(49)  t9:99%(112)
+    ep3 500/630 loss 0.7679
+epoch 3: loss 0.7666 (pol 0.6741 val 0.0463)  MAIN-top1 59.0%  all-top1 64.3% (strict 63.4%)  top3 90.6%  135s
+    t0:59%(2981)  t1:70%(1779)  t4:96%(49)  t9:99%(112)
+    ep4 500/630 loss 0.6717
+epoch 4: loss 0.6754 (pol 0.5932 val 0.0411)  MAIN-top1 60.2%  all-top1 65.2% (strict 64.3%)  top3 91.3%  135s
+    t0:60%(2981)  t1:70%(1779)  t4:96%(49)  t9:99%(112)
+    ep5 500/630 loss 0.5829
+epoch 5: loss 0.5831 (pol 0.5076 val 0.0378)  MAIN-top1 61.0%  all-top1 65.6% (strict 64.6%)  top3 91.1%  135s
+    t0:61%(2981)  t1:70%(1779)  t4:96%(49)  t9:99%(112)
+    ep6 500/630 loss 0.5079
+epoch 6: loss 0.5064 (pol 0.4358 val 0.0353)  MAIN-top1 61.0%  all-top1 65.3% (strict 64.3%)  top3 90.8%  135s
+    t0:61%(2981)  t1:69%(1779)  t4:96%(49)  t9:99%(112)
+    ep7 500/630 loss 0.4634
+epoch 7: loss 0.4646 (pol 0.3957 val 0.0344)  MAIN-top1 60.4%  all-top1 64.7% (strict 63.8%)  top3 90.9%  134s
+    t0:60%(2981)  t1:69%(1779)  t4:96%(49)  t9:99%(112)
+
+BEST held-out top1: 65.6%  -> model/az/mluc_v2_best.pth
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/mluc_v2_np.npz (28MB fp16)
+  real disagreement: torch 2 (1.4692) vs np 0 (1.4699), torch gap 0.00000
+checked 120 real decisions over 1 games: argmax agreement 119/120 = 99.2%  max |value diff| 0.0010  max |logit diff| 0.0050
+FAIL: numpy port disagrees with torch — do not ship

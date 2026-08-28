@@ -1,0 +1,26 @@
+encoder your_deck <- sixth_drag_deck.csv (60 cards)
+2528 games / 35 players / cap=64 main_only=False feat=2
+  250/2528 games -> 27010 decisions
+  500/2528 games -> 53421 decisions
+  750/2528 games -> 80173 decisions
+  1000/2528 games -> 107376 decisions
+  1250/2528 games -> 134491 decisions
+  1500/2528 games -> 161395 decisions
+  1750/2528 games -> 189977 decisions
+  2000/2528 games -> 217469 decisions
+  2250/2528 games -> 244790 decisions
+  2500/2528 games -> 273525 decisions
+
+DONE: 2528 games -> 276378 decisions -> model/az/imit_drag2.npz (457MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                  211821  (90.0% of drops)
+  trivial_single_option                           19927  ( 8.5% of drops)
+  no_select_or_action                              2677  ( 1.1% of drops)
+  empty_choice                                      483  ( 0.2% of drops)
+  target_not_enumerated_type1                       402  ( 0.2% of drops)
+  TOTAL DROPPED                                  235310   kept 276378 (54.0% of all decisions)
+
+kept by select type: {0: 136279, 1: 128934, 8: 5756, 4: 2929, 9: 2345, 5: 94, 7: 41}
+candidates: mean 7.2 median 5 p90 15 max 64
+target index: mean 2.99  frac==0 28.5%  random-guess top1 22.9%

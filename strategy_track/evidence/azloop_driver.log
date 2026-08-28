@@ -1,0 +1,439 @@
+[08-06 10:27] === AZ DRIVER START (resuming at iter 0) ===
+[08-06 10:27] EXPORT FAIL: <module>
+    arch = json.load(open(os.path.join(ROOT, "model/az", f"{name}_arch.json")))
+                     ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/azloop_best_arch.json'
+
+[08-06 10:28] === AZ DRIVER START (resuming at iter 0) ===
+[08-06 10:28] iter 1: generating 3x350 games...
+[08-07 06:22] iter 1: training on 2 npz files...
+[08-07 06:25] iter 1 train tail:   + iter1_w1.npz: 60911 decisions, players ['selfplay']
+  + iter1_w2.npz: 30258 decisions, players ['selfplay']
+train: 91169 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.820  auc_T1-6=0.730  auc_T7-10=0.863  auc_T11+=0.887  agree_ref=1.000
+epoch 0: loss 0.1712 (val 0.1599 kl 0.0056)  REAL: auc_all=0.830  auc_T1-6=0.740  auc_T7-10=0.874  auc_T11+=0.904  agree_ref=0.970  168s
+  -> saved (auc 0.830)
+BEST real-ladder value AUC: 0.830 (baseline 0.820)
+
+[08-07 06:25] iter 1: ACCEPTED -> best.pth updated
+[08-07 06:26] EXPORT FAIL: del/az", f"{name}_arch.json")))
+  File "/opt/anaconda3/lib/python3.13/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+                 ~~~~~~~^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80 in position 64: invalid start byte
+
+[08-07 06:26] iter 1: gating vs v12 (N=45, idle)...
+[manual] iter 1 TRUE GATE: azloop_cand vs grimm_v12_live 48.9% (parity; AUC gain not yet converting; no regression)
+[08-07 06:36] === AZ DRIVER START (resuming at iter 1) ===
+[08-07 06:36] iter 2: generating 3x350 games...
+[08-08 09:05] === AZ DRIVER START (resuming at iter 1) ===
+[08-08 09:05] iter 2: generating 3x350 games...
+[08-08 10:27] iter 2: training on 5 npz files...
+[08-08 10:34] iter 2 train tail: decisions, players ['selfplay']
+  + iter2_w1.npz: 59443 decisions, players ['selfplay']
+  + iter2_w2.npz: 29480 decisions, players ['selfplay']
+  + iter2_w3.npz: 29166 decisions, players ['selfplay']
+train: 209258 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.830  auc_T1-6=0.740  auc_T7-10=0.874  auc_T11+=0.904  agree_ref=1.000
+epoch 0: loss 0.1649 (val 0.1557 kl 0.0046)  REAL: auc_all=0.826  auc_T1-6=0.730  auc_T7-10=0.862  auc_T11+=0.911  agree_ref=0.969  409s
+BEST real-ladder value AUC: 0.830 (baseline 0.830)
+
+[08-08 10:34] iter 2: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-08 10:34] iter 3: generating 3x350 games...
+[08-08 11:20] === AZ DRIVER START (resuming at iter 2) ===
+[08-08 11:20] iter 3: generating 3x350 games...
+[08-08 12:23] iter 3: training on 8 npz files...
+[08-08 12:34] iter 3 train tail: decisions, players ['selfplay']
+  + iter3_w1.npz: 59563 decisions, players ['selfplay']
+  + iter3_w2.npz: 29911 decisions, players ['selfplay']
+  + iter3_w3.npz: 18727 decisions, players ['selfplay']
+train: 317459 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.830  auc_T1-6=0.740  auc_T7-10=0.874  auc_T11+=0.904  agree_ref=1.000
+epoch 0: loss 0.1638 (val 0.1542 kl 0.0048)  REAL: auc_all=0.824  auc_T1-6=0.733  auc_T7-10=0.870  auc_T11+=0.912  agree_ref=0.968  612s
+BEST real-ladder value AUC: 0.830 (baseline 0.830)
+
+[08-08 12:34] iter 3: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-08 12:34] iter 4: generating 3x350 games...
+[08-08 12:34] === AZ DRIVER START (resuming at iter 3) ===
+[08-08 12:34] iter 4: generating 3x350 games...
+[08-08 13:36] iter 4: training on 11 npz files...
+[08-08 13:49] iter 4 train tail: decisions, players ['selfplay']
+  + iter4_w1.npz: 59964 decisions, players ['selfplay']
+  + iter4_w2.npz: 29372 decisions, players ['selfplay']
+  + iter4_w3.npz: 17908 decisions, players ['selfplay']
+train: 424703 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.830  auc_T1-6=0.740  auc_T7-10=0.874  auc_T11+=0.904  agree_ref=1.000
+epoch 0: loss 0.1687 (val 0.1587 kl 0.0050)  REAL: auc_all=0.823  auc_T1-6=0.734  auc_T7-10=0.870  auc_T11+=0.915  agree_ref=0.969  810s
+BEST real-ladder value AUC: 0.830 (baseline 0.830)
+
+[08-08 13:49] iter 4: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-08 13:50] iter 5: generating 3x350 games...
+[08-08 14:51] iter 5: training on 14 npz files...
+[08-08 15:08] iter 5 train tail: ecisions, players ['selfplay']
+  + iter5_w1.npz: 59245 decisions, players ['selfplay']
+  + iter5_w2.npz: 29926 decisions, players ['selfplay']
+  + iter5_w3.npz: 18280 decisions, players ['selfplay']
+train: 532154 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.830  auc_T1-6=0.740  auc_T7-10=0.874  auc_T11+=0.904  agree_ref=1.000
+epoch 0: loss 0.1689 (val 0.1586 kl 0.0052)  REAL: auc_all=0.810  auc_T1-6=0.728  auc_T7-10=0.858  auc_T11+=0.902  agree_ref=0.965  1013s
+BEST real-ladder value AUC: 0.830 (baseline 0.830)
+
+[08-08 15:08] iter 5: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-08 15:08] iter 6: generating 3x350 games...
+[08-08 16:09] iter 6: training on 17 npz files...
+[08-08 16:30] iter 6 train tail: ecisions, players ['selfplay']
+  + iter6_w1.npz: 58970 decisions, players ['selfplay']
+  + iter6_w2.npz: 29984 decisions, players ['selfplay']
+  + iter6_w3.npz: 17935 decisions, players ['selfplay']
+train: 639043 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.830  auc_T1-6=0.740  auc_T7-10=0.874  auc_T11+=0.904  agree_ref=1.000
+epoch 0: loss 0.1700 (val 0.1594 kl 0.0053)  REAL: auc_all=0.808  auc_T1-6=0.725  auc_T7-10=0.865  auc_T11+=0.905  agree_ref=0.965  1215s
+BEST real-ladder value AUC: 0.830 (baseline 0.830)
+
+[08-08 16:30] iter 6: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-08 16:30] iter 7: generating 3x350 games...
+[08-08 17:32] iter 7: training on 20 npz files...
+[08-08 17:56] iter 7 train tail: ecisions, players ['selfplay']
+  + iter7_w1.npz: 59556 decisions, players ['selfplay']
+  + iter7_w2.npz: 29810 decisions, players ['selfplay']
+  + iter7_w3.npz: 17681 decisions, players ['selfplay']
+train: 746090 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.830  auc_T1-6=0.740  auc_T7-10=0.874  auc_T11+=0.904  agree_ref=1.000
+epoch 0: loss 0.1690 (val 0.1582 kl 0.0054)  REAL: auc_all=0.813  auc_T1-6=0.730  auc_T7-10=0.868  auc_T11+=0.905  agree_ref=0.963  1417s
+BEST real-ladder value AUC: 0.830 (baseline 0.830)
+
+[08-08 17:56] iter 7: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-08 17:56] iter 8: generating 3x350 games...
+[08-08 17:56] === AZ DRIVER START (resuming at iter 7) ===
+[08-08 17:56] iter 8: generating 3x350 games...
+[08-08 18:58] iter 8: training on 23 npz files...
+[08-08 19:07] iter 8 train tail: z: 59463 decisions, players ['selfplay']
+  + iter8_w2.npz: 30061 decisions, players ['selfplay']
+  + iter8_w3.npz: 18413 decisions, players ['selfplay']
+train: 854027 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.830  auc_T1-6=0.740  auc_T7-10=0.874  auc_T11+=0.904  agree_ref=1.000
+--min-turn=9: training on 302711/854027 states
+epoch 0: loss 0.1097 (val 0.0983 kl 0.0057)  REAL: auc_all=0.832  auc_T1-6=0.736  auc_T7-10=0.873  auc_T11+=0.921  agree_ref=0.969  514s
+BEST real-ladder value AUC: 0.830 (baseline 0.830)
+
+[08-08 19:07] iter 8: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-08 19:07] iter 9: generating 3x350 games...
+[08-08 20:13] iter 9: training on 26 npz files...
+[08-08 20:23] iter 9 train tail: yers ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 961123 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.830  auc_T1-6=0.740  auc_T7-10=0.874  auc_T11+=0.904  agree_ref=1.000
+--min-turn=9: training on 340378/961123 states
+epoch 0: loss 0.1116 (val 0.1002 kl 0.0057)  REAL: auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=0.972  579s
+  -> saved (auc 0.831)
+BEST real-ladder value AUC: 0.831 (baseline 0.830)
+
+[08-08 20:23] iter 9: ACCEPTED -> best.pth updated
+[08-08 20:23] iter 9: gating vs v12 (N=45, idle)...
+[08-08 20:34] iter 9 OGERPON CELL: azloop_cand vs ogerpon_v1       40.0% (v12 baseline 37.8%)
+[08-08 20:34] iter 9 GATE: azloop_cand vs grimm_v12_live   51.1%
+[08-08 20:34] iter 10: generating 3x350 games...
+[08-08 21:40] iter 10: training on 29 npz files...
+[08-08 21:52] iter 10 train tail:  58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 1069206 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 378661/1069206 states
+epoch 0: loss 0.0927 (val 0.0836 kl 0.0045)  REAL: auc_all=0.816  auc_T1-6=0.728  auc_T7-10=0.866  auc_T11+=0.908  agree_ref=0.974  696s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-08 21:52] iter 10: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-08 21:52] iter 11: generating 3x350 games...
+[08-08 22:57] iter 11: training on 32 npz files...
+[08-08 23:10] iter 11 train tail:  58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 1178350 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 417750/1178350 states
+epoch 0: loss 0.0948 (val 0.0856 kl 0.0046)  REAL: auc_all=0.814  auc_T1-6=0.722  auc_T7-10=0.861  auc_T11+=0.903  agree_ref=0.973  735s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-08 23:10] iter 11: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-08 23:10] iter 12: generating 3x350 games...
+[08-09 00:13] iter 12: training on 35 npz files...
+[08-09 00:26] iter 12 train tail:  58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 1286142 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 456023/1286142 states
+epoch 0: loss 0.0963 (val 0.0870 kl 0.0046)  REAL: auc_all=0.818  auc_T1-6=0.732  auc_T7-10=0.870  auc_T11+=0.905  agree_ref=0.974  767s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-09 00:26] iter 12: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-09 00:26] iter 13: generating 3x350 games...
+[08-09 01:27] iter 13: training on 38 npz files...
+[08-09 01:42] iter 13 train tail:  58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 1393896 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 493386/1393896 states
+epoch 0: loss 0.0973 (val 0.0879 kl 0.0047)  REAL: auc_all=0.821  auc_T1-6=0.735  auc_T7-10=0.871  auc_T11+=0.909  agree_ref=0.971  828s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-09 01:42] iter 13: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-09 01:42] iter 14: generating 3x350 games...
+[08-09 02:42] iter 14: training on 41 npz files...
+[08-09 02:58] iter 14 train tail:  58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 1502539 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 532625/1502539 states
+epoch 0: loss 0.0979 (val 0.0884 kl 0.0048)  REAL: auc_all=0.820  auc_T1-6=0.732  auc_T7-10=0.875  auc_T11+=0.908  agree_ref=0.972  899s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-09 02:58] iter 14: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-09 02:58] iter 15: generating 3x350 games...
+[08-09 03:59] iter 15: training on 44 npz files...
+[08-09 04:15] iter 15 train tail:  58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 1609435 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 570793/1609435 states
+epoch 0: loss 0.0983 (val 0.0887 kl 0.0048)  REAL: auc_all=0.822  auc_T1-6=0.733  auc_T7-10=0.875  auc_T11+=0.910  agree_ref=0.972  960s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-09 04:15] iter 15: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-09 04:15] iter 16: generating 3x350 games...
+[08-09 05:18] iter 16: training on 47 npz files...
+[08-09 05:35] iter 16 train tail: 58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 1718055 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 609786/1718055 states
+epoch 0: loss 0.0991 (val 0.0894 kl 0.0048)  REAL: auc_all=0.825  auc_T1-6=0.733  auc_T7-10=0.877  auc_T11+=0.914  agree_ref=0.971  1022s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-09 05:35] iter 16: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-09 05:35] iter 17: generating 3x350 games...
+[08-09 06:37] iter 17: training on 50 npz files...
+[08-09 06:56] iter 17 train tail: 58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 1826066 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 647182/1826066 states
+epoch 0: loss 0.0998 (val 0.0901 kl 0.0049)  REAL: auc_all=0.824  auc_T1-6=0.735  auc_T7-10=0.881  auc_T11+=0.914  agree_ref=0.971  1080s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-09 06:56] iter 17: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-09 06:56] iter 18: generating 3x350 games...
+[08-09 07:57] iter 18: training on 53 npz files...
+[08-09 08:17] iter 18 train tail: 58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 1934054 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 685531/1934054 states
+epoch 0: loss 0.1000 (val 0.0903 kl 0.0048)  REAL: auc_all=0.827  auc_T1-6=0.739  auc_T7-10=0.882  auc_T11+=0.919  agree_ref=0.971  1149s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-09 08:17] iter 18: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-09 08:17] iter 19: generating 3x350 games...
+[08-09 09:18] iter 19: training on 56 npz files...
+[08-09 09:39] iter 19 train tail: 58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 2041834 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 722946/2041834 states
+epoch 0: loss 0.1003 (val 0.0905 kl 0.0049)  REAL: auc_all=0.827  auc_T1-6=0.742  auc_T7-10=0.885  auc_T11+=0.914  agree_ref=0.971  1224s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-09 09:39] iter 19: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-09 09:39] iter 20: generating 3x350 games...
+[08-09 10:43] iter 20: training on 59 npz files...
+[08-09 11:05] iter 20 train tail: 58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 2150145 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 761147/2150145 states
+epoch 0: loss 0.1004 (val 0.0906 kl 0.0049)  REAL: auc_all=0.828  auc_T1-6=0.740  auc_T7-10=0.882  auc_T11+=0.919  agree_ref=0.971  1277s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-09 11:05] iter 20: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-09 11:05] iter 21: generating 3x350 games...
+[08-09 12:08] iter 21: training on 62 npz files...
+[08-09 12:31] iter 21 train tail: 58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 2259223 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 800863/2259223 states
+epoch 0: loss 0.1009 (val 0.0910 kl 0.0050)  REAL: auc_all=0.826  auc_T1-6=0.741  auc_T7-10=0.881  auc_T11+=0.918  agree_ref=0.970  1299s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-09 12:31] iter 21: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-09 12:31] iter 22: generating 3x350 games...
+[08-09 12:35] === AZ DRIVER START (resuming at iter 21) ===
+[08-09 12:35] iter 22: generating 3x350 games...
+[08-09 13:35] iter 22: training on 65 npz files...
+[08-09 13:59] iter 22 train tail: 58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 2367618 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 839594/2367618 states
+epoch 0: loss 0.1008 (val 0.0909 kl 0.0050)  REAL: auc_all=0.824  auc_T1-6=0.733  auc_T7-10=0.877  auc_T11+=0.920  agree_ref=0.971  1408s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-09 13:59] iter 22: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-09 13:59] iter 23: generating 3x350 games...
+[08-09 15:02] iter 23: training on 68 npz files...
+[08-09 15:27] iter 23 train tail: 58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 2475415 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 877280/2475415 states
+epoch 0: loss 0.1011 (val 0.0911 kl 0.0050)  REAL: auc_all=0.827  auc_T1-6=0.737  auc_T7-10=0.877  auc_T11+=0.917  agree_ref=0.972  1470s
+BEST real-ladder value AUC: 0.831 (baseline 0.831)
+
+[08-09 15:27] iter 23: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-09 15:27] iter 24: generating 3x350 games...
+[08-09 15:39] === AZ DRIVER START (resuming at iter 23) ===
+[08-09 15:39] iter 24: generating 3x350 games...
+[08-09 16:37] === AZ DRIVER START (resuming at iter 23) ===
+[08-09 16:37] iter 24: generating 3x350 games...
+[08-09 17:35] iter 24: training on 71 npz files...
+[08-09 18:06] === AZ DRIVER START (resuming at iter 24) ===
+[08-09 18:06] iter 25: generating 3x350 games...
+[08-09 18:48] iter 25: training on 74 npz files...
+[08-09 19:09] iter 25 train tail: s ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 2689783 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.831  auc_T1-6=0.735  auc_T7-10=0.873  auc_T11+=0.919  agree_ref=1.000
+--min-turn=9: training on 953194/2689783 states
+epoch 0: loss 0.1012 (val 0.0911 kl 0.0050)  REAL: auc_all=0.834  auc_T1-6=0.742  auc_T7-10=0.883  auc_T11+=0.921  agree_ref=0.970  1233s
+  -> saved (auc 0.834)
+BEST real-ladder value AUC: 0.834 (baseline 0.831)
+
+[08-09 19:09] iter 25: ACCEPTED -> best.pth updated
+[08-09 19:09] iter 25: gating vs v12 (N=45, idle)...
+[08-09 19:19] iter 25 OGERPON CELL: azloop_cand vs ogerpon_v1       57.8% (v12 baseline 37.8%)
+[08-09 19:19] iter 25 GATE: azloop_cand vs grimm_v12_live   46.7%
+[08-09 19:19] iter 26: generating 3x350 games...
+[08-09 20:49] === AZ DRIVER START (resuming at iter 25) ===
+[08-09 20:49] iter 26: generating 3x350 games...
+[08-09 22:54] === AZ DRIVER START (resuming at iter 25) ===
+[08-09 22:54] iter 26: generating 3x350 games...
+[08-09 23:58] iter 26: training on 77 npz files...
+[08-10 00:27] iter 26 train tail: 58939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 2798152 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.834  auc_T1-6=0.742  auc_T7-10=0.883  auc_T11+=0.921  agree_ref=1.000
+--min-turn=9: training on 992229/2798152 states
+epoch 0: loss 0.0864 (val 0.0782 kl 0.0041)  REAL: auc_all=0.819  auc_T1-6=0.724  auc_T7-10=0.867  auc_T11+=0.913  agree_ref=0.972  1668s
+BEST real-ladder value AUC: 0.834 (baseline 0.834)
+
+[08-10 00:27] iter 26: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-10 00:27] iter 27: generating 3x350 games...
+[08-10 01:29] iter 27: training on 80 npz files...
+[08-10 01:59] iter 27 train tail: 8939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 2906549 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.834  auc_T1-6=0.742  auc_T7-10=0.883  auc_T11+=0.921  agree_ref=1.000
+--min-turn=9: training on 1030706/2906549 states
+epoch 0: loss 0.0872 (val 0.0789 kl 0.0041)  REAL: auc_all=0.814  auc_T1-6=0.722  auc_T7-10=0.865  auc_T11+=0.909  agree_ref=0.974  1723s
+BEST real-ladder value AUC: 0.834 (baseline 0.834)
+
+[08-10 01:59] iter 27: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-10 01:59] iter 28: generating 3x350 games...
+[08-10 03:02] iter 28: training on 83 npz files...
+[08-10 03:33] iter 28 train tail: 8939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 3014428 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.834  auc_T1-6=0.742  auc_T7-10=0.883  auc_T11+=0.921  agree_ref=1.000
+--min-turn=9: training on 1069106/3014428 states
+epoch 0: loss 0.0883 (val 0.0799 kl 0.0042)  REAL: auc_all=0.823  auc_T1-6=0.723  auc_T7-10=0.868  auc_T11+=0.915  agree_ref=0.972  1795s
+BEST real-ladder value AUC: 0.834 (baseline 0.834)
+
+[08-10 03:33] iter 28: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-10 03:33] iter 29: generating 3x350 games...
+[08-10 04:35] iter 29: training on 86 npz files...
+[08-10 05:08] iter 29 train tail: 8939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 3122052 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.834  auc_T1-6=0.742  auc_T7-10=0.883  auc_T11+=0.921  agree_ref=1.000
+--min-turn=9: training on 1107168/3122052 states
+epoch 0: loss 0.0889 (val 0.0805 kl 0.0042)  REAL: auc_all=0.818  auc_T1-6=0.721  auc_T7-10=0.866  auc_T11+=0.910  agree_ref=0.972  1860s
+BEST real-ladder value AUC: 0.834 (baseline 0.834)
+
+[08-10 05:08] iter 29: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-10 05:08] iter 30: generating 3x350 games...
+[08-10 06:10] iter 30: training on 89 npz files...
+[08-10 06:44] iter 30 train tail: 8939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 3229882 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.834  auc_T1-6=0.742  auc_T7-10=0.883  auc_T11+=0.921  agree_ref=1.000
+--min-turn=9: training on 1145694/3229882 states
+epoch 0: loss 0.0892 (val 0.0808 kl 0.0042)  REAL: auc_all=0.816  auc_T1-6=0.719  auc_T7-10=0.861  auc_T11+=0.913  agree_ref=0.972  1919s
+BEST real-ladder value AUC: 0.834 (baseline 0.834)
+
+[08-10 06:44] iter 30: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-10 06:44] iter 31: generating 3x350 games...
+[08-10 07:46] iter 31: training on 92 npz files...
+[08-10 08:21] iter 31 train tail: 8939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 3337728 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.834  auc_T1-6=0.742  auc_T7-10=0.883  auc_T11+=0.921  agree_ref=1.000
+--min-turn=9: training on 1184327/3337728 states
+epoch 0: loss 0.0898 (val 0.0813 kl 0.0042)  REAL: auc_all=0.814  auc_T1-6=0.720  auc_T7-10=0.861  auc_T11+=0.908  agree_ref=0.971  1985s
+BEST real-ladder value AUC: 0.834 (baseline 0.834)
+
+[08-10 08:21] iter 31: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-10 08:21] iter 32: generating 3x350 games...
+[08-10 08:51] === AZ DRIVER START (resuming at iter 31) ===
+[08-10 08:51] iter 32: generating 3x350 games...
+[08-10 09:50] iter 32: training on 95 npz files...
+[08-10 10:29] iter 32 train tail: 8939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 3445431 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.834  auc_T1-6=0.742  auc_T7-10=0.883  auc_T11+=0.921  agree_ref=1.000
+--min-turn=9: training on 1222612/3445431 states
+epoch 0: loss 0.0900 (val 0.0814 kl 0.0043)  REAL: auc_all=0.817  auc_T1-6=0.719  auc_T7-10=0.865  auc_T11+=0.913  agree_ref=0.973  2201s
+BEST real-ladder value AUC: 0.834 (baseline 0.834)
+
+[08-10 10:29] iter 32: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-10 10:29] iter 33: generating 3x350 games...
+[08-10 11:42] === AZ DRIVER START (resuming at iter 32) ===
+[08-10 11:42] iter 33: generating 3x350 games...
+[08-10 13:46] === AZ DRIVER START (resuming at iter 32) ===
+[08-10 13:46] iter 33: generating 3x350 games...
+[08-10 15:47] iter 33: training on 98 npz files...
+[08-10 16:03] === AZ DRIVER START (resuming at iter 33) ===
+[08-10 16:03] iter 34: generating 3x350 games...
+[08-10 17:25] iter 34: training on 101 npz files...
+[08-10 18:01] iter 34 train tail: 8939 decisions, players ['selfplay']
+  + iter9_w2.npz: 29749 decisions, players ['selfplay']
+  + iter9_w3.npz: 18408 decisions, players ['selfplay']
+train: 3658540 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.834  auc_T1-6=0.742  auc_T7-10=0.883  auc_T11+=0.921  agree_ref=1.000
+--min-turn=9: training on 1296910/3658540 states
+epoch 0: loss 0.0907 (val 0.0821 kl 0.0043)  REAL: auc_all=0.817  auc_T1-6=0.720  auc_T7-10=0.865  auc_T11+=0.913  agree_ref=0.972  2068s
+BEST real-ladder value AUC: 0.834 (baseline 0.834)
+
+[08-10 18:01] iter 34: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-10 18:01] iter 35: generating 3x350 games...

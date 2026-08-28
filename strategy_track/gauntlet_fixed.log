@@ -1,0 +1,38 @@
+Field-weighted gauntlet: N=40/opponent, 5 archetypes covering 51% of observed field (renormalised)
+
+===== my-agent/oger_pol =====
+  vs Alakazam       26-14  =  65.0%   (field 23%)
+  vs Grimmsnarl     32-8   =  80.0%   (field 9%)  <-- LOAD-SENSITIVE (idle machine required)
+  vs M-Lucario      27-13  =  67.5%   (field 9%)
+  vs Ogerpon        28-12  =  70.0%   (field 5%)
+  vs Crustle        14-26  =  35.0%   (field 5%)
+  FIELD-WEIGHTED SCORE: 65.6%
+
+===== my-agent/oger_v12i =====
+  vs Alakazam       13-27  =  32.5%   (field 23%)
+  vs Grimmsnarl     28-12  =  70.0%   (field 9%)  <-- LOAD-SENSITIVE (idle machine required)
+  vs M-Lucario      28-12  =  70.0%   (field 9%)
+  vs Ogerpon        25-15  =  62.5%   (field 5%)
+  vs Crustle         9-31  =  22.5%   (field 5%)
+  FIELD-WEIGHTED SCORE: 47.7%
+
+===== my-agent/oger_s8 =====
+  vs Alakazam       16-24  =  40.0%   (field 23%)
+  vs Grimmsnarl     17-23  =  42.5%   (field 9%)  <-- LOAD-SENSITIVE (idle machine required)
+  vs M-Lucario      19-21  =  47.5%   (field 9%)
+  vs Ogerpon        19-21  =  47.5%   (field 5%)
+  vs Crustle         7-33  =  17.5%   (field 5%)
+  FIELD-WEIGHTED SCORE: 40.3%
+
+===== my-agent/ogerpon_v1 =====
+  vs Alakazam       19-21  =  47.5%   (field 23%)
+  vs Grimmsnarl     29-11  =  72.5%   (field 9%)  <-- LOAD-SENSITIVE (idle machine required)
+  vs M-Lucario      28-12  =  70.0%   (field 9%)
+  vs Crustle        17-23  =  42.5%   (field 5%)
+  FIELD-WEIGHTED SCORE: 56.2%
+
+=== RANKING (field-weighted) ===
+   65.6%  my-agent/oger_pol
+   56.2%  my-agent/ogerpon_v1
+   47.7%  my-agent/oger_v12i
+   40.3%  my-agent/oger_s8

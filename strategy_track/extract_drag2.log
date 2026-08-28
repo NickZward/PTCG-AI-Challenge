@@ -1,0 +1,36 @@
+encoder your_deck <- dragapult_elite_deck.csv (60 cards)
+818 games / 19 players / cap=64 main_only=False feat=2
+  250/818 games -> 26402 decisions
+  500/818 games -> 53224 decisions
+  750/818 games -> 80322 decisions
+
+DONE: 818 games -> 87544 decisions -> model/az/imit_drag_f2.npz (145MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                   61005  (88.8% of drops)
+  trivial_single_option                            6597  ( 9.6% of drops)
+  no_select_or_action                               818  ( 1.2% of drops)
+  empty_choice                                      161  ( 0.2% of drops)
+  target_not_enumerated_type1                       120  ( 0.2% of drops)
+  TOTAL DROPPED                                   68701   kept 87544 (56.0% of all decisions)
+
+kept by select type: {1: 42587, 0: 41303, 8: 2072, 4: 821, 9: 715, 5: 24, 7: 22}
+candidates: mean 7.3 median 5 p90 16 max 64
+target index: mean 3.04  frac==0 29.3%  random-guess top1 23.1%
+encoder your_deck <- dragapult_elite_deck.csv (60 cards)
+137 games / 1 players / cap=64 main_only=False feat=2
+
+DONE: 137 games -> 15066 decisions -> model/az/imit_drag_elite.npz (25MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                   10021  (88.4% of drops)
+  trivial_single_option                            1080  ( 9.5% of drops)
+  no_select_or_action                               137  ( 1.2% of drops)
+  empty_choice                                       66  ( 0.6% of drops)
+  target_not_enumerated_type1                        34  ( 0.3% of drops)
+  TOTAL DROPPED                                   11338   kept 15066 (57.1% of all decisions)
+
+kept by select type: {1: 7358, 0: 7093, 8: 366, 9: 139, 4: 110}
+candidates: mean 7.1 median 5 p90 15 max 64
+target index: mean 2.84  frac==0 31.0%  random-guess top1 23.2%
+EXTRACT_DONE

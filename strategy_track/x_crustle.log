@@ -1,0 +1,17 @@
+encoder your_deck <- crustle_elite_deck.csv (60 cards)
+230 games / 55 players / cap=64 main_only=False feat=2
+
+DONE: 230 games -> 8564 decisions -> model/az/imit_crustle.npz (13MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                   21298  (94.4% of drops)
+  trivial_single_option                            1004  ( 4.4% of drops)
+  no_select_or_action                               231  ( 1.0% of drops)
+  empty_choice                                       23  ( 0.1% of drops)
+  target_not_enumerated_type1                        15  ( 0.1% of drops)
+  target_not_enumerated_type2                         1  ( 0.0% of drops)
+  TOTAL DROPPED                                   22572   kept 8564 (27.5% of all decisions)
+
+kept by select type: {0: 6190, 1: 1997, 5: 131, 9: 124, 8: 60, 4: 57, 7: 5}
+candidates: mean 6.5 median 5 p90 12 max 64
+target index: mean 2.44  frac==0 36.0%  random-guess top1 24.5%

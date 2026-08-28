@@ -1,0 +1,112 @@
+== OGER_SS SPRINT Sun Aug 16 19:33:10 CEST 2026 ==
+indexing 62 files with 6 workers...
+wrote dump_index_ssoger.csv: 62 games
+OK: ss_oger_now.csv from 16 games of Sixth Sense (Ogerpon)
+   15x Basic {G} Energy
+   4x Bug Catching Set
+   4x Teal Mask Ogerpon ex
+   4x Lillie's Determination
+   4x Forest of Vitality
+   4x Ultra Ball
+   2x Poké Pad
+   2x Dawn
+   2x Chikorita
+   2x Meganium
+oger_ss_manifest.csv: 3462 sides; Sixth Sense sides: 132
+encoder your_deck <- ss_oger_now.csv (60 cards)
+3275 games / 65 players / cap=64 main_only=False feat=2
+  250/3275 games -> 16692 decisions
+  500/3275 games -> 33523 decisions
+  750/3275 games -> 49565 decisions
+  1000/3275 games -> 65295 decisions
+  1250/3275 games -> 81896 decisions
+  1500/3275 games -> 99014 decisions
+  1750/3275 games -> 115296 decisions
+  2000/3275 games -> 130815 decisions
+  2250/3275 games -> 146238 decisions
+  2500/3275 games -> 161523 decisions
+  2750/3275 games -> 176805 decisions
+  3000/3275 games -> 193456 decisions
+
+DONE: 3228 games -> 209700 decisions -> model/az/imit_oger_ss.npz (336MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                  261565  (89.5% of drops)
+  trivial_single_option                           26159  ( 9.0% of drops)
+  no_select_or_action                              3412  ( 1.2% of drops)
+  target_not_enumerated_type1                       593  ( 0.2% of drops)
+  empty_choice                                      445  ( 0.2% of drops)
+  unreadable:FileNotFoundError                       47  ( 0.0% of drops)
+  target_not_enumerated_type2                        19  ( 0.0% of drops)
+  TOTAL DROPPED                                  292240   kept 209700 (41.8% of all decisions)
+
+kept by select type: {0: 137334, 1: 64413, 4: 3315, 9: 2968, 8: 817, 5: 772, 2: 81}
+candidates: mean 7.2 median 6 p90 14 max 64
+target index: mean 2.81  frac==0 37.2%  random-guess top1 22.6%
+loading ['model/az/imit_oger_ss.npz']
+  + imit_oger_ss.npz: 209700 decisions, players ['Sixth Sense', 'ANDPAD kaggler team', '熱異常', 'Rmy', 'palsystem']...
+decoder feat=2 vocab=73883
+209700 decisions -> 205923 after filter (min_wr=0.0 wins_only=False main_only=False)
+3412 games detected -> held-out 79 games / 4946 decisions (disjoint from the 200977 training decisions)
+boosting players ['Sixth Sense'] -> pids [0] x3.0
+hashing candidate bags for tie groups...
+  tie-hash 200000/209700
+tie mask ready: 29736 extra credited candidates (0.14/decision)
+  [held-out baselines] n=4946  random=21.5%  always-0=34.9%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=200977 held=4946 epochs=8 bs=128
+    ep0 500/1570 loss 1.0971
+    ep0 1000/1570 loss 1.0175
+    ep0 1500/1570 loss 0.9830
+epoch 0: loss 0.9792 (pol 0.8445 val 0.0673)  MAIN-top1 55.6%  all-top1 58.4% (strict 57.5%)  top3 86.5%  817s
+    t0:56%(3261)  t1:60%(1507)  t4:86%(79)  t9:100%(79)
+    ep1 500/1570 loss 0.8442
+    ep1 1000/1570 loss 0.8312
+    ep1 1500/1570 loss 0.8145
+epoch 1: loss 0.8131 (pol 0.7081 val 0.0525)  MAIN-top1 58.6%  all-top1 61.9% (strict 61.0%)  top3 89.4%  821s
+    t0:59%(3261)  t1:65%(1507)  t4:85%(79)  t9:100%(79)
+    ep2 500/1570 loss 0.7303
+    ep2 1000/1570 loss 0.7252
+    ep2 1500/1570 loss 0.7199
+epoch 2: loss 0.7194 (pol 0.6351 val 0.0422)  MAIN-top1 60.2%  all-top1 62.9% (strict 61.9%)  top3 89.4%  825s
+    t0:60%(3261)  t1:65%(1507)  t4:86%(79)  t9:100%(79)
+    ep3 500/1570 loss 0.6365
+    ep3 1000/1570 loss 0.6351
+    ep3 1500/1570 loss 0.6330
+epoch 3: loss 0.6322 (pol 0.5636 val 0.0343)  MAIN-top1 60.7%  all-top1 63.7% (strict 62.8%)  top3 90.3%  795s
+    t0:61%(3261)  t1:67%(1507)  t4:87%(79)  t9:100%(79)
+    ep4 500/1570 loss 0.5406
+    ep4 1000/1570 loss 0.5410
+    ep4 1500/1570 loss 0.5417
+epoch 4: loss 0.5416 (pol 0.4834 val 0.0291)  MAIN-top1 60.7%  all-top1 63.3% (strict 62.4%)  top3 90.5%  811s
+    t0:61%(3261)  t1:66%(1507)  t4:80%(79)  t9:100%(79)
+    ep5 500/1570 loss 0.4484
+    ep5 1000/1570 loss 0.4489
+    ep5 1500/1570 loss 0.4484
+epoch 5: loss 0.4481 (pol 0.3967 val 0.0257)  MAIN-top1 60.6%  all-top1 63.4% (strict 62.5%)  top3 89.7%  803s
+    t0:61%(3261)  t1:66%(1507)  t4:80%(79)  t9:100%(79)
+    ep6 500/1570 loss 0.3705
+    ep6 1000/1570 loss 0.3691
+    ep6 1500/1570 loss 0.3691
+epoch 6: loss 0.3689 (pol 0.3215 val 0.0237)  MAIN-top1 59.7%  all-top1 62.6% (strict 61.7%)  top3 89.8%  806s
+    t0:60%(3261)  t1:66%(1507)  t4:80%(79)  t9:100%(79)
+    ep7 500/1570 loss 0.3250
+    ep7 1000/1570 loss 0.3256
+    ep7 1500/1570 loss 0.3255
+epoch 7: loss 0.3250 (pol 0.2794 val 0.0228)  MAIN-top1 60.4%  all-top1 63.1% (strict 62.2%)  top3 89.5%  799s
+    t0:60%(3261)  t1:66%(1507)  t4:80%(79)  t9:100%(79)
+
+BEST held-out top1: 63.7%  -> model/az/oger_ss_best.pth
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/oger_ss_np.npz (28MB fp16)
+checked 120 real decisions over 2 games: argmax agreement 120/120 = 100.0%  max |value diff| 0.0007  max |logit diff| 0.0043
+PASS
+BUILD_DONE
+== oger_ss vs oger_v6s (N=60) ==
+  oger_ss vs oger_v6s: 32-28 = 53.3%  (N=60)
+  (cross-deck head-to-head)
+GATE1_DONE
+== oger_ss vs drag_v6f (N=60) ==
+  oger_ss vs drag_v6f: 36-24 = 60.0%  (N=60)
+  (cross-deck head-to-head)
+SPRINT_DONE

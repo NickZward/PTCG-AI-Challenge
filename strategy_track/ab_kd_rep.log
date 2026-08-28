@@ -1,0 +1,2 @@
+  grimm_kdpol vs grimm_v12_polfix: 62-58 = 51.7%  (N=120)
+  ONE VARIABLE: identical deck, identical mcts_agent, identical SEARCH; only model weights differ.

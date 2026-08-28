@@ -1,0 +1,17 @@
+3905 unique games across 19 folders; processing up to 2000 games / 150000 samples
+  200 games, 14623 samples, align 31538/31538
+  400 games, 29044 samples, align 61111/61111
+  600 games, 43803 samples, align 93145/93145
+  800 games, 58410 samples, align 123667/123667
+  1000 games, 72943 samples, align 155156/155156
+  1200 games, 87575 samples, align 186061/186061
+  1400 games, 102234 samples, align 216386/216386
+  1600 games, 116884 samples, align 247036/247036
+  1800 games, 131543 samples, align 277430/277430
+  2000 games, 146079 samples, align 308518/308518
+
+wrote model/az/belief_v0_data.npz: 146079 samples / 2000 games, vocab=353, oov_hand_cards=0
+ALIGNMENT: 308518/308518 = 100.0000%
+drops: {'per_game_subsampled': 158759, 'opp_hand_empty': 3680}
+phase split: T0-6=76167  T7+=69912
+opp arch histogram: {'Grimmsnarl': 57177, 'Alakazam': 14986, 'Crustle': 8683, 'Cynthia-Garchomp': 2789, 'Dragapult': 2995, 'M-Lucario': 9576, 'Dipplin': 937, 'Archaludon': 9835, 'M-Starmie': 929, 'M-Kangaskhan': 10663, 'other': 27509}

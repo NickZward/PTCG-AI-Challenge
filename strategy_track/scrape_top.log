@@ -1,0 +1,60 @@
+resolved 4/4 target teams:
+  flg (team 16380946)
+  やる気元気ミワハルキ (team 16371703)
+  Sixth Sense (team 16452116)
+  Dipam Chakraborty (team 16581741)
+crawl 10: 1/4 resolved, queue 531
+crawl 20: 3/4 resolved, queue 1286
+crawl 30: 3/4 resolved, queue 2722
+crawl 40: 3/4 resolved, queue 3358
+    rate-limited; sleeping 65s...
+crawl 50: 3/4 resolved, queue 4276
+crawl 60: 3/4 resolved, queue 5180
+crawl 70: 3/4 resolved, queue 6456
+  flg: sub 55456110 -> 66 fresh eps (team total 66)
+  flg: sub 55411079 -> 3 fresh eps (team total 69)
+  やる気元気ミワハルキ: sub 55444485 -> 10 fresh eps (team total 10)
+  やる気元気ミワハルキ: sub 55391689 -> 0 fresh eps (team total 10)
+  やる気元気ミワハルキ: sub 55466610 -> 58 fresh eps (team total 68)
+  やる気元気ミワハルキ: sub 55449976 -> 22 fresh eps (team total 90)
+  やる気元気ミワハルキ: sub 55465468 -> 72 fresh eps (team total 162)
+  Sixth Sense: sub 55462691 -> 69 fresh eps (team total 69)
+  Sixth Sense: sub 55457370 -> 48 fresh eps (team total 117)
+  Sixth Sense: sub 55464755 -> 65 fresh eps (team total 182)
+  Sixth Sense: sub 55061079 -> 0 fresh eps (team total 182)
+  Dipam Chakraborty: sub 55148387 -> 0 fresh eps (team total 0)
+  Dipam Chakraborty: sub 55466577 -> 60 fresh eps (team total 60)
+  Dipam Chakraborty: sub 55132571 -> 0 fresh eps (team total 60)
+    rate-limited; sleeping 65s...
+  Dipam Chakraborty: sub 55404183 -> 0 fresh eps (team total 60)
+  Dipam Chakraborty: sub 55189595 -> 0 fresh eps (team total 60)
+  Dipam Chakraborty: sub 55462428 -> 65 fresh eps (team total 125)
+
+FRESH EPISODE TOTALS:
+  flg: 69
+  やる気元気ミワハルキ: 162
+  Sixth Sense: 182
+  Dipam Chakraborty: 125
+
+flg: downloading 69 -> /Users/nickzwart/Desktop/PTCG-AI-Challenge/top_fresh/flg
+  50/69 (+50 new, 0 fail)
+  DONE flg: +69, had 0, fail 0
+
+やる気元気ミワハルキ: downloading 162 -> /Users/nickzwart/Desktop/PTCG-AI-Challenge/top_fresh/__________
+  50/162 (+40 new, 10 fail)
+  100/162 (+81 new, 19 fail)
+  150/162 (+131 new, 19 fail)
+  DONE やる気元気ミワハルキ: +143, had 0, fail 19
+
+Sixth Sense: downloading 182 -> /Users/nickzwart/Desktop/PTCG-AI-Challenge/top_fresh/Sixth Sense
+  50/182 (+50 new, 0 fail)
+  100/182 (+100 new, 0 fail)
+  150/182 (+150 new, 0 fail)
+  DONE Sixth Sense: +182, had 0, fail 0
+
+Dipam Chakraborty: downloading 125 -> /Users/nickzwart/Desktop/PTCG-AI-Challenge/top_fresh/Dipam Chakraborty
+  50/125 (+50 new, 0 fail)
+  100/125 (+100 new, 0 fail)
+  DONE Dipam Chakraborty: +125, had 0, fail 0
+
+All done.

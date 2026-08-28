@@ -1,0 +1,10 @@
+  + dudun_vf_w1.npz: 57541 decisions, players ['selfplay']
+  + dudun_vf_w2.npz: 25377 decisions, players ['selfplay']
+  + dudun_vf_w3.npz: 57671 decisions, players ['selfplay']
+  + dudun_vf_w4.npz: 25137 decisions, players ['selfplay']
+train: 165726 self-play states | held-out: 20973 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.736  auc_T1-6=0.671  auc_T7-10=0.798  auc_T11+=0.799  agree_ref=1.000
+epoch 0: loss 0.1622 (val 0.1566 kl 0.0056)  REAL: auc_all=0.761  auc_T1-6=0.681  auc_T7-10=0.828  auc_T11+=0.850  agree_ref=0.938  304s
+epoch 1: loss 0.1391 (val 0.1319 kl 0.0072)  REAL: auc_all=0.742  auc_T1-6=0.667  auc_T7-10=0.805  auc_T11+=0.829  agree_ref=0.923  300s
+epoch 2: loss 0.1200 (val 0.1118 kl 0.0082)  REAL: auc_all=0.738  auc_T1-6=0.662  auc_T7-10=0.798  auc_T11+=0.822  agree_ref=0.913  302s
+BEST real-ladder value AUC: 0.736 (baseline 0.736)

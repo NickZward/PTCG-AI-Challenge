@@ -1,0 +1,29 @@
+General field gauntlet: N=60/opponent, 5 archetypes = 62.3% of the true meta (renormalised)
+
+===== my-agent/drag_pol =====
+  vs Grimmsnarl    38-22  =  63.3%   (meta 30.7%)
+  vs Alakazam      53-7   =  88.3%   (meta 17.8%)
+  vs Ogerpon       24-36  =  40.0%   (meta 8.8%)
+  vs M-Lucario     50-10  =  83.3%   (meta 3.8%)
+  vs Crustle       44-16  =  73.3%   (meta 1.2%)
+  FIELD-WEIGHTED SCORE: 68.6%
+
+===== my-agent/drag_s16 =====
+  vs Grimmsnarl    18-42  =  30.0%   (meta 30.7%)
+  vs Alakazam      23-37  =  38.3%   (meta 17.8%)
+  vs Ogerpon        7-53  =  11.7%   (meta 8.8%)
+  vs M-Lucario     32-28  =  53.3%   (meta 3.8%)
+  vs Crustle       17-43  =  28.3%   (meta 1.2%)
+  FIELD-WEIGHTED SCORE: 31.2%
+
+===== my-agent/oger_pol =====
+  vs Grimmsnarl    53-7   =  88.3%   (meta 30.7%)
+  vs Alakazam      35-25  =  58.3%   (meta 17.8%)
+  vs M-Lucario     46-14  =  76.7%   (meta 3.8%)
+  vs Crustle       26-34  =  43.3%   (meta 1.2%)
+  FIELD-WEIGHTED SCORE: 76.5%
+
+=== RANKING ===
+   76.5%  my-agent/oger_pol
+   68.6%  my-agent/drag_pol
+   31.2%  my-agent/drag_s16

@@ -1,0 +1,3 @@
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/drag_close_np.npz (28MB fp16)
+checked 120 real decisions over 1 games: argmax agreement 120/120 = 100.0%  max |value diff| 0.0036  max |logit diff| 0.0052
+PASS

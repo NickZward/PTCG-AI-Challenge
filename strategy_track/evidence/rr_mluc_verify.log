@@ -1,0 +1,8 @@
+Round-robin: 2 agents, N=45/pair, 1 pairs...
+    TEMPO prizes-by-T8: A=1.00  B=1.40
+    COMEBACK (win after conceding 1st prize): A=0/18  B=15/25
+           mluc_v1 vs grimm_v12_live   22.2%
+
+=== STANDINGS (avg WR across the stable) ===
+  grimm_v12_live     77.8%
+  mluc_v1            22.2%

@@ -1,0 +1,29 @@
+Field-weighted gauntlet: N=20/opponent, 5 archetypes covering 60% of observed field (renormalised)
+
+===== my-agent/ogerpon_v1 =====
+  vs Dudunsparce     9-11  =  45.0%   (field 32%)
+  vs Grimmsnarl      9-11  =  45.0%   (field 9%)  <-- LOAD-SENSITIVE (idle machine required)
+  vs M-Lucario       9-11  =  45.0%   (field 9%)
+  vs Crustle         9-11  =  45.0%   (field 5%)
+  FIELD-WEIGHTED SCORE: 45.0%
+
+===== my-agent/oger_v2 =====
+  vs Dudunsparce     9-11  =  45.0%   (field 32%)
+  vs Grimmsnarl     13-7   =  65.0%   (field 9%)  <-- LOAD-SENSITIVE (idle machine required)
+  vs M-Lucario       8-12  =  40.0%   (field 9%)
+  vs Ogerpon        11-9   =  55.0%   (field 5%)
+  vs Crustle         8-11  =  42.1%   (field 5%)
+  FIELD-WEIGHTED SCORE: 47.8%
+
+===== my-agent/oger_v3 =====
+  vs Dudunsparce    10-10  =  50.0%   (field 32%)
+  vs Grimmsnarl     12-8   =  60.0%   (field 9%)  <-- LOAD-SENSITIVE (idle machine required)
+  vs M-Lucario      16-4   =  80.0%   (field 9%)
+  vs Ogerpon         8-12  =  40.0%   (field 5%)
+  vs Crustle        10-10  =  50.0%   (field 5%)
+  FIELD-WEIGHTED SCORE: 55.2%
+
+=== RANKING (field-weighted) ===
+   55.2%  my-agent/oger_v3
+   47.8%  my-agent/oger_v2
+   45.0%  my-agent/ogerpon_v1

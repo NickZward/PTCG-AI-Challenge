@@ -1,0 +1,15 @@
+== M-LUCARIO strength: new imitation vs old rules pilot ==
+Traceback (most recent call last):
+  File "/tmp/ab_kd.py", line 12, in <module>
+    assert sys.modules[n0].mcts_agent is not sys.modules[n1].mcts_agent, "module isolation FAILED"
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'B_mluc_v1' has no attribute 'mcts_agent'
+Round-robin: 2 agents, N=60/pair, 1 pairs...
+         mluc_imit vs mluc_v1          68.3%
+
+=== STANDINGS (avg WR across the stable) ===
+  mluc_imit          68.3%
+  mluc_v1            31.7%
+== GRIMMSNARL: boost-close fine-tune vs v12 (SEARCH=32, v12's own search) ==
+  grimm_cl       vs v12: 52-47 =  52.5%  (N=99)
+GRIMM2_DONE

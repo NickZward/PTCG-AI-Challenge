@@ -1,0 +1,58 @@
+loading ['model/az/imit_ala.npz']
+  + imit_ala.npz: 228830 decisions, players ['M Sato', 'THIRD PTCG Club', 'fishcat', 'Challengestone', '齐乐']...
+decoder feat=2 vocab=73883
+228830 decisions -> 223958 after filter (min_wr=0.0 wins_only=False main_only=False)
+3228 games detected -> held-out 73 games / 4895 decisions (disjoint from the 219063 training decisions)
+  turn-CLOSING slice: 19059 decisions (8.3%) x2.0
+hashing candidate bags for tie groups...
+  tie-hash 200000/228830
+tie mask ready: 34485 extra credited candidates (0.15/decision)
+  [held-out baselines] n=4895  random=21.1%  always-0=36.0%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=219063 held=4895 epochs=8 bs=128
+    ep0 500/1711 loss 0.6570
+    ep0 1000/1711 loss 0.5913
+    ep0 1500/1711 loss 0.5529
+epoch 0: loss 0.5408 (pol 0.4504 val 0.0452)  MAIN-top1 61.2%  all-top1 67.4% (strict 66.6%)  top3 88.9%  371s
+    t0:61%(3010)  t1:70%(1335)  t7:87%(39)  t8:100%(21)  t9:97%(480)
+    ep1 500/1711 loss 0.4326
+    ep1 1000/1711 loss 0.4197
+    ep1 1500/1711 loss 0.4122
+epoch 1: loss 0.4089 (pol 0.3377 val 0.0356)  MAIN-top1 66.1%  all-top1 72.0% (strict 71.1%)  top3 92.0%  411s
+    t0:66%(3010)  t1:75%(1335)  t7:92%(39)  t8:100%(21)  t9:96%(480)
+    ep2 500/1711 loss 0.3559
+    ep2 1000/1711 loss 0.3559
+    ep2 1500/1711 loss 0.3545
+epoch 2: loss 0.3542 (pol 0.2936 val 0.0303)  MAIN-top1 67.1%  all-top1 72.3% (strict 71.5%)  top3 92.0%  416s
+    t0:67%(3010)  t1:74%(1335)  t7:92%(39)  t8:100%(21)  t9:97%(480)
+    ep3 500/1711 loss 0.3148
+    ep3 1000/1711 loss 0.3134
+    ep3 1500/1711 loss 0.3125
+epoch 3: loss 0.3125 (pol 0.2596 val 0.0265)  MAIN-top1 67.7%  all-top1 73.4% (strict 72.5%)  top3 92.7%  389s
+    t0:68%(3010)  t1:77%(1335)  t7:95%(39)  t8:100%(21)  t9:97%(480)
+    ep4 500/1711 loss 0.2727
+    ep4 1000/1711 loss 0.2705
+    ep4 1500/1711 loss 0.2692
+epoch 4: loss 0.2689 (pol 0.2230 val 0.0230)  MAIN-top1 68.5%  all-top1 74.1% (strict 73.3%)  top3 93.7%  483s
+    t0:68%(3010)  t1:78%(1335)  t7:95%(39)  t8:100%(21)  t9:97%(480)
+    ep5 500/1711 loss 0.2241
+    ep5 1000/1711 loss 0.2256
+    ep5 1500/1711 loss 0.2232
+epoch 5: loss 0.2227 (pol 0.1820 val 0.0204)  MAIN-top1 68.3%  all-top1 74.1% (strict 73.1%)  top3 93.2%  457s
+    t0:68%(3010)  t1:78%(1335)  t7:97%(39)  t8:100%(21)  t9:97%(480)
+    ep6 500/1711 loss 0.1844
+    ep6 1000/1711 loss 0.1850
+    ep6 1500/1711 loss 0.1842
+epoch 6: loss 0.1839 (pol 0.1462 val 0.0189)  MAIN-top1 68.2%  all-top1 73.9% (strict 73.0%)  top3 93.5%  488s
+    t0:68%(3010)  t1:77%(1335)  t7:97%(39)  t8:100%(21)  t9:97%(480)
+    ep7 500/1711 loss 0.1634
+    ep7 1000/1711 loss 0.1627
+    ep7 1500/1711 loss 0.1626
+epoch 7: loss 0.1626 (pol 0.1262 val 0.0182)  MAIN-top1 68.4%  all-top1 74.0% (strict 73.1%)  top3 93.4%  360s
+    t0:68%(3010)  t1:77%(1335)  t7:97%(39)  t8:100%(21)  t9:97%(480)
+
+BEST held-out top1: 74.1%  -> model/az/ala_imit_best.pth
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/ala_imit_np.npz (28MB fp16)
+checked 120 real decisions over 1 games: argmax agreement 120/120 = 100.0%  max |value diff| 0.0011  max |logit diff| 0.0041
+PASS

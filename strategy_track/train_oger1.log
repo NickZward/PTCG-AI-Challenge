@@ -1,0 +1,57 @@
+loading ['model/az/imit_oger_all.npz']
+  + imit_oger_all.npz: 76820 decisions, players ['palsystem', 'flg', 'Dipam Chakraborty', 'takayosi', 'KouFu']...
+decoder feat=1 vocab=73847
+76820 decisions -> 75347 after filter (min_wr=0.0 wins_only=False main_only=False)
+1175 games detected -> held-out 78 games / 4921 decisions (disjoint from the 70426 training decisions)
+boosting players ['palsystem'] -> pids [0] x3.0
+hashing candidate bags for tie groups...
+tie mask ready: 61587 extra credited candidates (0.80/decision)
+  [held-out baselines] n=4921  random=19.4%  always-0=30.6%
+device=mps  params=13,854,850  objective=softmax CE
+
+train=70426 held=4921 epochs=14 bs=128
+    ep0 500/550 loss 1.1517
+epoch 0: loss 1.1395 (pol 1.1373 val 0.0075)  MAIN-top1 53.8%  all-top1 61.0% (strict 56.2%)  top3 84.0%  120s
+    t0:54%(3153)  t1:71%(1510)  t2:39%(28)  t4:86%(97)  t9:99%(115)
+    ep1 500/550 loss 0.9278
+epoch 1: loss 0.9276 (pol 0.9273 val 0.0008)  MAIN-top1 58.6%  all-top1 64.8% (strict 59.9%)  top3 86.1%  112s
+    t0:59%(3153)  t1:74%(1510)  t2:36%(28)  t4:80%(97)  t9:99%(115)
+    ep2 500/550 loss 0.8256
+epoch 2: loss 0.8237 (pol 0.8236 val 0.0004)  MAIN-top1 61.8%  all-top1 67.5% (strict 62.6%)  top3 88.3%  113s
+    t0:62%(3153)  t1:76%(1510)  t2:39%(28)  t4:85%(97)  t9:99%(115)
+    ep3 500/550 loss 0.7195
+epoch 3: loss 0.7178 (pol 0.7178 val 0.0002)  MAIN-top1 62.1%  all-top1 68.4% (strict 63.5%)  top3 88.6%  113s
+    t0:62%(3153)  t1:78%(1510)  t2:64%(28)  t4:79%(97)  t9:99%(115)
+    ep4 500/550 loss 0.6126
+epoch 4: loss 0.6135 (pol 0.6134 val 0.0002)  MAIN-top1 63.1%  all-top1 69.0% (strict 64.2%)  top3 89.1%  112s
+    t0:63%(3153)  t1:78%(1510)  t2:61%(28)  t4:78%(97)  t9:98%(115)
+    ep5 500/550 loss 0.5104
+epoch 5: loss 0.5126 (pol 0.5126 val 0.0001)  MAIN-top1 61.6%  all-top1 68.3% (strict 63.5%)  top3 89.2%  112s
+    t0:62%(3153)  t1:79%(1510)  t2:61%(28)  t4:81%(97)  t9:98%(115)
+    ep6 500/550 loss 0.4125
+epoch 6: loss 0.4137 (pol 0.4137 val 0.0002)  MAIN-top1 63.5%  all-top1 69.6% (strict 64.7%)  top3 89.0%  113s
+    t0:64%(3153)  t1:79%(1510)  t2:57%(28)  t4:82%(97)  t9:99%(115)
+    ep7 500/550 loss 0.3195
+epoch 7: loss 0.3213 (pol 0.3212 val 0.0002)  MAIN-top1 63.5%  all-top1 69.6% (strict 64.8%)  top3 89.1%  118s
+    t0:63%(3153)  t1:79%(1510)  t2:68%(28)  t4:81%(97)  t9:98%(115)
+    ep8 500/550 loss 0.2394
+epoch 8: loss 0.2398 (pol 0.2397 val 0.0001)  MAIN-top1 62.0%  all-top1 68.8% (strict 64.0%)  top3 89.8%  112s
+    t0:62%(3153)  t1:80%(1510)  t2:68%(28)  t4:82%(97)  t9:98%(115)
+    ep9 500/550 loss 0.1723
+epoch 9: loss 0.1740 (pol 0.1740 val 0.0001)  MAIN-top1 63.2%  all-top1 69.4% (strict 64.6%)  top3 89.4%  136s
+    t0:63%(3153)  t1:79%(1510)  t2:64%(28)  t4:84%(97)  t9:99%(115)
+    ep10 500/550 loss 0.1247
+epoch 10: loss 0.1241 (pol 0.1241 val 0.0001)  MAIN-top1 62.6%  all-top1 68.8% (strict 64.1%)  top3 89.4%  131s
+    t0:63%(3153)  t1:79%(1510)  t2:61%(28)  t4:81%(97)  t9:98%(115)
+    ep11 500/550 loss 0.0916
+epoch 11: loss 0.0922 (pol 0.0922 val 0.0001)  MAIN-top1 62.0%  all-top1 68.5% (strict 63.7%)  top3 89.2%  152s
+    t0:62%(3153)  t1:79%(1510)  t2:64%(28)  t4:82%(97)  t9:99%(115)
+    ep12 500/550 loss 0.0739
+epoch 12: loss 0.0739 (pol 0.0739 val 0.0001)  MAIN-top1 62.3%  all-top1 68.6% (strict 63.8%)  top3 89.1%  142s
+    t0:62%(3153)  t1:78%(1510)  t2:68%(28)  t4:84%(97)  t9:99%(115)
+    ep13 500/550 loss 0.0661
+epoch 13: loss 0.0664 (pol 0.0664 val 0.0001)  MAIN-top1 62.3%  all-top1 68.7% (strict 63.9%)  top3 89.1%  172s
+    t0:62%(3153)  t1:79%(1510)  t2:68%(28)  t4:84%(97)  t9:99%(115)
+
+BEST held-out top1: 69.6%  -> model/az/oger_imit_v1_best.pth
+STAGE1_DONE

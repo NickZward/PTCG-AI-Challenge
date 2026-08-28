@@ -1,0 +1,23 @@
+encoder your_deck <- my-agent/oger_pal/deck.csv (60 cards)
+1426 games / 36 players / cap=64 main_only=False feat=2
+  250/1426 games -> 17066 decisions
+  500/1426 games -> 33661 decisions
+  750/1426 games -> 49614 decisions
+  1000/1426 games -> 64948 decisions
+  1250/1426 games -> 80011 decisions
+
+DONE: 1426 games -> 90886 decisions -> model/az/imit_oger_both.npz (144MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                  114809  (89.0% of drops)
+  trivial_single_option                           12189  ( 9.4% of drops)
+  no_select_or_action                              1492  ( 1.2% of drops)
+  target_not_enumerated_type1                       322  ( 0.2% of drops)
+  empty_choice                                      195  ( 0.2% of drops)
+  target_not_enumerated_type2                         8  ( 0.0% of drops)
+  TOTAL DROPPED                                  129015   kept 90886 (41.3% of all decisions)
+
+kept by select type: {0: 60284, 1: 26861, 4: 1808, 9: 1103, 5: 437, 8: 366, 2: 27}
+candidates: mean 7.1 median 6 p90 14 max 64
+target index: mean 2.68  frac==0 38.7%  random-guess top1 22.8%
+EXTRACT_DONE

@@ -1,0 +1,18 @@
+823 games / 19 players / cap=64 main_only=False feat=1
+  250/823 games -> 26408 decisions
+  500/823 games -> 53259 decisions
+  750/823 games -> 80396 decisions
+
+DONE: 823 games -> 88113 decisions -> model/az/imit_drag_all.npz (130MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                   61406  (88.8% of drops)
+  trivial_single_option                            6606  ( 9.6% of drops)
+  no_select_or_action                               823  ( 1.2% of drops)
+  empty_choice                                      162  ( 0.2% of drops)
+  target_not_enumerated_type1                       125  ( 0.2% of drops)
+  TOTAL DROPPED                                   69122   kept 88113 (56.0% of all decisions)
+
+kept by select type: {1: 42851, 0: 41596, 8: 2074, 4: 829, 9: 717, 5: 24, 7: 22}
+candidates: mean 7.3 median 5 p90 16 max 64
+target index: mean 3.05  frac==0 29.2%  random-guess top1 23.1%

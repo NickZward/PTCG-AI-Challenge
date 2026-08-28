@@ -1,0 +1,7 @@
+=== GATE A: variant vs instrument ===
+    TEMPO prizes-by-T8: A=1.38  B=3.51
+    grimm_v12_oger vs ogerpon_v1       44.4%
+=== GATE B: stock v12 vs instrument ===
+    TEMPO prizes-by-T8: A=1.51  B=3.64
+    grimm_v12_live vs ogerpon_v1       37.8%
+=== CELL GATES DONE ===

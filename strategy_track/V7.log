@@ -1,0 +1,189 @@
+== V7 REFRESH Fri Aug 14 17:35:59 CEST 2026 ==
+top-60 teams resolvable from indexes: 58
+  Bart, Edwyn: HTTP Error 429: Too Many Requests
+  Boss's Orders Are All You Need: HTTP Error 429: Too Many Requests
+  Dipam Chakraborty: HTTP Error 429: Too Many Requests
+  Dries @ Tufa Labs: HTTP Error 429: Too Many Requests
+  EliKal: HTTP Error 429: Too Many Requests
+  Funky: HTTP Error 429: Too Many Requests
+  JZ: HTTP Error 429: Too Many Requests
+  Jonathan Coletti: HTTP Error 429: Too Many Requests
+  Kh0a: HTTP Error 429: Too Many Requests
+  Leolazz: HTTP Error 429: Too Many Requests
+  LiamK: HTTP Error 429: Too Many Requests
+  Luca: HTTP Error 429: Too Many Requests
+  MTamago: HTTP Error 429: Too Many Requests
+  MissingNo.: HTTP Error 429: Too Many Requests
+  NguyenThanhNhan: HTTP Error 429: Too Many Requests
+  ONE PIECE: HTTP Error 429: Too Many Requests
+  Oshbocker: HTTP Error 429: Too Many Requests
+  PP kawada: HTTP Error 429: Too Many Requests
+  Phil_Hellmuth: HTTP Error 429: Too Many Requests
+  Raihan Ramadistra: HTTP Error 429: Too Many Requests
+  Redi_: HTTP Error 429: Too Many Requests
+  Rikito Kanda: HTTP Error 429: Too Many Requests
+  Rmy: HTTP Error 429: Too Many Requests
+  ShumpeiNomura: HTTP Error 429: Too Many Requests
+  Thai: HTTP Error 429: Too Many Requests
+  bono: HTTP Error 429: Too Many Requests
+  cocosu3434: HTTP Error 429: Too Many Requests
+  fishcat: HTTP Error 429: Too Many Requests
+  flg: HTTP Error 429: Too Many Requests
+  giacomovin: HTTP Error 429: Too Many Requests
+  goonew: HTTP Error 429: Too Many Requests
+  haruto: HTTP Error 429: Too Many Requests
+  hatry: HTTP Error 429: Too Many Requests
+  insuperabilehart: HTTP Error 429: Too Many Requests
+  kwa: HTTP Error 429: Too Many Requests
+  palsystem: HTTP Error 429: Too Many Requests
+  pokemon master: HTTP Error 429: Too Many Requests
+  sadwat: HTTP Error 429: Too Many Requests
+  stnick: HTTP Error 429: Too Many Requests
+  szlachetny snieg: HTTP Error 429: Too Many Requests
+  tw_shin: HTTP Error 429: Too Many Requests
+  vvs: HTTP Error 429: Too Many Requests
+  youtube.com/@BigBugginnings: HTTP Error 429: Too Many Requests
+  yumizu: HTTP Error 429: Too Many Requests
+  Аzat Akhtyamov: HTTP Error 429: Too Many Requests
+  しんぴのしずく💧: HTTP Error 429: Too Many Requests
+  やる気元気ミワハルキ: HTTP Error 429: Too Many Requests
+  カントー地方マスター(KantoRegionMaster): HTTP Error 429: Too Many Requests
+  你好哇: HTTP Error 429: Too Many Requests
+  宝糕手: HTTP Error 429: Too Many Requests
+  李秉叡（ntumlnoob）: HTTP Error 429: Too Many Requests
+  熱異常: HTTP Error 429: Too Many Requests
+  🫣🤧: HTTP Error 429: Too Many Requests
+NEW episodes to scrape (capped 1500): 764
+  200/764 {'ok': 198, 'err': 2}
+  400/764 {'ok': 398, 'err': 2}
+  600/764 {'ok': 598, 'err': 2}
+scrape: {'ok': 762, 'err': 2}
+indexing 762 files with 6 workers...
+  500/762
+wrote dump_index_top60.csv: 762 games
+drag_v7_manifest.csv: 3751 sides (2277W/1474L); SS sides 536
+encoder your_deck <- my-agent/drag_v5/deck.csv (60 cards)
+3520 games / 41 players / cap=64 main_only=False feat=2
+  250/3520 games -> 27164 decisions
+  500/3520 games -> 53541 decisions
+  750/3520 games -> 81614 decisions
+  1000/3520 games -> 109289 decisions
+  1250/3520 games -> 137835 decisions
+  1500/3520 games -> 164304 decisions
+  1750/3520 games -> 192979 decisions
+  2000/3520 games -> 220807 decisions
+  2250/3520 games -> 247207 decisions
+  2500/3520 games -> 273949 decisions
+  2750/3520 games -> 301420 decisions
+  3000/3520 games -> 328111 decisions
+  3250/3520 games -> 355132 decisions
+  3500/3520 games -> 382309 decisions
+
+DONE: 3520 games -> 384518 decisions -> model/az/imit_drag_v7.npz (636MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                  296967  (90.2% of drops)
+  trivial_single_option                           27316  ( 8.3% of drops)
+  no_select_or_action                              3751  ( 1.1% of drops)
+  empty_choice                                      634  ( 0.2% of drops)
+  target_not_enumerated_type1                       568  ( 0.2% of drops)
+  TOTAL DROPPED                                  329236   kept 384518 (53.9% of all decisions)
+
+kept by select type: {0: 189454, 1: 179678, 8: 7770, 4: 4161, 9: 3260, 5: 154, 7: 41}
+candidates: mean 7.3 median 5 p90 15 max 64
+target index: mean 3.02  frac==0 28.0%  random-guess top1 22.9%
+loading ['model/az/imit_drag_v7.npz']
+  + imit_drag_v7.npz: 384518 decisions, players ['Kilupy', 'LumenLiquidity', '李秉叡（ntumlnoob）', 'Raihan Ramadistra', 'Petit Canard']...
+decoder feat=2 vocab=73883
+384518 decisions -> 382833 after filter (min_wr=0.0 wins_only=False main_only=False)
+3751 games detected -> held-out 50 games / 5061 decisions (disjoint from the 377772 training decisions)
+boosting players ['Sixth Sense'] -> pids [21] x3.0
+hashing candidate bags for tie groups...
+  tie-hash 200000/384518
+tie mask ready: 28533 extra credited candidates (0.07/decision)
+  [held-out baselines] n=5061  random=22.4%  always-0=28.4%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=377772 held=5061 epochs=10 bs=128
+    ep0 500/2951 loss 1.9172
+    ep0 1000/2951 loss 1.7927
+    ep0 1500/2951 loss 1.7092
+    ep0 2000/2951 loss 1.6528
+    ep0 2500/2951 loss 1.6098
+epoch 0: loss 1.5774 (pol 1.3607 val 0.1083)  MAIN-top1 52.5%  all-top1 61.2% (strict 60.7%)  top3 88.7%  681s
+    t0:52%(2475)  t1:68%(2374)  t4:45%(44)  t8:98%(118)  t9:100%(49)
+    ep1 500/2951 loss 1.3344
+    ep1 1000/2951 loss 1.3347
+    ep1 1500/2951 loss 1.3242
+    ep1 2000/2951 loss 1.3128
+    ep1 2500/2951 loss 1.3007
+epoch 1: loss 1.2871 (pol 1.1124 val 0.0874)  MAIN-top1 56.9%  all-top1 64.1% (strict 63.7%)  top3 91.3%  684s
+    t0:57%(2475)  t1:69%(2374)  t4:57%(44)  t8:100%(118)  t9:100%(49)
+    ep2 500/2951 loss 1.1510
+    ep2 1000/2951 loss 1.1535
+    ep2 1500/2951 loss 1.1469
+    ep2 2000/2951 loss 1.1398
+    ep2 2500/2951 loss 1.1348
+epoch 2: loss 1.1294 (pol 0.9940 val 0.0677)  MAIN-top1 56.4%  all-top1 65.1% (strict 64.6%)  top3 91.6%  686s
+    t0:56%(2475)  t1:72%(2374)  t4:64%(44)  t8:100%(118)  t9:100%(49)
+    ep3 500/2951 loss 1.0315
+    ep3 1000/2951 loss 1.0187
+    ep3 1500/2951 loss 1.0147
+    ep3 2000/2951 loss 1.0156
+    ep3 2500/2951 loss 1.0168
+epoch 3: loss 1.0135 (pol 0.9038 val 0.0549)  MAIN-top1 59.0%  all-top1 66.4% (strict 65.9%)  top3 91.8%  686s
+    t0:59%(2475)  t1:72%(2374)  t4:68%(44)  t8:100%(118)  t9:100%(49)
+    ep4 500/2951 loss 0.8923
+    ep4 1000/2951 loss 0.9008
+    ep4 1500/2951 loss 0.9071
+    ep4 2000/2951 loss 0.9082
+    ep4 2500/2951 loss 0.9064
+epoch 4: loss 0.9054 (pol 0.8147 val 0.0453)  MAIN-top1 57.6%  all-top1 66.0% (strict 65.4%)  top3 91.9%  686s
+    t0:58%(2475)  t1:72%(2374)  t4:64%(44)  t8:100%(118)  t9:100%(49)
+    ep5 500/2951 loss 0.7813
+    ep5 1000/2951 loss 0.7862
+    ep5 1500/2951 loss 0.7920
+    ep5 2000/2951 loss 0.7941
+    ep5 2500/2951 loss 0.7932
+epoch 5: loss 0.7919 (pol 0.7136 val 0.0391)  MAIN-top1 57.7%  all-top1 65.7% (strict 65.2%)  top3 91.8%  684s
+    t0:58%(2475)  t1:72%(2374)  t4:57%(44)  t8:97%(118)  t9:100%(49)
+    ep6 500/2951 loss 0.6698
+    ep6 1000/2951 loss 0.6744
+    ep6 1500/2951 loss 0.6741
+    ep6 2000/2951 loss 0.6759
+    ep6 2500/2951 loss 0.6768
+epoch 6: loss 0.6765 (pol 0.6076 val 0.0344)  MAIN-top1 57.9%  all-top1 65.9% (strict 65.4%)  top3 92.2%  686s
+    t0:58%(2475)  t1:72%(2374)  t4:68%(44)  t8:97%(118)  t9:100%(49)
+    ep7 500/2951 loss 0.5607
+    ep7 1000/2951 loss 0.5672
+    ep7 1500/2951 loss 0.5687
+    ep7 2000/2951 loss 0.5675
+    ep7 2500/2951 loss 0.5691
+epoch 7: loss 0.5705 (pol 0.5084 val 0.0310)  MAIN-top1 56.1%  all-top1 64.5% (strict 63.9%)  top3 91.6%  686s
+    t0:56%(2475)  t1:71%(2374)  t4:64%(44)  t8:97%(118)  t9:100%(49)
+    ep8 500/2951 loss 0.4912
+    ep8 1000/2951 loss 0.4920
+    ep8 1500/2951 loss 0.4932
+    ep8 2000/2951 loss 0.4926
+    ep8 2500/2951 loss 0.4930
+epoch 8: loss 0.4929 (pol 0.4350 val 0.0290)  MAIN-top1 56.6%  all-top1 64.2% (strict 63.7%)  top3 91.8%  687s
+    t0:57%(2475)  t1:70%(2374)  t4:66%(44)  t8:97%(118)  t9:100%(49)
+    ep9 500/2951 loss 0.4489
+    ep9 1000/2951 loss 0.4520
+    ep9 1500/2951 loss 0.4507
+    ep9 2000/2951 loss 0.4507
+    ep9 2500/2951 loss 0.4520
+epoch 9: loss 0.4519 (pol 0.3957 val 0.0281)  MAIN-top1 56.6%  all-top1 64.1% (strict 63.5%)  top3 91.8%  687s
+    t0:57%(2475)  t1:70%(2374)  t4:66%(44)  t8:97%(118)  t9:100%(49)
+
+BEST held-out top1: 66.4%  -> model/az/drag_v7_best.pth
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/drag_v7_np.npz (28MB fp16)
+checked 120 real decisions over 1 games: argmax agreement 120/120 = 100.0%  max |value diff| 0.0024  max |logit diff| 0.0056
+PASS
+== drag_v7 vs drag_v6f (run 1, N=120) ==
+  drag_v7 vs drag_v6f: 59-61 = 49.2%  (N=120)
+  (cross-deck head-to-head)
+== drag_v7 vs drag_v6f (replication, N=120) ==
+  drag_v7 vs drag_v6f: 52-68 = 43.3%  (N=120)
+  (cross-deck head-to-head)
+V7_DONE

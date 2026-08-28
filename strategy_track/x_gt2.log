@@ -1,0 +1,17 @@
+encoder your_deck <- my-agent/grimm_v12_live/deck.csv (60 cards)
+372 games / 5 players / cap=64 main_only=False feat=2
+  250/372 games -> 22591 decisions
+
+DONE: 372 games -> 33031 decisions -> model/az/imit_grimm_t2.npz (52MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                   32001  (88.3% of drops)
+  trivial_single_option                            3187  ( 8.8% of drops)
+  target_not_enumerated_type1                       520  ( 1.4% of drops)
+  no_select_or_action                               376  ( 1.0% of drops)
+  empty_choice                                      154  ( 0.4% of drops)
+  TOTAL DROPPED                                   36238   kept 33031 (47.7% of all decisions)
+
+kept by select type: {0: 15608, 1: 13590, 8: 2198, 9: 1013, 4: 324, 7: 181, 5: 110, 2: 7}
+candidates: mean 5.9 median 5 p90 11 max 64
+target index: mean 2.15  frac==0 34.2%  random-guess top1 25.5%

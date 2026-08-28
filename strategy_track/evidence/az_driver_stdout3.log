@@ -1,0 +1,14 @@
+[08-08 09:05] === AZ DRIVER START (resuming at iter 1) ===
+[08-08 09:05] iter 2: generating 3x350 games...
+[08-08 10:27] iter 2: training on 5 npz files...
+[08-08 10:34] iter 2 train tail: decisions, players ['selfplay']
+  + iter2_w1.npz: 59443 decisions, players ['selfplay']
+  + iter2_w2.npz: 29480 decisions, players ['selfplay']
+  + iter2_w3.npz: 29166 decisions, players ['selfplay']
+train: 209258 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.830  auc_T1-6=0.740  auc_T7-10=0.874  auc_T11+=0.904  agree_ref=1.000
+epoch 0: loss 0.1649 (val 0.1557 kl 0.0046)  REAL: auc_all=0.826  auc_T1-6=0.730  auc_T7-10=0.862  auc_T11+=0.911  agree_ref=0.969  409s
+BEST real-ladder value AUC: 0.830 (baseline 0.830)
+
+[08-08 10:34] iter 2: NOT ACCEPTED (no AUC improvement or anchor breach). Continuing.
+[08-08 10:34] iter 3: generating 3x350 games...

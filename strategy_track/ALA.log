@@ -1,0 +1,13 @@
+== ALA: new imitation vs old rules alakazam_v20 ==
+Traceback (most recent call last):
+  File "/tmp/ab_kd.py", line 12, in <module>
+    assert sys.modules[n0].mcts_agent is not sys.modules[n1].mcts_agent, "module isolation FAILED"
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'B_alakazam_v20' has no attribute 'mcts_agent'
+Round-robin: 2 agents, N=60/pair, 1 pairs...
+          ala_imit vs alakazam_v20     75.0%
+
+=== STANDINGS (avg WR across the stable) ===
+  ala_imit           75.0%
+  alakazam_v20       25.0%
+ALA_DONE

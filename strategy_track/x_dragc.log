@@ -1,0 +1,21 @@
+encoder your_deck <- dragapult_elite_deck.csv (60 cards)
+1317 games / 19 players / cap=64 main_only=False feat=2
+  250/1317 games -> 26989 decisions
+  500/1317 games -> 53582 decisions
+  750/1317 games -> 80362 decisions
+  1000/1317 games -> 107465 decisions
+  1250/1317 games -> 134632 decisions
+
+DONE: 1317 games -> 141931 decisions -> model/az/imit_drag_c.npz (236MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                  108808  (89.9% of drops)
+  trivial_single_option                           10366  ( 8.6% of drops)
+  no_select_or_action                              1369  ( 1.1% of drops)
+  empty_choice                                      267  ( 0.2% of drops)
+  target_not_enumerated_type1                       201  ( 0.2% of drops)
+  TOTAL DROPPED                                  121011   kept 141931 (54.0% of all decisions)
+
+kept by select type: {0: 69899, 1: 66179, 8: 3116, 4: 1425, 9: 1229, 5: 49, 7: 34}
+candidates: mean 7.4 median 5 p90 16 max 64
+target index: mean 3.06  frac==0 29.1%  random-guess top1 22.8%

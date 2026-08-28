@@ -1,0 +1,27 @@
+loading ['model/az/imit_oger_pals.npz']
+  + imit_oger_pals.npz: 6288 decisions, players ['palsystem']
+decoder feat=1 vocab=73847
+6288 decisions -> 6172 after filter (min_wr=0.0 wins_only=False main_only=False)
+91 games detected -> held-out 14 games / 891 decisions (disjoint from the 5281 training decisions)
+hashing candidate bags for tie groups...
+tie mask ready: 4634 extra credited candidates (0.74/decision)
+  [held-out baselines] n=891  random=21.1%  always-0=27.9%
+initialized from model/az/oger_imit_v3_best.pth
+device=mps  params=13,854,850  objective=softmax CE
+
+train=5281 held=891 epochs=6 bs=128
+epoch 0: loss 0.2001 (pol 0.2000 val 0.0003)  MAIN-top1 95.4%  all-top1 96.5% (strict 84.0%)  top3 99.3%  15s
+    t0:95%(587)  t1:99%(275)
+epoch 1: loss 0.1478 (pol 0.1477 val 0.0003)  MAIN-top1 95.2%  all-top1 96.6% (strict 84.3%)  top3 99.3%  13s
+    t0:95%(587)  t1:99%(275)
+epoch 2: loss 0.1003 (pol 0.1002 val 0.0002)  MAIN-top1 94.0%  all-top1 95.7% (strict 83.2%)  top3 99.4%  13s
+    t0:94%(587)  t1:99%(275)
+epoch 3: loss 0.0690 (pol 0.0689 val 0.0003)  MAIN-top1 94.4%  all-top1 96.0% (strict 83.7%)  top3 99.2%  13s
+    t0:94%(587)  t1:99%(275)
+epoch 4: loss 0.0512 (pol 0.0512 val 0.0002)  MAIN-top1 94.4%  all-top1 96.0% (strict 83.7%)  top3 99.2%  13s
+    t0:94%(587)  t1:99%(275)
+epoch 5: loss 0.0456 (pol 0.0455 val 0.0002)  MAIN-top1 94.0%  all-top1 95.7% (strict 83.5%)  top3 99.3%  13s
+    t0:94%(587)  t1:99%(275)
+
+BEST held-out top1: 96.6%  -> model/az/oger_imit_v4pal_best.pth
+STAGE2_DONE

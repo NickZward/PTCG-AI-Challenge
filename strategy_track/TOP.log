@@ -1,0 +1,59 @@
+== deck reconstruction ==
+OK: sixth_drag_deck.csv from 2 games of Sixth Sense (Dragapult)
+   4x Poké Pad
+   4x Buddy-Buddy Poffin
+   4x Dreepy
+   4x Basic {P} Energy
+   4x Drakloak
+   4x Crushing Hammer
+   4x Ultra Ball
+   3x Basic {R} Energy
+   3x Lillie's Determination
+   3x Dragapult ex
+OK: dipam_oger_deck.csv from 8 games of Dipam Chakraborty (Ogerpon)
+   14x Basic {G} Energy
+   4x Teal Mask Ogerpon ex
+   4x Ultra Ball
+   4x Lillie's Determination
+   4x Bug Catching Set
+   4x Forest of Vitality
+   2x Bayleef
+   2x Dawn
+   2x Boss’s Orders
+   2x Meowth ex
+OK: luca_mluc_deck.csv from 27 games of Luca (M-Lucario)
+   13x Basic {F} Energy
+   4x Mega Lucario ex
+   4x Ultra Ball
+   4x Premium Power Pro
+   4x Judge
+   4x Lillie's Determination
+   4x Poké Pad
+   4x Fighting Gong
+   3x Solrock
+   3x Riolu
+== DRAG v4 (SixthSense) vs drag_vf1 ==
+  drag_v4 vs drag_vf1: 50-30 = 62.5%  (N=80)
+  (cross-deck head-to-head)
+== MLUC v2 (Luca) vs mluc_imit ==
+  mluc_v2 vs mluc_imit: 29-30 = 49.2%  (N=60)
+  (cross-deck head-to-head)
+== OGER v4 (Dipam) vs oger_vf1 ==
+  oger_v4i vs oger_vf1: 50-30 = 62.5%  (N=80)
+  (cross-deck head-to-head)
+OK: mlop_elite_deck.csv from 13 games of カントー地方マスター(KantoRegionMaster) (M-Lopunny)
+   4x Buddy-Buddy Poffin
+   4x Mist Energy
+   4x Dunsparce
+   4x Poké Pad
+   4x Lillie's Determination
+   4x Wally's Compassion
+   4x Ultra Ball
+   3x Hilda
+   3x Dudunsparce
+   3x Air Balloon
+== MLOP sparring vs oger_vf1 (matchup sanity: M-Lopunny favored 64% vs Ogerpon) ==
+  mlop_imit vs oger_vf1: 16-24 = 40.0%  (N=40)
+  (cross-deck head-to-head)
+packaged submission_drag_v4.tar.gz + submission_oger_v4i.tar.gz
+TOP_DONE

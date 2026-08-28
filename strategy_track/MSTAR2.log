@@ -1,0 +1,56 @@
+encoder your_deck <- mstarmie_deck.csv (60 cards)
+66 games / 9 players / cap=64 main_only=False feat=2
+
+DONE: 66 games -> 2959 decisions -> model/az/imit_mstar.npz (5MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                    5028  (92.7% of drops)
+  trivial_single_option                             325  ( 6.0% of drops)
+  no_select_or_action                                66  ( 1.2% of drops)
+  target_not_enumerated_type1                         3  ( 0.1% of drops)
+  empty_choice                                        2  ( 0.0% of drops)
+  TOTAL DROPPED                                    5424   kept 2959 (35.3% of all decisions)
+
+kept by select type: {0: 1748, 1: 1133, 9: 32, 4: 31, 8: 12, 5: 3}
+candidates: mean 6.5 median 5 p90 12 max 56
+target index: mean 2.42  frac==0 38.3%  random-guess top1 23.4%
+loading ['model/az/imit_mstar.npz']
+  + imit_mstar.npz: 2959 decisions, players ['藤田聖矢', '🐱KittenLeague🐱', 'KL', "Mibbles' Lab", '🫣🤧']...
+decoder feat=2 vocab=73883
+2959 decisions -> 2935 after filter (min_wr=0.0 wins_only=False main_only=False)
+66 games detected -> held-out 19 games / 838 decisions (disjoint from the 2097 training decisions)
+hashing candidate bags for tie groups...
+tie mask ready: 1313 extra credited candidates (0.44/decision)
+  [held-out baselines] n=838  random=22.7%  always-0=36.6%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=2097 held=838 epochs=10 bs=128
+epoch 0: loss 1.0934 (pol 0.9202 val 0.0866)  MAIN-top1 50.4%  all-top1 50.0% (strict 43.3%)  top3 82.2%  4s
+    t0:50%(494)  t1:49%(325)
+epoch 1: loss 0.8461 (pol 0.7046 val 0.0707)  MAIN-top1 58.9%  all-top1 55.3% (strict 49.2%)  top3 84.7%  3s
+    t0:59%(494)  t1:49%(325)
+epoch 2: loss 0.6924 (pol 0.5779 val 0.0573)  MAIN-top1 59.3%  all-top1 57.9% (strict 51.7%)  top3 88.2%  3s
+    t0:59%(494)  t1:55%(325)
+epoch 3: loss 0.5795 (pol 0.4909 val 0.0443)  MAIN-top1 60.1%  all-top1 57.8% (strict 51.3%)  top3 86.9%  3s
+    t0:60%(494)  t1:54%(325)
+epoch 4: loss 0.4998 (pol 0.4289 val 0.0354)  MAIN-top1 61.1%  all-top1 61.0% (strict 53.8%)  top3 87.9%  4s
+    t0:61%(494)  t1:60%(325)
+epoch 5: loss 0.4318 (pol 0.3735 val 0.0292)  MAIN-top1 60.7%  all-top1 59.7% (strict 52.7%)  top3 87.4%  3s
+    t0:61%(494)  t1:57%(325)
+epoch 6: loss 0.3801 (pol 0.3275 val 0.0263)  MAIN-top1 61.1%  all-top1 61.5% (strict 54.5%)  top3 89.1%  4s
+    t0:61%(494)  t1:62%(325)
+epoch 7: loss 0.3335 (pol 0.2843 val 0.0246)  MAIN-top1 61.5%  all-top1 61.2% (strict 54.4%)  top3 89.1%  3s
+    t0:62%(494)  t1:60%(325)
+epoch 8: loss 0.3050 (pol 0.2579 val 0.0235)  MAIN-top1 62.1%  all-top1 61.9% (strict 55.0%)  top3 88.8%  3s
+    t0:62%(494)  t1:61%(325)
+epoch 9: loss 0.2971 (pol 0.2512 val 0.0229)  MAIN-top1 62.1%  all-top1 61.9% (strict 55.0%)  top3 88.8%  3s
+    t0:62%(494)  t1:61%(325)
+
+BEST held-out top1: 61.9%  -> model/az/mstar_imit_best.pth
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/mstar_imit_np.npz (28MB fp16)
+checked 120 real decisions over 2 games: argmax agreement 120/120 = 100.0%  max |value diff| 0.0008  max |logit diff| 0.0046
+PASS
+== validation: mstar_imit vs drag_v4 ==
+  mstar_imit vs drag_v4: 16-24 = 40.0%  (N=40)
+  (cross-deck head-to-head)
+MSTAR2_DONE

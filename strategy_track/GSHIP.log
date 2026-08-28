@@ -1,0 +1,5 @@
+== SEARCH DEPTH: grimm_fin64 vs grimm_fin (one variable) ==
+  grimm_fin64 vs grimm_fin: 38-41 = 48.1%  (N=80)
+  ONE VARIABLE: identical deck, identical mcts_agent, identical SEARCH; only model weights differ.
+packaged submission_grimm_fin.tar.gz + submission_grimm_fin64.tar.gz
+GSHIP_DONE

@@ -1,0 +1,41 @@
+FAIL: reconstructed 61 cards from 55 games (mixed lists — pilot changed decks mid-window)
+Traceback (most recent call last):
+  File "/Users/nickzwart/Desktop/PTCG-AI-Challenge/analysis/az_nn/extract_v2.py", line 335, in <module>
+    main()
+    ~~~~^^
+  File "/Users/nickzwart/Desktop/PTCG-AI-Challenge/analysis/az_nn/extract_v2.py", line 259, in main
+    OUR_DECK = [int(x) for x in open(flags["--deck"]).read().split()]
+                                ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'mstarmie_deck.csv'
+loading ['model/az/imit_mstar.npz']
+Traceback (most recent call last):
+  File "/Users/nickzwart/Desktop/PTCG-AI-Challenge/analysis/az_nn/train_imit_v2.py", line 463, in <module>
+    main()
+    ~~~~^^
+  File "/Users/nickzwart/Desktop/PTCG-AI-Challenge/analysis/az_nn/train_imit_v2.py", line 237, in main
+    enc, dec, meta, all_players = load(paths)
+                                  ~~~~^^^^^^^
+  File "/Users/nickzwart/Desktop/PTCG-AI-Challenge/analysis/az_nn/train_imit_v2.py", line 117, in load
+    z = np.load(p, allow_pickle=True)
+  File "/opt/anaconda3/lib/python3.13/site-packages/numpy/lib/_npyio_impl.py", line 454, in load
+    fid = stack.enter_context(open(os.fspath(file), "rb"))
+                              ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'model/az/imit_mstar.npz'
+Traceback (most recent call last):
+  File "/Users/nickzwart/Desktop/PTCG-AI-Challenge/analysis/az_nn/export_numpy.py", line 23, in <module>
+    arch = json.load(open(os.path.join(ROOT, "model/az", f"{name}_arch.json")))
+                     ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/mstar_imit_arch.json'
+== MSTAR validation vs drag_v4 (real M-Starmie beats Dragapult-class decks) ==
+Traceback (most recent call last):
+  File "/tmp/h2h.py", line 10, in <module>
+    FG._purge_private(); FG._prime_path(A); a0,d0 = RR.load(A,n0)
+                                                    ~~~~~~~^^^^^^
+  File "/Users/nickzwart/Desktop/PTCG-AI-Challenge/analysis/round_robin.py", line 29, in load
+    m = importlib.util.module_from_spec(spec); sys.modules[nm] = m; spec.loader.exec_module(m)
+                                                                    ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "<frozen importlib._bootstrap_external>", line 1023, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1160, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1218, in get_data
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/nickzwart/Desktop/PTCG-AI-Challenge/my-agent/mstar_imit/main.py'
+MSTAR_DONE

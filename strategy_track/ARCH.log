@@ -1,0 +1,67 @@
+== ARCHALUDON sparring build (45 sides — probe-grade) ==
+FAIL: reconstructed 58 cards from 10 games (not enough games)
+FAIL: reconstructed 59 cards from 6 games (not enough games)
+deck recon failed entirely
+encoder your_deck <- arch_deck.csv (60 cards)
+45 games / 26 players / cap=64 main_only=False feat=2
+
+DONE: 45 games -> 2563 decisions -> model/az/imit_arch.npz (4MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                    3972  (93.1% of drops)
+  trivial_single_option                             236  ( 5.5% of drops)
+  no_select_or_action                                45  ( 1.1% of drops)
+  empty_choice                                       14  ( 0.3% of drops)
+  target_not_enumerated_type1                         1  ( 0.0% of drops)
+  TOTAL DROPPED                                    4268   kept 2563 (37.5% of all decisions)
+
+kept by select type: {0: 1432, 1: 955, 9: 145, 8: 13, 5: 11, 4: 7}
+candidates: mean 6.7 median 6 p90 13 max 64
+target index: mean 1.53  frac==0 45.6%  random-guess top1 25.0%
+loading ['model/az/imit_arch.npz']
+  + imit_arch.npz: 2563 decisions, players ['Castian Hans', 'EUGENEYEUNG', 'Nithin maktha', 'wennan cao', 'Takaaki Matsuda']...
+decoder feat=2 vocab=73883
+2563 decisions -> 2507 after filter (min_wr=0.0 wins_only=False main_only=False)
+45 games detected -> held-out 9 games / 491 decisions (disjoint from the 2016 training decisions)
+hashing candidate bags for tie groups...
+tie mask ready: 1249 extra credited candidates (0.49/decision)
+  [held-out baselines] n=491  random=23.2%  always-0=40.1%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=2016 held=491 epochs=12 bs=128
+epoch 0: loss 1.1089 (pol 0.9855 val 0.0617)  MAIN-top1 44.7%  all-top1 46.0% (strict 46.0%)  top3 79.2%  5s
+    t0:45%(282)  t1:44%(178)  t9:73%(26)
+epoch 1: loss 0.8312 (pol 0.7405 val 0.0453)  MAIN-top1 52.8%  all-top1 58.0% (strict 58.0%)  top3 84.7%  4s
+    t0:53%(282)  t1:63%(178)  t9:73%(26)
+epoch 2: loss 0.6869 (pol 0.6089 val 0.0390)  MAIN-top1 49.3%  all-top1 60.3% (strict 60.3%)  top3 86.8%  4s
+    t0:49%(282)  t1:71%(178)  t9:100%(26)
+epoch 3: loss 0.5762 (pol 0.5152 val 0.0305)  MAIN-top1 56.0%  all-top1 66.2% (strict 66.2%)  top3 88.2%  4s
+    t0:56%(282)  t1:77%(178)  t9:100%(26)
+epoch 4: loss 0.4943 (pol 0.4490 val 0.0227)  MAIN-top1 58.2%  all-top1 67.6% (strict 67.6%)  top3 90.2%  4s
+    t0:58%(282)  t1:78%(178)  t9:100%(26)
+epoch 5: loss 0.3980 (pol 0.3580 val 0.0200)  MAIN-top1 55.3%  all-top1 67.6% (strict 67.6%)  top3 89.0%  4s
+    t0:55%(282)  t1:82%(178)  t9:100%(26)
+epoch 6: loss 0.3301 (pol 0.2932 val 0.0184)  MAIN-top1 59.6%  all-top1 68.8% (strict 68.8%)  top3 91.6%  4s
+    t0:60%(282)  t1:79%(178)  t9:100%(26)
+epoch 7: loss 0.2733 (pol 0.2387 val 0.0173)  MAIN-top1 59.6%  all-top1 70.3% (strict 70.3%)  top3 91.9%  4s
+    t0:60%(282)  t1:83%(178)  t9:100%(26)
+epoch 8: loss 0.2384 (pol 0.2060 val 0.0162)  MAIN-top1 59.9%  all-top1 70.5% (strict 70.5%)  top3 91.2%  4s
+    t0:60%(282)  t1:83%(178)  t9:100%(26)
+epoch 9: loss 0.2105 (pol 0.1810 val 0.0148)  MAIN-top1 60.6%  all-top1 71.1% (strict 71.1%)  top3 91.9%  4s
+    t0:61%(282)  t1:83%(178)  t9:100%(26)
+epoch 10: loss 0.1963 (pol 0.1673 val 0.0145)  MAIN-top1 59.9%  all-top1 70.9% (strict 70.9%)  top3 91.9%  4s
+    t0:60%(282)  t1:84%(178)  t9:100%(26)
+epoch 11: loss 0.1928 (pol 0.1637 val 0.0146)  MAIN-top1 60.3%  all-top1 71.1% (strict 71.1%)  top3 91.9%  4s
+    t0:60%(282)  t1:84%(178)  t9:100%(26)
+
+BEST held-out top1: 71.1%  -> model/az/arch_imit_best.pth
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/arch_imit_np.npz (28MB fp16)
+checked 120 real decisions over 1 games: argmax agreement 120/120 = 100.0%  max |value diff| 0.0002  max |logit diff| 0.0074
+PASS
+== arch_imit vs oger_v4i ==
+  arch_imit vs oger_v4i: 16-24 = 40.0%  (N=40)
+  (cross-deck head-to-head)
+== arch_imit vs drag_v4 ==
+  arch_imit vs drag_v4: 10-30 = 25.0%  (N=40)
+  (cross-deck head-to-head)
+ARCH_DONE

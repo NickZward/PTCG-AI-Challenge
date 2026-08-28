@@ -1,0 +1,31 @@
+loading ['model/az/imit_grimm_t2.npz']
+  + imit_grimm_t2.npz: 33031 decisions, players ['@kdcyberdude', 'Yopta', '213tubo', 'wwwwwwwwwwwwwwwwwwwwwwwwwwwwww', 'Dipam Chakraborty']
+decoder feat=2 vocab=73883
+33031 decisions -> 32637 after filter (min_wr=0.0 wins_only=False main_only=False)
+376 games detected -> held-out 58 games / 4953 decisions (disjoint from the 27684 training decisions)
+boosting players ['@kdcyberdude'] -> pids [0] x3.0
+hashing candidate bags for tie groups...
+tie mask ready: 4082 extra credited candidates (0.12/decision)
+  [held-out baselines] n=4953  random=24.4%  always-0=33.1%
+initialized from model/az/grimm_imit_v11_best.pth
+device=mps  params=13,859,458  objective=softmax CE
+
+train=27684 held=4953 epochs=6 bs=128
+epoch 0: loss 2.0783 (pol 1.7499 val 0.1642)  MAIN-top1 62.9%  all-top1 72.1% (strict 71.8%)  top3 93.5%  46s
+    t0:63%(2327)  t1:75%(2055)  t4:100%(48)  t8:99%(344)  t9:99%(161)
+epoch 1: loss 1.5437 (pol 1.3111 val 0.1163)  MAIN-top1 63.9%  all-top1 72.9% (strict 72.6%)  top3 93.9%  49s
+    t0:64%(2327)  t1:76%(2055)  t4:100%(48)  t8:99%(344)  t9:99%(161)
+epoch 2: loss 1.3066 (pol 1.1181 val 0.0943)  MAIN-top1 64.7%  all-top1 73.9% (strict 73.6%)  top3 94.3%  58s
+    t0:65%(2327)  t1:77%(2055)  t4:100%(48)  t8:99%(344)  t9:99%(161)
+epoch 3: loss 1.1491 (pol 0.9829 val 0.0831)  MAIN-top1 64.6%  all-top1 74.0% (strict 73.6%)  top3 94.4%  52s
+    t0:65%(2327)  t1:78%(2055)  t4:100%(48)  t8:99%(344)  t9:99%(161)
+epoch 4: loss 1.0519 (pol 0.8958 val 0.0780)  MAIN-top1 64.4%  all-top1 73.9% (strict 73.5%)  top3 94.4%  53s
+    t0:64%(2327)  t1:78%(2055)  t4:100%(48)  t8:99%(344)  t9:99%(161)
+epoch 5: loss 1.0109 (pol 0.8584 val 0.0763)  MAIN-top1 64.4%  all-top1 73.9% (strict 73.5%)  top3 94.4%  53s
+    t0:64%(2327)  t1:78%(2055)  t4:100%(48)  t8:99%(344)  t9:99%(161)
+
+BEST held-out top1: 74.0%  -> model/az/grimm_final_best.pth
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/grimm_final_np.npz (28MB fp16)
+  real disagreement: torch 7 (6.3516) vs np 0 (6.3526), torch gap 0.00099
+checked 200 real decisions over 2 games: argmax agreement 199/200 = 99.5%  max |value diff| 0.0008  max |logit diff| 0.0112
+PASS

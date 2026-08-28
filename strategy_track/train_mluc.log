@@ -1,0 +1,33 @@
+loading ['model/az/imit_mluc.npz']
+  + imit_mluc.npz: 42450 decisions, players ['Majkel1337', 'M Sato', '李秉叡（ntumlnoob）', 'Abhyuday', 'LiamK']...
+decoder feat=2 vocab=73883
+42450 decisions -> 41517 after filter (min_wr=0.0 wins_only=False main_only=False)
+680 games detected -> held-out 78 games / 4888 decisions (disjoint from the 36629 training decisions)
+hashing candidate bags for tie groups...
+tie mask ready: 9068 extra credited candidates (0.21/decision)
+  [held-out baselines] n=4888  random=19.8%  always-0=30.8%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=36629 held=4888 epochs=8 bs=128
+epoch 0: loss 0.8067 (pol 0.6850 val 0.0608)  MAIN-top1 53.8%  all-top1 57.8% (strict 56.8%)  top3 86.5%  89s
+    t0:54%(2952)  t1:61%(1764)  t4:98%(49)  t8:84%(25)  t9:100%(98)
+epoch 1: loss 0.6173 (pol 0.5317 val 0.0428)  MAIN-top1 57.3%  all-top1 62.0% (strict 61.0%)  top3 89.3%  89s
+    t0:57%(2952)  t1:66%(1764)  t4:98%(49)  t8:84%(25)  t9:100%(98)
+epoch 2: loss 0.5360 (pol 0.4652 val 0.0354)  MAIN-top1 59.8%  all-top1 63.3% (strict 62.2%)  top3 90.5%  78s
+    t0:60%(2952)  t1:66%(1764)  t4:98%(49)  t8:84%(25)  t9:100%(98)
+epoch 3: loss 0.4665 (pol 0.4075 val 0.0295)  MAIN-top1 60.7%  all-top1 65.6% (strict 64.6%)  top3 91.2%  79s
+    t0:61%(2952)  t1:71%(1764)  t4:98%(49)  t8:84%(25)  t9:100%(98)
+epoch 4: loss 0.3990 (pol 0.3477 val 0.0256)  MAIN-top1 61.8%  all-top1 65.9% (strict 64.8%)  top3 91.8%  77s
+    t0:62%(2952)  t1:70%(1764)  t4:100%(49)  t8:72%(25)  t9:100%(98)
+epoch 5: loss 0.3359 (pol 0.2903 val 0.0228)  MAIN-top1 61.8%  all-top1 66.2% (strict 65.1%)  top3 91.3%  100s
+    t0:62%(2952)  t1:70%(1764)  t4:100%(49)  t8:84%(25)  t9:100%(98)
+epoch 6: loss 0.2847 (pol 0.2423 val 0.0212)  MAIN-top1 62.0%  all-top1 66.1% (strict 65.0%)  top3 91.6%  75s
+    t0:62%(2952)  t1:70%(1764)  t4:100%(49)  t8:80%(25)  t9:100%(98)
+epoch 7: loss 0.2591 (pol 0.2178 val 0.0207)  MAIN-top1 61.8%  all-top1 66.1% (strict 65.0%)  top3 91.5%  75s
+    t0:62%(2952)  t1:70%(1764)  t4:100%(49)  t8:76%(25)  t9:100%(98)
+
+BEST held-out top1: 66.2%  -> model/az/mluc_imit_best.pth
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/mluc_imit_np.npz (28MB fp16)
+checked 120 real decisions over 1 games: argmax agreement 120/120 = 100.0%  max |value diff| 0.0009  max |logit diff| 0.0056
+PASS
+MLUC_DONE

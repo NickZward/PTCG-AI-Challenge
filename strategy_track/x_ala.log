@@ -1,0 +1,27 @@
+encoder your_deck <- alakazam_elite_deck.csv (60 cards)
+2935 games / 65 players / cap=64 main_only=False feat=2
+  250/2935 games -> 18209 decisions
+  500/2935 games -> 37695 decisions
+  750/2935 games -> 57200 decisions
+  1000/2935 games -> 77063 decisions
+  1250/2935 games -> 95687 decisions
+  1500/2935 games -> 114902 decisions
+  1750/2935 games -> 134796 decisions
+  2000/2935 games -> 155448 decisions
+  2250/2935 games -> 176325 decisions
+  2500/2935 games -> 195884 decisions
+  2750/2935 games -> 214732 decisions
+
+DONE: 2935 games -> 228830 decisions -> model/az/imit_ala.npz (397MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                  256779  (92.2% of drops)
+  trivial_single_option                           16902  ( 6.1% of drops)
+  no_select_or_action                              3229  ( 1.2% of drops)
+  target_not_enumerated_type1                      1264  ( 0.5% of drops)
+  empty_choice                                      276  ( 0.1% of drops)
+  TOTAL DROPPED                                  278450   kept 228830 (45.1% of all decisions)
+
+kept by select type: {0: 139581, 1: 63213, 9: 21514, 7: 2270, 5: 824, 8: 722, 4: 706}
+candidates: mean 8.9 median 6 p90 19 max 64
+target index: mean 3.78  frac==0 35.7%  random-guess top1 22.1%

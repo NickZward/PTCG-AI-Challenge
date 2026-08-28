@@ -1,0 +1,47 @@
+== 1200-FIELD JUDGEMENT ==
+General field gauntlet: N=60/opponent, 7 archetypes = 83.6% of the true meta (renormalised)
+
+===== my-agent/oger_v5 =====
+  vs Grimmsnarl    40-20  =  66.7%   (meta 21.9%)
+  vs Alakazam      11-49  =  18.3%   (meta 16.3%)
+  vs Dragapult     34-26  =  56.7%   (meta 14.1%)
+  vs M-Lopunny     38-22  =  63.3%   (meta 13.1%)
+  vs Ogerpon       27-33  =  45.0%   (meta 9.5%)
+  vs M-Lucario     30-30  =  50.0%   (meta 7.5%)
+  vs Crustle       24-36  =  40.0%   (meta 1.2%)
+  FIELD-WEIGHTED SCORE: 50.7%
+
+===== my-agent/oger_v4i =====
+  vs Grimmsnarl    52-8   =  86.7%   (meta 21.9%)
+  vs Alakazam      13-47  =  21.7%   (meta 16.3%)
+  vs Dragapult     28-32  =  46.7%   (meta 14.1%)
+  vs M-Lopunny     31-29  =  51.7%   (meta 13.1%)
+  vs M-Lucario     31-29  =  51.7%   (meta 7.5%)
+  vs Crustle       20-40  =  33.3%   (meta 1.2%)
+  FIELD-WEIGHTED SCORE: 54.2%
+
+===== my-agent/oger_vf1 =====
+  vs Grimmsnarl    43-17  =  71.7%   (meta 21.9%)
+  vs Alakazam       9-51  =  15.0%   (meta 16.3%)
+  vs Dragapult     27-33  =  45.0%   (meta 14.1%)
+  vs M-Lopunny     35-25  =  58.3%   (meta 13.1%)
+  vs Ogerpon       27-33  =  45.0%   (meta 9.5%)
+  vs M-Lucario     36-24  =  60.0%   (meta 7.5%)
+  vs Crustle        9-51  =  15.0%   (meta 1.2%)
+  FIELD-WEIGHTED SCORE: 49.1%
+
+===== my-agent/drag_v4 =====
+  vs Grimmsnarl    36-24  =  60.0%   (meta 21.9%)
+  vs Alakazam      39-21  =  65.0%   (meta 16.3%)
+  vs M-Lopunny     35-25  =  58.3%   (meta 13.1%)
+  vs Ogerpon       25-35  =  41.7%   (meta 9.5%)
+  vs M-Lucario     29-31  =  48.3%   (meta 7.5%)
+  vs Crustle       25-34  =  42.4%   (meta 1.2%)
+  FIELD-WEIGHTED SCORE: 56.8%
+
+=== RANKING ===
+   56.8%  my-agent/drag_v4
+   54.2%  my-agent/oger_v4i
+   50.7%  my-agent/oger_v5
+   49.1%  my-agent/oger_vf1
+JUDGE_DONE

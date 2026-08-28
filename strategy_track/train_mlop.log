@@ -1,0 +1,57 @@
+loading ['model/az/imit_mlop.npz']
+  + imit_mlop.npz: 256990 decisions, players ['loIzpo + emonga', 'Funky', 'Marshall Maximizer', 'Jack', 'matsurih']...
+decoder feat=2 vocab=73883
+256990 decisions -> 253993 after filter (min_wr=0.0 wins_only=False main_only=False)
+3485 games detected -> held-out 70 games / 4950 decisions (disjoint from the 249043 training decisions)
+hashing candidate bags for tie groups...
+  tie-hash 200000/256990
+tie mask ready: 32387 extra credited candidates (0.13/decision)
+  [held-out baselines] n=4950  random=17.7%  always-0=29.4%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=249043 held=4950 epochs=8 bs=128
+    ep0 500/1945 loss 0.6983
+    ep0 1000/1945 loss 0.6335
+    ep0 1500/1945 loss 0.6023
+epoch 0: loss 0.5840 (pol 0.4914 val 0.0463)  MAIN-top1 56.9%  all-top1 60.3% (strict 59.7%)  top3 87.6%  387s
+    t0:57%(3483)  t1:67%(1411)  t9:100%(41)
+    ep1 500/1945 loss 0.4956
+    ep1 1000/1945 loss 0.4871
+    ep1 1500/1945 loss 0.4808
+epoch 1: loss 0.4756 (pol 0.4006 val 0.0375)  MAIN-top1 60.1%  all-top1 63.4% (strict 62.8%)  top3 89.5%  451s
+    t0:60%(3483)  t1:70%(1411)  t9:100%(41)
+    ep2 500/1945 loss 0.4344
+    ep2 1000/1945 loss 0.4330
+    ep2 1500/1945 loss 0.4302
+epoch 2: loss 0.4292 (pol 0.3661 val 0.0316)  MAIN-top1 62.9%  all-top1 66.0% (strict 65.3%)  top3 90.0%  433s
+    t0:63%(3483)  t1:72%(1411)  t9:100%(41)
+    ep3 500/1945 loss 0.3904
+    ep3 1000/1945 loss 0.3930
+    ep3 1500/1945 loss 0.3913
+epoch 3: loss 0.3898 (pol 0.3358 val 0.0270)  MAIN-top1 62.8%  all-top1 66.1% (strict 65.4%)  top3 90.8%  409s
+    t0:63%(3483)  t1:73%(1411)  t9:100%(41)
+    ep4 500/1945 loss 0.3472
+    ep4 1000/1945 loss 0.3458
+    ep4 1500/1945 loss 0.3478
+epoch 4: loss 0.3470 (pol 0.3001 val 0.0234)  MAIN-top1 62.6%  all-top1 65.5% (strict 64.8%)  top3 90.3%  454s
+    t0:63%(3483)  t1:71%(1411)  t9:100%(41)
+    ep5 500/1945 loss 0.2960
+    ep5 1000/1945 loss 0.2974
+    ep5 1500/1945 loss 0.2984
+epoch 5: loss 0.2977 (pol 0.2562 val 0.0207)  MAIN-top1 62.2%  all-top1 65.2% (strict 64.6%)  top3 90.1%  445s
+    t0:62%(3483)  t1:71%(1411)  t9:100%(41)
+    ep6 500/1945 loss 0.2565
+    ep6 1000/1945 loss 0.2548
+    ep6 1500/1945 loss 0.2551
+epoch 6: loss 0.2553 (pol 0.2169 val 0.0192)  MAIN-top1 62.1%  all-top1 65.1% (strict 64.4%)  top3 89.8%  436s
+    t0:62%(3483)  t1:71%(1411)  t9:100%(41)
+    ep7 500/1945 loss 0.2325
+    ep7 1000/1945 loss 0.2328
+    ep7 1500/1945 loss 0.2315
+epoch 7: loss 0.2314 (pol 0.1943 val 0.0186)  MAIN-top1 61.4%  all-top1 64.6% (strict 64.0%)  top3 89.6%  432s
+    t0:61%(3483)  t1:71%(1411)  t9:100%(41)
+
+BEST held-out top1: 66.1%  -> model/az/mlop_imit_best.pth
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/mlop_imit_np.npz (28MB fp16)
+checked 120 real decisions over 1 games: argmax agreement 120/120 = 100.0%  max |value diff| 0.0016  max |logit diff| 0.0035
+PASS

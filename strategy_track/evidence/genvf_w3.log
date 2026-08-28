@@ -1,0 +1,17 @@
+  25/400 games -> 3133 states
+  50/400 games -> 6642 states
+  75/400 games -> 10187 states
+  100/400 games -> 13784 states
+  125/400 games -> 17910 states
+  150/400 games -> 21573 states
+  175/400 games -> 25074 states
+  200/400 games -> 29024 states
+  225/400 games -> 32547 states
+  250/400 games -> 36215 states
+  275/400 games -> 39470 states
+  300/400 games -> 43430 states
+  325/400 games -> 47110 states
+  350/400 games -> 50827 states
+  375/400 games -> 54379 states
+  400/400 games -> 57671 states
+DONE: 400 games (1 void) -> 57671 our-side states -> model/az/dudun_vf_w3.npz (102MB)  feat=2

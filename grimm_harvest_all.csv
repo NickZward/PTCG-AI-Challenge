@@ -1,0 +1,719 @@
+episode,path,player,side,won,opp_deck,player_winrate,player_games,my_deck,src
+86157633,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/86157633.json,jiatu.l,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+86470555,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/86470555.json,Substitute99,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+86568428,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/86568428.json,Y.Kaisei,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+86740194,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/86740194.json,ごんさくよねきち,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+86856198,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/86856198.json,Mark Cooper,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87207096,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/87207096.json,Marshall Maximizer,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87363346,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/87363346.json,AyFukushima,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87469723,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/87469723.json,Shunji Minode,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87507036,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/87507036.json,s_a_ai_enginner,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87649697,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/87649697.json,tonpeeee_pokemon,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87917706,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/87917706.json,hamuhei,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87939071,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/87939071.json,RyoK,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88038039,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/88038039.json,Pocket Arena,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88434980,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Christian/88434980.json,怒破餓鬼,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88448099,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Haggle/88448099.json,☕ Psyduck Needs Coffee,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88449173,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Haggle/88449173.json,saeNeko,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88450251,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Haggle/88450251.json,tetsu2131,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88451435,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Haggle/88451435.json,linjianrong,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88461156,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Haggle/88461156.json,Zhenyu Zhang,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88461654,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Haggle/88461654.json,J.Moriuchi,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88465440,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Haggle/88465440.json,대답해드리는게인지상정,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88098123,/Users/nickzwart/Desktop/Tonakaiiiii/88098123.json,miraiTDL,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88130447,/Users/nickzwart/Desktop/Tonakaiiiii/88130447.json,X,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88234136,/Users/nickzwart/Desktop/Tonakaiiiii/88234136.json,celebi,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88261675,/Users/nickzwart/Desktop/Tonakaiiiii/88261675.json,Xiangyu Liu,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88263142,/Users/nickzwart/Desktop/Tonakaiiiii/88263142.json,低消650元任你吃啊,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88449899,/Users/nickzwart/Desktop/Tonakaiiiii/88449899.json,山上海賊団,1,1,Crustle,0.60,0,Grimmsnarl,harvest
+88040823,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88040823.json,Eggplanck,1,1,other,0.60,0,Grimmsnarl,harvest
+88041430,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88041430.json,Eggplanck,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88042028,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88042028.json,Eggplanck,0,1,other,0.60,0,Grimmsnarl,harvest
+88042405,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88042405.json,Eggplanck,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88043867,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88043867.json,Eggplanck,1,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88045089,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88045089.json,Eggplanck,0,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88045645,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88045645.json,Eggplanck,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88046257,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88046257.json,Eggplanck,1,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88046792,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88046792.json,Eggplanck,0,1,other,0.60,0,Grimmsnarl,harvest
+88047396,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88047396.json,Eggplanck,1,1,M-Starmie,0.60,0,Grimmsnarl,harvest
+88048008,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88048008.json,渡邊征央,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88048626,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88048626.json,Eggplanck,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88049222,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88049222.json,Eggplanck,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88049838,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88049838.json,Eggplanck,1,1,Crustle,0.60,0,Grimmsnarl,harvest
+88050452,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88050452.json,Eggplanck,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88051082,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88051082.json,Eggplanck,1,1,other,0.60,0,Grimmsnarl,harvest
+88051694,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88051694.json,Eggplanck,0,1,other,0.60,0,Grimmsnarl,harvest
+88052926,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88052926.json,Eggplanck,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88053158,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88053158.json,Eggplanck,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88053547,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88053547.json,Eggplanck,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88054795,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88054795.json,Eggplanck,0,1,other,0.60,0,Grimmsnarl,harvest
+88055028,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88055028.json,Eggplanck,0,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88055416,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88055416.json,Eggplanck,1,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88057278,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88057278.json,Eggplanck,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88057875,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88057875.json,Eggplanck,1,1,other,0.60,0,Grimmsnarl,harvest
+88058505,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88058505.json,Eggplanck,0,1,M-Starmie,0.60,0,Grimmsnarl,harvest
+88060356,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88060356.json,Eggplanck,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88060983,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88060983.json,Eggplanck,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88061012,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88061012.json,Eggplanck,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88061598,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88061598.json,Eggplanck,1,1,M-Starmie,0.60,0,Grimmsnarl,harvest
+88062808,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88062808.json,Eggplanck,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88063402,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88063402.json,Eggplanck,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88065203,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88065203.json,Eggplanck,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88065703,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88065703.json,Eggplanck,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88065884,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88065884.json,Yiheng Wang,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88069584,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88069584.json,Eggplanck,1,1,Crustle,0.60,0,Grimmsnarl,harvest
+88097844,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88097844.json,Eggplanck,0,1,other,0.60,0,Grimmsnarl,harvest
+88105447,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88105447.json,Eggplanck,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88112179,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88112179.json,Eggplanck,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88120179,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88120179.json,Eggplanck,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88127009,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88127009.json,trainer-1,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88129669,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88129669.json,Eggplanck,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88132526,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88132526.json,Eggplanck,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88136386,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88136386.json,Eggplanck,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88151129,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88151129.json,Eggplanck,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88153606,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88153606.json,Eggplanck,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88169746,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88169746.json,Eggplanck,0,1,other,0.60,0,Grimmsnarl,harvest
+88184643,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88184643.json,Eggplanck,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88185039,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88185039.json,Eggplanck,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88200448,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88200448.json,Eggplanck,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88212647,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88212647.json,Eggplanck,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88216141,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88216141.json,Eggplanck,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88226286,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88226286.json,Eggplanck,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88226934,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88226934.json,Eggplanck,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88233777,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88233777.json,Eggplanck,0,1,other,0.60,0,Grimmsnarl,harvest
+88246351,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88246351.json,Eggplanck,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88249114,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88249114.json,Eggplanck,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88253051,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88253051.json,hoshi18,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88262037,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88262037.json,Marshall Maximizer,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88264071,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88264071.json,Eggplanck,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88285300,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88285300.json,Eggplanck,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88300118,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88300118.json,Eggplanck,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88304926,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88304926.json,Eggplanck,1,1,other,0.60,0,Grimmsnarl,harvest
+88304927,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88304927.json,Eggplanck,1,1,Crustle,0.60,0,Grimmsnarl,harvest
+88309670,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88309670.json,Eggplanck,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88319382,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88319382.json,Eggplanck,0,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88319961,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88319961.json,Eggplanck,0,1,other,0.60,0,Grimmsnarl,harvest
+88323326,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88323326.json,Eggplanck,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88324371,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88324371.json,Pokémon Day Care,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88325334,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88325334.json,JZ,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88330412,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88330412.json,ペンギン,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88331369,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88331369.json,Eggplanck,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88335715,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88335715.json,Rmy,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88342560,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88342560.json,GUOHAOYANG,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88347118,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88347118.json,Eggplanck,0,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88352398,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88352398.json,Eggplanck,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88356119,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88356119.json,Eggplanck,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88376453,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88376453.json,Eggplanck,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88382172,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88382172.json,Eggplanck,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88395826,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88395826.json,Eggplanck,0,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88404692,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88404692.json,me and the lads,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88407020,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88407020.json,Eggplanck,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88442900,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88442900.json,Eggplanck,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88448214,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88448214.json,Eggplanck,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88459898,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88459898.json,Eggplanck,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88461580,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88461580.json,Eggplanck,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88462320,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Eggplanck/88462320.json,Eggplanck,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88272528,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88272528.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88273037,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88273037.json,flg,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88274147,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88274147.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88274685,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88274685.json,flg,1,1,other,0.60,0,Grimmsnarl,harvest
+88275248,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88275248.json,flg,1,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88275756,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88275756.json,flg,1,1,other,0.60,0,Grimmsnarl,harvest
+88276309,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88276309.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88276850,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88276850.json,flg,1,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88277379,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88277379.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88277919,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88277919.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88278456,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88278456.json,Zhenyu Zhang,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88278981,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88278981.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88279516,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88279516.json,flg,0,1,Dipplin,0.60,0,Grimmsnarl,harvest
+88280046,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88280046.json,flg,1,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88280568,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88280568.json,nsytsqdtn,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88281105,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88281105.json,flg,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88281628,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88281628.json,flg,0,1,other,0.60,0,Grimmsnarl,harvest
+88282151,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88282151.json,flg,1,1,other,0.60,0,Grimmsnarl,harvest
+88282678,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88282678.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88283216,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88283216.json,flg,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88283752,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88283752.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88284792,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88284792.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88285321,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88285321.json,flg,1,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88285849,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88285849.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88286365,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88286365.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88286891,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88286891.json,matheus,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88287412,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88287412.json,NIWATORI,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88287943,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88287943.json,flg,0,1,other,0.60,0,Grimmsnarl,harvest
+88288547,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88288547.json,flg,1,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88289140,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88289140.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88289665,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88289665.json,flg,0,1,other,0.60,0,Grimmsnarl,harvest
+88289732,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88289732.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88290187,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88290187.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88290691,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88290691.json,flg,1,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88291239,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88291239.json,JZ,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88291765,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88291765.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88292283,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88292283.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88292793,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88292793.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88293303,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88293303.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88293830,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88293830.json,flg,1,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88294854,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88294854.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88295359,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88295359.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88295884,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88295884.json,flg,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88296944,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88296944.json,szlachetny snieg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88298050,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88298050.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88298570,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88298570.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88299080,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88299080.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88299587,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88299587.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88300124,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88300124.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88300642,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88300642.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88301154,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88301154.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88301667,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88301667.json,Dries @ Tufa Labs,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88302191,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88302191.json,flg,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88302716,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88302716.json,flg,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88303246,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88303246.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88303772,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88303772.json,KawattaTaido,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88304352,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88304352.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88304889,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88304889.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88305392,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88305392.json,szlachetny snieg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88305941,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88305941.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88306457,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88306457.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88306995,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88306995.json,flg,0,1,other,0.60,0,Grimmsnarl,harvest
+88307497,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88307497.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88308559,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88308559.json,flg,0,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88309079,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88309079.json,flg,0,1,other,0.60,0,Grimmsnarl,harvest
+88309580,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88309580.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88310630,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88310630.json,e-toppo + kurupical,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88311152,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88311152.json,flg,1,1,other,0.60,0,Grimmsnarl,harvest
+88311665,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88311665.json,flg,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88311668,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88311668.json,Dries @ Tufa Labs,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88312244,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88312244.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88312756,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88312756.json,flg,1,1,other,0.60,0,Grimmsnarl,harvest
+88313788,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88313788.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88314306,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88314306.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88314819,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88314819.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88315323,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88315323.json,szlachetny snieg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88315839,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88315839.json,flg,0,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88315857,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88315857.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88316355,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88316355.json,flg,1,1,other,0.60,0,Grimmsnarl,harvest
+88316877,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88316877.json,SQUIRTLE (prime),1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88317387,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88317387.json,flg,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88317901,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88317901.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88318407,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88318407.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88318930,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88318930.json,flg,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88319442,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88319442.json,flg,1,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88319952,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88319952.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88321008,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88321008.json,KawattaTaido,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88321510,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88321510.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88322038,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88322038.json,e-toppo + kurupical,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88322611,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88322611.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88323126,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88323126.json,Dries @ Tufa Labs,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88323648,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88323648.json,flg,0,1,Dipplin,0.60,0,Grimmsnarl,harvest
+88324169,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88324169.json,flg,1,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88324686,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88324686.json,Pokemon Siuuuu,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88325221,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88325221.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88325732,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88325732.json,flg,0,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88326258,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88326258.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88327280,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88327280.json,flg,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88327281,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88327281.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88327791,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88327791.json,flg,0,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88328301,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88328301.json,flg,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88328846,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88328846.json,Azat Akhtyamov,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88329371,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88329371.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88329377,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88329377.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88329907,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88329907.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88330436,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88330436.json,szlachetny snieg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88330956,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88330956.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88331477,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88331477.json,szlachetny snieg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88331486,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88331486.json,Dries @ Tufa Labs,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88332006,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88332006.json,flg,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88332514,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88332514.json,Azat Akhtyamov,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88333038,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88333038.json,flg,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88333043,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88333043.json,flg,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88333542,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88333542.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88333562,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88333562.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88334081,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88334081.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88334592,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88334592.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88335126,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88335126.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88335647,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88335647.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88336164,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88336164.json,flg,0,1,other,0.60,0,Grimmsnarl,harvest
+88336694,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88336694.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88336696,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88336696.json,SQUIRTLE (prime),1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88337750,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88337750.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88338805,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88338805.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88338806,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88338806.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88338807,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88338807.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88339854,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88339854.json,Eduardo Rocha de Andrade,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88339859,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88339859.json,flg,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88340377,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88340377.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88340908,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88340908.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88340935,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88340935.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88341487,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88341487.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88341814,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88341814.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88342026,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88342026.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88342562,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88342562.json,Azat Akhtyamov,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88343094,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88343094.json,flg,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88343100,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88343100.json,Dries @ Tufa Labs,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88343622,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88343622.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88344684,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88344684.json,flg,0,1,other,0.60,0,Grimmsnarl,harvest
+88345191,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88345191.json,LiamK,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88345198,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88345198.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88345729,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88345729.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88345733,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88345733.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88345744,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88345744.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88345824,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88345824.json,flg,0,1,Dipplin,0.60,0,Grimmsnarl,harvest
+88346252,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88346252.json,flg,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88346790,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88346790.json,flg,1,1,M-Starmie,0.60,0,Grimmsnarl,harvest
+88347314,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88347314.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88347839,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88347839.json,LiamK,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88347851,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88347851.json,flg,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88348366,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88348366.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88349421,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88349421.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88349952,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88349952.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88350478,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88350478.json,flg,0,1,other,0.60,0,Grimmsnarl,harvest
+88350996,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88350996.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88351512,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88351512.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88351515,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88351515.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88352044,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88352044.json,flg,1,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88352577,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88352577.json,flg,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88352588,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88352588.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88353109,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88353109.json,flg,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88353649,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88353649.json,LiamK,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88354156,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88354156.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88354161,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88354161.json,e-toppo + kurupical,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88354684,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88354684.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88355205,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88355205.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88355726,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88355726.json,Dries @ Tufa Labs,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88356246,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88356246.json,Azat Akhtyamov,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88356257,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88356257.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88356779,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88356779.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88356792,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88356792.json,flg,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88357297,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88357297.json,Azat Akhtyamov,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88357346,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88357346.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88357836,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88357836.json,flg,1,1,other,0.60,0,Grimmsnarl,harvest
+88358359,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88358359.json,Azat Akhtyamov,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88358876,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88358876.json,flg,1,1,Crustle,0.60,0,Grimmsnarl,harvest
+88359414,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88359414.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88359943,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88359943.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88360456,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88360456.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88360460,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88360460.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88360985,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88360985.json,flg,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88361451,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88361451.json,flg,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88361515,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88361515.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88362566,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88362566.json,Hancang Mi,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88363101,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88363101.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88363617,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88363617.json,懒惰的金枪鱼,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88364104,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88364104.json,e-toppo + kurupical,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88364659,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88364659.json,Hancang Mi,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88365713,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88365713.json,e-toppo + kurupical,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88367270,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88367270.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88368822,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88368822.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88369306,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88369306.json,Dries @ Tufa Labs,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88369329,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88369329.json,szlachetny snieg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88369879,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88369879.json,flg,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88370341,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88370341.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88370848,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88370848.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88371354,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88371354.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88371871,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88371871.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88372410,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88372410.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88372931,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88372931.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88373450,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88373450.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88373958,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88373958.json,想要成为kaggle大师,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88374496,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88374496.json,flg,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88375013,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88375013.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88375526,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88375526.json,Dries @ Tufa Labs,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88376052,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88376052.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88376576,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88376576.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88377107,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88377107.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88378166,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88378166.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88378685,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88378685.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88379215,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88379215.json,LiamK,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88379737,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88379737.json,flg,0,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88379800,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88379800.json,flg,1,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88380260,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88380260.json,flg,0,1,other,0.60,0,Grimmsnarl,harvest
+88380772,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88380772.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88381305,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88381305.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88381803,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88381803.json,LiamK,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88382338,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88382338.json,LiamK,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88382845,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88382845.json,flg,0,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88383353,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88383353.json,flg,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88383877,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88383877.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88384430,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88384430.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88384936,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88384936.json,flg,0,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88385453,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88385453.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88385980,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88385980.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88386500,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88386500.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88386507,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88386507.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88387029,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88387029.json,flg,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88387555,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88387555.json,JZ,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88388065,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88388065.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88388575,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88388575.json,flg,1,1,M-Starmie,0.60,0,Grimmsnarl,harvest
+88389096,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88389096.json,Pokemon Siuuuu,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88389099,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88389099.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88389629,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88389629.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88390196,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88390196.json,szlachetny snieg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88390678,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88390678.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88391205,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88391205.json,Hancang Mi,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88391736,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88391736.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88392252,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88392252.json,flg,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88392756,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88392756.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88393272,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88393272.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88393785,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88393785.json,Luca,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88394318,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88394318.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88394850,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88394850.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88394854,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88394854.json,Dries @ Tufa Labs,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88395441,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88395441.json,flg,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88396033,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88396033.json,Iliamna,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88396557,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88396557.json,flg,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88397064,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88397064.json,flg,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88397585,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88397585.json,LiamK,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88398627,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88398627.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88399128,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88399128.json,flg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88399654,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88399654.json,flg,1,1,other,0.60,0,Grimmsnarl,harvest
+88400188,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88400188.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88400708,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88400708.json,flg,0,1,other,0.60,0,Grimmsnarl,harvest
+88401237,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88401237.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88401755,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88401755.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88402271,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88402271.json,flg,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88402798,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88402798.json,Dries @ Tufa Labs,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88402805,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88402805.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88402812,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88402812.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88403325,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88403325.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88403839,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88403839.json,flg,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88404882,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88404882.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88405395,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88405395.json,flg,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88405911,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88405911.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88406946,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88406946.json,flg,1,1,other,0.60,0,Grimmsnarl,harvest
+88407474,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88407474.json,LiamK,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88407997,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88407997.json,flg,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88408524,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88408524.json,Dries @ Tufa Labs,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88409055,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88409055.json,flg,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88410095,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88410095.json,Marshall Maximizer,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88410618,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88410618.json,flg,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88125652,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88125652.json,__Taichicchi__,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88126172,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88126172.json,__Taichicchi__,0,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88126707,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88126707.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88127219,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88127219.json,__Taichicchi__,0,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88127515,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88127515.json,__Taichicchi__,0,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88127735,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88127735.json,__Taichicchi__,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88129318,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88129318.json,__Taichicchi__,0,1,Dipplin,0.60,0,Grimmsnarl,harvest
+88129836,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88129836.json,__Taichicchi__,1,1,other,0.60,0,Grimmsnarl,harvest
+88130354,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88130354.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88130874,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88130874.json,__Taichicchi__,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88131396,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88131396.json,__Taichicchi__,0,1,other,0.60,0,Grimmsnarl,harvest
+88132448,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88132448.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88132980,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88132980.json,__Taichicchi__,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88133519,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88133519.json,__Taichicchi__,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88134548,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88134548.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88135080,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88135080.json,__Taichicchi__,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88135415,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88135415.json,__Taichicchi__,0,1,other,0.60,0,Grimmsnarl,harvest
+88135625,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88135625.json,__Taichicchi__,1,1,other,0.60,0,Grimmsnarl,harvest
+88136823,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88136823.json,__Taichicchi__,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88137204,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88137204.json,__Taichicchi__,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88137725,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88137725.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88138254,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88138254.json,__Taichicchi__,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88138373,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88138373.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88138775,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88138775.json,__Taichicchi__,0,1,other,0.60,0,Grimmsnarl,harvest
+88138866,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88138866.json,__Taichicchi__,0,1,other,0.60,0,Grimmsnarl,harvest
+88139300,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88139300.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88139811,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88139811.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88139896,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88139896.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88140340,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88140340.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88140888,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88140888.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88140998,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88140998.json,__Taichicchi__,1,1,other,0.60,0,Grimmsnarl,harvest
+88142451,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88142451.json,SQUIRTLE (prime),1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88142970,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88142970.json,__Taichicchi__,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88143051,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88143051.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88143053,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88143053.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88143509,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88143509.json,btk15049,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88144042,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88144042.json,__Taichicchi__,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88144116,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88144116.json,__Taichicchi__,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88144573,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88144573.json,__Taichicchi__,0,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88145141,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88145141.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88145664,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88145664.json,__Taichicchi__,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88146184,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88146184.json,__Taichicchi__,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88146940,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88146940.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88147202,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88147202.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88147780,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88147780.json,__Taichicchi__,0,1,other,0.60,0,Grimmsnarl,harvest
+88147842,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88147842.json,__Taichicchi__,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88148291,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88148291.json,__Taichicchi__,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88148844,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88148844.json,__Taichicchi__,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88149902,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88149902.json,szlachetny snieg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88149914,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88149914.json,213tubo,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88150423,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88150423.json,__Taichicchi__,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88150995,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88150995.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88151044,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88151044.json,__Taichicchi__,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88151555,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88151555.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88151603,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88151603.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88152172,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88152172.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88153228,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88153228.json,__Taichicchi__,1,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88153759,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88153759.json,iwashi,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88153779,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88153779.json,__Taichicchi__,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88154298,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88154298.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88154796,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88154796.json,__Taichicchi__,1,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88155345,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88155345.json,__Taichicchi__,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88155890,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88155890.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88156423,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88156423.json,__Taichicchi__,1,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88157011,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88157011.json,__Taichicchi__,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88157536,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88157536.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88157556,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88157556.json,__Taichicchi__,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88158603,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88158603.json,__Taichicchi__,1,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88158928,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88158928.json,__Taichicchi__,1,1,M-Starmie,0.60,0,Grimmsnarl,harvest
+88159136,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88159136.json,__Taichicchi__,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88159655,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88159655.json,__Taichicchi__,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88160190,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88160190.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88160747,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88160747.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88161283,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88161283.json,__Taichicchi__,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88161802,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88161802.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88162329,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88162329.json,Dries @ Tufa Labs,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88162792,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88162792.json,Dries @ Tufa Labs,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88162866,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88162866.json,__Taichicchi__,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88163405,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88163405.json,__Taichicchi__,1,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88163928,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88163928.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88164484,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88164484.json,__Taichicchi__,1,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88168103,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88168103.json,Dries @ Tufa Labs,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88171305,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88171305.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88174601,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88174601.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88178778,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88178778.json,Dries @ Tufa Labs,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88182451,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88182451.json,__Taichicchi__,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88182522,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88182522.json,__Taichicchi__,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88183047,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88183047.json,Dries @ Tufa Labs,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88184099,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88184099.json,Dries @ Tufa Labs,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88185353,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88185353.json,__Taichicchi__,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88185355,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88185355.json,__Taichicchi__,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88186178,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88186178.json,__Taichicchi__,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88188344,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88188344.json,JZ,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88190458,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88190458.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88191000,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88191000.json,__Taichicchi__,1,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88191506,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88191506.json,__Taichicchi__,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88191988,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88191988.json,KawattaTaido,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88193019,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88193019.json,__Taichicchi__,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88193551,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88193551.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88193634,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88193634.json,NguyenThanhNhan,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88196831,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88196831.json,lolzpo + emonga,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88197906,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88197906.json,__Taichicchi__,1,1,other,0.60,0,Grimmsnarl,harvest
+88198775,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88198775.json,JZ,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88198893,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88198893.json,__Taichicchi__,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88200027,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88200027.json,__Taichicchi__,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88207899,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88207899.json,__Taichicchi__,1,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88220566,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88220566.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88221669,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88221669.json,__Taichicchi__,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87812470,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87812470.json,Dominic Peel,1,1,Crustle,0.60,0,Grimmsnarl,harvest
+87814593,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87814593.json,Dominic Peel,0,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+87815126,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87815126.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+87815660,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87815660.json,Dominic Peel,0,1,Dragapult,0.60,0,Grimmsnarl,harvest
+87815933,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87815933.json,Dominic Peel,0,1,Dragapult,0.60,0,Grimmsnarl,harvest
+87816184,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87816184.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+87817237,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87817237.json,Dominic Peel,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+87817768,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87817768.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+87818308,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87818308.json,Dominic Peel,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+87818824,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87818824.json,Dominic Peel,0,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+87819366,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87819366.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+87819892,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87819892.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+87820419,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87820419.json,Dominic Peel,0,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+87820951,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87820951.json,Dominic Peel,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+87821483,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87821483.json,Dominic Peel,1,1,other,0.60,0,Grimmsnarl,harvest
+87822538,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87822538.json,Dominic Peel,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87822968,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87822968.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87823061,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87823061.json,Dominic Peel,0,1,Dragapult,0.60,0,Grimmsnarl,harvest
+87823531,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87823531.json,Dominic Peel,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+87824069,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87824069.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87824612,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87824612.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+87825134,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87825134.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+87825665,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87825665.json,Dominic Peel,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87826209,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87826209.json,Dominic Peel,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87826740,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87826740.json,Dominic Peel,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+87827803,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87827803.json,yw8837,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87828339,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87828339.json,Dominic Peel,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87828881,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87828881.json,Dominic Peel,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87829407,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87829407.json,Dominic Peel,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87829928,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87829928.json,Dominic Peel,1,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+87830450,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87830450.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+87830962,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87830962.json,Dominic Peel,1,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+87831489,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87831489.json,Dominic Peel,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87831555,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87831555.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+87832017,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87832017.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+87832550,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87832550.json,Dominic Peel,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87833073,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87833073.json,Dominic Peel,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+87833604,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87833604.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87834135,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87834135.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+87835193,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87835193.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+87835732,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87835732.json,Dominic Peel,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+87836253,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87836253.json,Dominic Peel,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+87836793,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87836793.json,Dominic Peel,0,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+87837317,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87837317.json,Dominic Peel,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87837842,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87837842.json,cyrus,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87838895,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87838895.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+87843220,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87843220.json,Dominic Peel,0,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87847774,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87847774.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+87847908,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87847908.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+87855242,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87855242.json,Dominic Peel,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+87864481,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87864481.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87877363,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87877363.json,Dominic Peel,1,1,Dragapult,0.60,0,Grimmsnarl,harvest
+87889045,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87889045.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87905823,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87905823.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87908659,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87908659.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+87931812,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87931812.json,Dominic Peel,1,1,Dragapult,0.60,0,Grimmsnarl,harvest
+87933490,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87933490.json,Dominic Peel,1,1,other,0.60,0,Grimmsnarl,harvest
+87933652,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87933652.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87934476,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87934476.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+87943912,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87943912.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+87947737,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87947737.json,西松大祐,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87953133,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87953133.json,Dominic Peel,1,1,M-Starmie,0.60,0,Grimmsnarl,harvest
+87953722,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87953722.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87959388,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87959388.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87967708,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87967708.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+87968723,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87968723.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+87971100,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87971100.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87972356,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87972356.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87972392,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87972392.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87982940,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87982940.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87985224,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87985224.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87986004,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87986004.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+87986764,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87986764.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+87997272,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/87997272.json,Dominic Peel,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88007063,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88007063.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88010929,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88010929.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88012138,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88012138.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88015727,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88015727.json,JZ,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88026520,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88026520.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88034404,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88034404.json,Dominic Peel,1,1,Crustle,0.60,0,Grimmsnarl,harvest
+88047075,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88047075.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88050145,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88050145.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88057879,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88057879.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88073640,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88073640.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88078743,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88078743.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88091145,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88091145.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+88092203,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88092203.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+88101265,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88101265.json,Dominic Peel,1,1,Crustle,0.60,0,Grimmsnarl,harvest
+88102797,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88102797.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88103357,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88103357.json,Dominic Peel,1,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88110618,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88110618.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88113074,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88113074.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88116974,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88116974.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88117884,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88117884.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88123373,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88123373.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88124790,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88124790.json,Dominic Peel,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88125476,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88125476.json,那个男人,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88126545,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88126545.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88127006,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88127006.json,Dominic Peel,1,1,other,0.60,0,Grimmsnarl,harvest
+88127914,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88127914.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88128023,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88128023.json,Dominic Peel,0,1,Crustle,0.60,0,Grimmsnarl,harvest
+88128471,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88128471.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88128959,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88128959.json,Rmy,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88128984,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88128984.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88129507,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88129507.json,Dominic Peel,0,1,Dipplin,0.60,0,Grimmsnarl,harvest
+88129975,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88129975.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88130025,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88130025.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88131067,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88131067.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88131549,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88131549.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88132098,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88132098.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88132614,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88132614.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+88133136,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88133136.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88133660,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88133660.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88134169,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88134169.json,Dominic Peel,1,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88134687,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88134687.json,NguyenThanhNhan,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88134872,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88134872.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88135212,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88135212.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+88136334,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88136334.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88136784,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88136784.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88137317,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88137317.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88137802,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88137802.json,Dominic Peel,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88138888,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88138888.json,Dominic Peel,1,1,other,0.60,0,Grimmsnarl,harvest
+88139398,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88139398.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88139501,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88139501.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88139878,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88139878.json,Azat Akhtyamov,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88139913,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88139913.json,Dominic Peel,1,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88140437,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88140437.json,カントー地方マスター,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88140934,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88140934.json,Dominic Peel,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88140968,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88140968.json,e-toppo + kurupical,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88140980,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88140980.json,Dominic Peel,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88141506,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88141506.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88141982,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88141982.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88142034,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88142034.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88142536,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88142536.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88142540,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88142540.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88143044,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88143044.json,e-toppo + kurupical,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88143046,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88143046.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88143572,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88143572.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88143626,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88143626.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+88145189,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88145189.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88145654,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88145654.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88145737,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88145737.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88146236,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88146236.json,Dominic Peel,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88146675,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88146675.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88146768,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88146768.json,Dominic Peel,0,1,other,0.60,0,Grimmsnarl,harvest
+88147803,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88147803.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88148331,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88148331.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88148335,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88148335.json,Dominic Peel,1,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88149443,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88149443.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88149927,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88149927.json,jneums,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88150008,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88150008.json,Dominic Peel,1,1,Crustle,0.60,0,Grimmsnarl,harvest
+88150455,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88150455.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88151622,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88151622.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88152286,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88152286.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88152700,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88152700.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88152716,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88152716.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88153713,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88153713.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88153769,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88153769.json,Dominic Peel,0,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88154293,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88154293.json,Dominic Peel,1,1,other,0.60,0,Grimmsnarl,harvest
+88154713,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88154713.json,Dries @ Tufa Labs,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88154717,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88154717.json,Dries @ Tufa Labs,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88154919,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88154919.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88155369,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88155369.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88155884,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88155884.json,Dominic Peel,1,1,other,0.60,0,Grimmsnarl,harvest
+88155899,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88155899.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88156445,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88156445.json,Dominic Peel,1,1,other,0.60,0,Grimmsnarl,harvest
+88158086,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88158086.json,Dominic Peel,1,1,Dragapult,0.60,0,Grimmsnarl,harvest
+88158114,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88158114.json,Kotaro OKUYAMA,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88158618,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88158618.json,西松大祐,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88159048,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88159048.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88159194,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88159194.json,Eduardo Rocha de Andrade,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88159758,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88159758.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88160278,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88160278.json,JZ,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88164326,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88164326.json,Dominic Peel,0,1,M-Starmie,0.60,0,Grimmsnarl,harvest
+88167067,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88167067.json,Dries @ Tufa Labs,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88168110,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88168110.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88172324,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88172324.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88174062,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88174062.json,Dominic Peel,1,1,other,0.60,0,Grimmsnarl,harvest
+88174082,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88174082.json,Dominic Peel,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88174881,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88174881.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88181966,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88181966.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88189413,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88189413.json,Dominic Peel,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88195752,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88195752.json,Dominic Peel,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88197054,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88197054.json,Zhenyu Zhang,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88201882,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88201882.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88207928,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88207928.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88213695,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88213695.json,Dominic Peel,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88214698,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88214698.json,Dominic Peel,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88222775,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88222775.json,Rafael,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88224076,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88224076.json,Dominic Peel,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88226223,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88226223.json,A. R. SEKKAT,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88207570,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88207570.json,Luca,0,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88208100,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88208100.json,Luca,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88208668,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88208668.json,Luca,1,1,Archaludon,0.60,0,Grimmsnarl,harvest
+88209189,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88209189.json,Luca,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88209717,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88209717.json,Luca,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88210250,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88210250.json,Luca,1,1,Crustle,0.60,0,Grimmsnarl,harvest
+88210273,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88210273.json,Luca,1,1,other,0.60,0,Grimmsnarl,harvest
+88210789,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88210789.json,Luca,0,1,other,0.60,0,Grimmsnarl,harvest
+88211302,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88211302.json,Luca,0,1,other,0.60,0,Grimmsnarl,harvest
+88211848,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88211848.json,Luca,0,1,other,0.60,0,Grimmsnarl,harvest
+88212911,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88212911.json,Luca,0,1,M-Starmie,0.60,0,Grimmsnarl,harvest
+88213446,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88213446.json,Luca,0,1,M-Kangaskhan,0.60,0,Grimmsnarl,harvest
+88214013,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88214013.json,Luca,1,1,Dipplin,0.60,0,Grimmsnarl,harvest
+88214558,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88214558.json,Luca,0,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88215088,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88215088.json,Luca,1,1,M-Lucario,0.60,0,Grimmsnarl,harvest
+88216170,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88216170.json,Dries @ Tufa Labs,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88216689,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88216689.json,Luca,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88217256,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88217256.json,Luca,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88217775,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88217775.json,Luca,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88218280,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88218280.json,Luca,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88218806,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88218806.json,Luca,1,1,Alakazam,0.60,0,Grimmsnarl,harvest
+88219334,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88219334.json,Luca,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88219853,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88219853.json,Luca,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88220415,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88220415.json,Luca,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88220948,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88220948.json,Luca,1,1,other,0.60,0,Grimmsnarl,harvest
+88221484,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88221484.json,JZ,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88222012,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88222012.json,szlachetny snieg,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88222536,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88222536.json,Luca,0,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88223088,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88223088.json,Luca,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88224145,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88224145.json,JZ,1,1,Grimmsnarl,0.60,0,Grimmsnarl,harvest
+88224669,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88224669.json,Luca,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest
+88225729,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Luca/88225729.json,Luca,0,1,Cynthia-Garchomp,0.60,0,Grimmsnarl,harvest

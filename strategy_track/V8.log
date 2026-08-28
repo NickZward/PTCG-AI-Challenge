@@ -1,0 +1,202 @@
+== V8 REFRESH Fri Aug 14 22:08:47 CEST 2026 ==
+palsystem: subs [55480973], 80 episodes listed
+@kdcyberdude: subs [55487406, 55501182], 160 episodes listed
+missing to scrape: 30
+  10/30 (ok 10)
+  20/30 (ok 20)
+  30/30 (ok 30)
+done: 30 fetched, 0 skipped, 0 failed
+indexing 30 files with 6 workers...
+wrote dump_index_v8extra.csv: 30 games
+drag_v8_manifest.csv: 3997 sides; teachers: {'Sixth Sense': 536, 'flg': 269, 'palsystem': 88, '@kdcyberdude': 92}
+encoder your_deck <- flg_drag_deck.csv (60 cards)
+3748 games / 41 players / cap=64 main_only=False feat=2
+  250/3748 games -> 27164 decisions
+  500/3748 games -> 53541 decisions
+  750/3748 games -> 81614 decisions
+  1000/3748 games -> 109289 decisions
+  1250/3748 games -> 137835 decisions
+  1500/3748 games -> 164304 decisions
+  1750/3748 games -> 192979 decisions
+  2000/3748 games -> 220807 decisions
+  2250/3748 games -> 247207 decisions
+  2500/3748 games -> 273949 decisions
+  2750/3748 games -> 301420 decisions
+  3000/3748 games -> 328111 decisions
+  3250/3748 games -> 355132 decisions
+  3500/3748 games -> 382291 decisions
+
+DONE: 3748 games -> 410151 decisions -> model/az/imit_drag_v8.npz (678MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                  316383  (90.1% of drops)
+  trivial_single_option                           29440  ( 8.4% of drops)
+  no_select_or_action                              3997  ( 1.1% of drops)
+  empty_choice                                      662  ( 0.2% of drops)
+  target_not_enumerated_type1                       599  ( 0.2% of drops)
+  TOTAL DROPPED                                  351081   kept 410151 (53.9% of all decisions)
+
+kept by select type: {0: 202408, 1: 191281, 8: 8298, 4: 4491, 9: 3467, 5: 163, 7: 43}
+candidates: mean 7.2 median 5 p90 15 max 64
+target index: mean 3.01  frac==0 28.1%  random-guess top1 22.9%
+loading ['model/az/imit_drag_v8.npz']
+  + imit_drag_v8.npz: 410151 decisions, players ['Kilupy', 'LumenLiquidity', '李秉叡（ntumlnoob）', 'Raihan Ramadistra', 'Petit Canard']...
+decoder feat=2 vocab=73883
+410151 decisions -> 408370 after filter (min_wr=0.0 wins_only=False main_only=False)
+3997 games detected -> held-out 52 games / 5060 decisions (disjoint from the 403310 training decisions)
+boosting players ['Sixth Sense', 'flg', 'palsystem', '@kdcyberdude'] -> pids [5, 7, 8, 21] x3.0
+hashing candidate bags for tie groups...
+  tie-hash 200000/410151
+  tie-hash 400000/410151
+tie mask ready: 30448 extra credited candidates (0.07/decision)
+  [held-out baselines] n=5060  random=23.1%  always-0=27.6%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=403310 held=5060 epochs=10 bs=128
+    ep0 500/3150 loss 2.3137
+    ep0 1000/3150 loss 2.1698
+    ep0 1500/3150 loss 2.0716
+    ep0 2000/3150 loss 2.0005
+    ep0 2500/3150 loss 1.9531
+    ep0 3000/3150 loss 1.9104
+epoch 0: loss 1.8983 (pol 1.6407 val 0.1288)  MAIN-top1 51.4%  all-top1 60.0% (strict 59.3%)  top3 88.4%  1734s
+    t0:51%(2577)  t1:67%(2288)  t4:55%(62)  t8:99%(91)  t9:100%(42)
+    ep1 500/3150 loss 1.6297
+    ep1 1000/3150 loss 1.6145
+    ep1 1500/3150 loss 1.5954
+    ep1 2000/3150 loss 1.5831
+    ep1 2500/3150 loss 1.5676
+    ep1 3000/3150 loss 1.5531
+epoch 1: loss 1.5482 (pol 1.3440 val 0.1021)  MAIN-top1 53.8%  all-top1 62.2% (strict 61.4%)  top3 90.3%  132643s
+    t0:54%(2577)  t1:70%(2288)  t4:56%(62)  t8:97%(91)  t9:100%(42)
+    ep2 500/3150 loss 1.3974
+    ep2 1000/3150 loss 1.3857
+    ep2 1500/3150 loss 1.3772
+== V8 RESUME Sun Aug 16 11:57:49 CEST 2026 ==
+loading ['model/az/imit_drag_v8.npz']
+  + imit_drag_v8.npz: 410151 decisions, players ['Kilupy', 'LumenLiquidity', '李秉叡（ntumlnoob）', 'Raihan Ramadistra', 'Petit Canard']...
+decoder feat=2 vocab=73883
+410151 decisions -> 408370 after filter (min_wr=0.0 wins_only=False main_only=False)
+3997 games detected -> held-out 52 games / 5060 decisions (disjoint from the 403310 training decisions)
+boosting players ['Sixth Sense', 'flg', 'palsystem', '@kdcyberdude'] -> pids [5, 7, 8, 21] x3.0
+hashing candidate bags for tie groups...
+tie mask ready: 30448 extra credited candidates (0.07/decision)
+  [held-out baselines] n=5060  random=23.1%  always-0=27.6%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=403310 held=5060 epochs=10 bs=128
+    ep2 2000/3150 loss 1.3720
+    ep2 2500/3150 loss 1.3664
+    ep0 500/3150 loss 2.3137
+    ep2 3000/3150 loss 1.3619
+epoch 2: loss 1.3607 (pol 1.2035 val 0.0786)  MAIN-top1 56.8%  all-top1 64.3% (strict 63.6%)  top3 91.2%  2352s
+    t0:57%(2577)  t1:71%(2288)  t4:60%(62)  t8:97%(91)  t9:100%(42)
+    ep0 1000/3150 loss 2.1698
+    ep3 500/3150 loss 1.2379
+    ep0 1500/3150 loss 2.0716
+    ep3 1000/3150 loss 1.2354
+    ep0 2000/3150 loss 2.0005
+    ep3 1500/3150 loss 1.2324
+    ep3 2000/3150 loss 1.2298
+    ep0 2500/3150 loss 1.9530
+    ep3 2500/3150 loss 1.2287
+    ep0 3000/3150 loss 1.9104
+    ep3 3000/3150 loss 1.2222
+epoch 0: loss 1.8982 (pol 1.6407 val 0.1288)  MAIN-top1 52.0%  all-top1 60.2% (strict 59.5%)  top3 88.4%  4342s
+    t0:52%(2577)  t1:67%(2288)  t4:55%(62)  t8:99%(91)  t9:100%(42)
+epoch 3: loss 1.2215 (pol 1.0955 val 0.0630)  MAIN-top1 57.0%  all-top1 65.0% (strict 64.2%)  top3 91.2%  3214s
+    t0:57%(2577)  t1:72%(2288)  t4:56%(62)  t8:98%(91)  t9:100%(42)
+    ep4 500/3150 loss 1.0745
+    ep1 500/3150 loss 1.6295
+    ep4 1000/3150 loss 1.0855
+    ep1 1000/3150 loss 1.6143
+    ep4 1500/3150 loss 1.0902
+    ep1 1500/3150 loss 1.5956
+    ep4 2000/3150 loss 1.0926
+    ep4 2500/3150 loss 1.0930
+    ep1 2000/3150 loss 1.5830
+    ep4 3000/3150 loss 1.0922
+epoch 4: loss 1.0917 (pol 0.9855 val 0.0531)  MAIN-top1 55.6%  all-top1 63.9% (strict 63.2%)  top3 91.4%  3222s
+    t0:56%(2577)  t1:71%(2288)  t4:63%(62)  t8:97%(91)  t9:100%(42)
+    ep1 2500/3150 loss 1.5676
+    ep5 500/3150 loss 0.9425
+    ep1 3000/3150 loss 1.5529
+    ep5 1000/3150 loss 0.9411
+epoch 1: loss 1.5479 (pol 1.3441 val 0.1019)  MAIN-top1 54.4%  all-top1 62.6% (strict 61.9%)  top3 90.4%  4410s
+    t0:54%(2577)  t1:70%(2288)  t4:56%(62)  t8:98%(91)  t9:100%(42)
+    ep2 500/3150 loss 1.3969
+    ep2 1000/3150 loss 1.3853
+    ep2 1500/3150 loss 1.3769
+    ep2 2000/3150 loss 1.3715
+    ep2 2500/3150 loss 1.3660
+    ep2 3000/3150 loss 1.3614
+epoch 2: loss 1.3604 (pol 1.2024 val 0.0790)  MAIN-top1 55.7%  all-top1 63.6% (strict 62.8%)  top3 91.4%  2091s
+    t0:56%(2577)  t1:70%(2288)  t4:61%(62)  t8:98%(91)  t9:100%(42)
+    ep3 500/3150 loss 1.2384
+    ep3 1000/3150 loss 1.2364
+    ep3 1500/3150 loss 1.2346
+    ep3 2000/3150 loss 1.2310
+    ep3 2500/3150 loss 1.2289
+    ep3 3000/3150 loss 1.2225
+epoch 3: loss 1.2220 (pol 1.0952 val 0.0634)  MAIN-top1 57.4%  all-top1 65.8% (strict 65.0%)  top3 91.3%  1859s
+    t0:57%(2577)  t1:73%(2288)  t4:56%(62)  t8:98%(91)  t9:100%(42)
+    ep4 500/3150 loss 1.0746
+    ep4 1000/3150 loss 1.0834
+    ep4 1500/3150 loss 1.0900
+    ep4 2000/3150 loss 1.0926
+    ep4 2500/3150 loss 1.0934
+    ep4 3000/3150 loss 1.0923
+epoch 4: loss 1.0922 (pol 0.9850 val 0.0536)  MAIN-top1 55.5%  all-top1 64.0% (strict 63.3%)  top3 91.6%  1860s
+    t0:55%(2577)  t1:72%(2288)  t4:61%(62)  t8:96%(91)  t9:100%(42)
+    ep5 500/3150 loss 0.9459
+    ep5 1000/3150 loss 0.9412
+    ep5 1500/3150 loss 0.9466
+    ep5 2000/3150 loss 0.9496
+    ep5 2500/3150 loss 0.9506
+    ep5 3000/3150 loss 0.9511
+epoch 5: loss 0.9512 (pol 0.8583 val 0.0464)  MAIN-top1 57.3%  all-top1 65.6% (strict 64.8%)  top3 91.7%  1858s
+    t0:57%(2577)  t1:73%(2288)  t4:68%(62)  t8:98%(91)  t9:100%(42)
+    ep6 500/3150 loss 0.7939
+    ep6 1000/3150 loss 0.7988
+    ep6 1500/3150 loss 0.8005
+    ep6 2000/3150 loss 0.8044
+    ep6 2500/3150 loss 0.8064
+    ep6 3000/3150 loss 0.8056
+epoch 6: loss 0.8059 (pol 0.7234 val 0.0412)  MAIN-top1 58.2%  all-top1 65.4% (strict 64.6%)  top3 91.7%  1861s
+    t0:58%(2577)  t1:72%(2288)  t4:68%(62)  t8:97%(91)  t9:100%(42)
+    ep7 500/3150 loss 0.6552
+    ep7 1000/3150 loss 0.6627
+    ep7 1500/3150 loss 0.6677
+    ep7 2000/3150 loss 0.6690
+    ep7 2500/3150 loss 0.6689
+    ep7 3000/3150 loss 0.6681
+epoch 7: loss 0.6682 (pol 0.5932 val 0.0375)  MAIN-top1 57.1%  all-top1 64.3% (strict 63.6%)  top3 91.7%  1861s
+    t0:57%(2577)  t1:70%(2288)  t4:66%(62)  t8:97%(91)  t9:100%(42)
+    ep8 500/3150 loss 0.5684
+    ep8 1000/3150 loss 0.5669
+    ep8 1500/3150 loss 0.5683
+    ep8 2000/3150 loss 0.5689
+    ep8 2500/3150 loss 0.5693
+    ep8 3000/3150 loss 0.5688
+epoch 8: loss 0.5685 (pol 0.4978 val 0.0353)  MAIN-top1 56.5%  all-top1 63.7% (strict 62.9%)  top3 91.5%  1806s
+    t0:57%(2577)  t1:70%(2288)  t4:71%(62)  t8:97%(91)  t9:100%(42)
+    ep9 500/3150 loss 0.5161
+    ep9 1000/3150 loss 0.5136
+    ep9 1500/3150 loss 0.5139
+    ep9 2000/3150 loss 0.5161
+    ep9 2500/3150 loss 0.5154
+    ep9 3000/3150 loss 0.5150
+epoch 9: loss 0.5154 (pol 0.4465 val 0.0344)  MAIN-top1 56.3%  all-top1 63.5% (strict 62.7%)  top3 91.5%  1807s
+    t0:56%(2577)  t1:69%(2288)  t4:73%(62)  t8:97%(91)  t9:100%(42)
+
+BEST held-out top1: 65.8%  -> model/az/drag_v8_best.pth
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/drag_v8_np.npz (28MB fp16)
+checked 120 real decisions over 1 games: argmax agreement 120/120 = 100.0%  max |value diff| 0.0004  max |logit diff| 0.0045
+PASS
+== drag_v8 vs drag_v6f (run 1, N=120) ==
+  drag_v8 vs drag_v6f: 62-58 = 51.7%  (N=120)
+  (cross-deck head-to-head)
+== drag_v8 vs drag_v6f (replication, N=120) ==
+  drag_v8 vs drag_v6f: 68-52 = 56.7%  (N=120)
+  (cross-deck head-to-head)
+V8_DONE

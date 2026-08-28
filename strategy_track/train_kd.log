@@ -1,0 +1,28 @@
+loading ['model/az/imit_grimm_teach.npz']
+  + imit_grimm_teach.npz: 22212 decisions, players ['@kdcyberdude', 'Yopta', '213tubo', 'wwwwwwwwwwwwwwwwwwwwwwwwwwwwww', 'Dipam Chakraborty']
+decoder feat=2 vocab=73883
+22212 decisions -> 21906 after filter (min_wr=0.0 wins_only=False main_only=False)
+243 games detected -> held-out 12 games / 1188 decisions (disjoint from the 20718 training decisions)
+boosting players ['@kdcyberdude'] -> pids [0] x3.0
+hashing candidate bags for tie groups...
+tie mask ready: 2640 extra credited candidates (0.12/decision)
+  [held-out baselines] n=1188  random=24.1%  always-0=31.9%
+initialized from model/az/grimm_imit_v11_best.pth
+device=mps  params=13,859,458  objective=softmax CE
+
+train=20718 held=1188 epochs=6 bs=128
+epoch 0: loss 2.2221 (pol 2.1958 val 0.0876)  MAIN-top1 64.2%  all-top1 73.4% (strict 73.3%)  top3 94.3%  48s
+    t0:64%(556)  t1:77%(490)  t8:99%(88)  t9:100%(33)
+epoch 1: loss 1.5848 (pol 1.5845 val 0.0013)  MAIN-top1 64.7%  all-top1 73.9% (strict 73.8%)  top3 94.6%  37s
+    t0:65%(556)  t1:77%(490)  t8:99%(88)  t9:100%(33)
+epoch 2: loss 1.2451 (pol 1.2448 val 0.0011)  MAIN-top1 64.7%  all-top1 74.0% (strict 73.9%)  top3 94.1%  36s
+    t0:65%(556)  t1:78%(490)  t8:99%(88)  t9:100%(33)
+epoch 3: loss 0.9929 (pol 0.9925 val 0.0016)  MAIN-top1 63.5%  all-top1 73.3% (strict 73.2%)  top3 94.1%  31s
+    t0:63%(556)  t1:77%(490)  t8:99%(88)  t9:100%(33)
+epoch 4: loss 0.8273 (pol 0.8268 val 0.0015)  MAIN-top1 63.5%  all-top1 73.5% (strict 73.4%)  top3 94.2%  30s
+    t0:63%(556)  t1:78%(490)  t8:99%(88)  t9:100%(33)
+epoch 5: loss 0.7504 (pol 0.7499 val 0.0016)  MAIN-top1 64.2%  all-top1 73.8% (strict 73.7%)  top3 94.1%  30s
+    t0:64%(556)  t1:78%(490)  t8:99%(88)  t9:100%(33)
+
+BEST held-out top1: 74.0%  -> model/az/grimm_v20kd_best.pth
+TRAIN_DONE

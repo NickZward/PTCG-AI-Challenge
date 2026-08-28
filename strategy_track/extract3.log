@@ -1,0 +1,38 @@
+encoder your_deck <- my-agent/oger_pal/deck.csv (60 cards)
+1177 games / 67 players / cap=64 main_only=False feat=1
+  250/1177 games -> 16695 decisions
+  500/1177 games -> 32891 decisions
+  750/1177 games -> 49083 decisions
+  1000/1177 games -> 65033 decisions
+
+DONE: 1177 games -> 76820 decisions -> model/az/imit_oger_all.npz (113MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                   84697  (88.8% of drops)
+  trivial_single_option                            8852  ( 9.3% of drops)
+  no_select_or_action                              1177  ( 1.2% of drops)
+  target_not_enumerated_type1                       298  ( 0.3% of drops)
+  empty_choice                                      277  ( 0.3% of drops)
+  target_not_enumerated_type2                       130  ( 0.1% of drops)
+  TOTAL DROPPED                                   95431   kept 76820 (44.6% of all decisions)
+
+kept by select type: {0: 47897, 1: 24654, 9: 1608, 4: 1472, 2: 482, 5: 388, 8: 319}
+candidates: mean 8.2 median 6 p90 16 max 64
+target index: mean 3.54  frac==0 34.1%  random-guess top1 21.4%
+encoder your_deck <- my-agent/oger_pal/deck.csv (60 cards)
+91 games / 1 players / cap=64 main_only=False feat=1
+
+DONE: 91 games -> 6288 decisions -> model/az/imit_oger_pals.npz (9MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                    6641  (88.7% of drops)
+  trivial_single_option                             665  ( 8.9% of drops)
+  no_select_or_action                                91  ( 1.2% of drops)
+  empty_choice                                       52  ( 0.7% of drops)
+  target_not_enumerated_type1                        37  ( 0.5% of drops)
+  TOTAL DROPPED                                    7486   kept 6288 (45.7% of all decisions)
+
+kept by select type: {0: 3980, 1: 2079, 4: 113, 9: 86, 8: 20, 5: 10}
+candidates: mean 7.5 median 6 p90 15 max 64
+target index: mean 3.18  frac==0 27.3%  random-guess top1 22.5%
+EXTRACT_DONE

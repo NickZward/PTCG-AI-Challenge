@@ -1,0 +1,20 @@
+Field-weighted gauntlet: N=90/opponent, 5 archetypes covering 51% of observed field (renormalised)
+
+===== my-agent/oger_pol =====
+  vs Alakazam       41-49  =  45.6%   (field 23%)
+  vs Grimmsnarl     72-18  =  80.0%   (field 9%)  <-- LOAD-SENSITIVE (idle machine required)
+  vs M-Lucario      69-21  =  76.7%   (field 9%)
+  vs Ogerpon        64-26  =  71.1%   (field 5%)
+  vs Crustle        42-48  =  46.7%   (field 5%)
+  FIELD-WEIGHTED SCORE: 59.7%
+
+===== my-agent/ogerpon_v1 =====
+  vs Alakazam       38-52  =  42.2%   (field 23%)
+  vs Grimmsnarl     64-26  =  71.1%   (field 9%)  <-- LOAD-SENSITIVE (idle machine required)
+  vs M-Lucario      49-41  =  54.4%   (field 9%)
+  vs Crustle        40-50  =  44.4%   (field 5%)
+  FIELD-WEIGHTED SCORE: 50.5%
+
+=== RANKING (field-weighted) ===
+   59.7%  my-agent/oger_pol
+   50.5%  my-agent/ogerpon_v1

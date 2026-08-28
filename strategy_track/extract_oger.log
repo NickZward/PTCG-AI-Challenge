@@ -1,0 +1,36 @@
+1244 games / 67 players / cap=64 main_only=False feat=1
+  250/1244 games -> 16624 decisions
+  500/1244 games -> 33171 decisions
+  750/1244 games -> 49498 decisions
+  1000/1244 games -> 65214 decisions
+
+DONE: 1244 games -> 81566 decisions -> model/az/imit_oger_all.npz (120MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                   89689  (88.7% of drops)
+  trivial_single_option                            9364  ( 9.3% of drops)
+  no_select_or_action                              1244  ( 1.2% of drops)
+  target_not_enumerated_type1                       328  ( 0.3% of drops)
+  empty_choice                                      319  ( 0.3% of drops)
+  target_not_enumerated_type2                       130  ( 0.1% of drops)
+  TOTAL DROPPED                                  101074   kept 81566 (44.7% of all decisions)
+
+kept by select type: {0: 50904, 1: 26225, 9: 1674, 4: 1555, 2: 482, 5: 396, 8: 330}
+candidates: mean 8.1 median 6 p90 16 max 64
+target index: mean 3.52  frac==0 33.7%  random-guess top1 21.4%
+154 games / 1 players / cap=64 main_only=False feat=1
+
+DONE: 154 games -> 10711 decisions -> model/az/imit_oger_pals.npz (16MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                   11356  (88.6% of drops)
+  trivial_single_option                            1142  ( 8.9% of drops)
+  no_select_or_action                               154  ( 1.2% of drops)
+  empty_choice                                       94  ( 0.7% of drops)
+  target_not_enumerated_type1                        64  ( 0.5% of drops)
+  TOTAL DROPPED                                   12810   kept 10711 (45.5% of all decisions)
+
+kept by select type: {0: 6790, 1: 3535, 4: 192, 9: 146, 8: 30, 5: 18}
+candidates: mean 7.5 median 6 p90 15 max 64
+target index: mean 3.19  frac==0 27.4%  random-guess top1 22.5%
+ALLDONE

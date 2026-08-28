@@ -1,0 +1,16 @@
+== tiebreak: third v4i-vs-vf1 replication ==
+  oger_v4i vs oger_vf1: 40-40 = 50.0%  (N=80)
+  (cross-deck head-to-head)
+== oger_v5 vs oger_v4i (head-to-head) ==
+  oger_v5 vs oger_v4i: 29-51 = 36.2%  (N=80)
+  (cross-deck head-to-head)
+== CELL KPI: oger_v5 vs ala_imit (the boosted cell; vf1-line was ~53-62) ==
+  oger_v5 vs ala_imit: 13-47 = 21.7%  (N=60)
+  (cross-deck head-to-head)
+== CELL KPI: oger_v4i vs ala_imit (control for the cell) ==
+  oger_v4i vs ala_imit: 18-42 = 30.0%  (N=60)
+  (cross-deck head-to-head)
+== tank check: oger_v5 vs crustle_imit (vf1 was 15-85; corpus too thin to expect much) ==
+  oger_v5 vs crustle_imit: 9-31 = 22.5%  (N=40)
+  (cross-deck head-to-head)
+OGER5_DONE

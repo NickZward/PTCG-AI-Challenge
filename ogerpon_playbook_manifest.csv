@@ -1,0 +1,432 @@
+episode,path,player,side,won,opp_deck,player_winrate,player_games,my_deck,src
+88148312,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88148312.json,zoroark190,0,1,mixed,0.6,0,Ogerpon,__Taichicchi__
+88202656,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88202656.json,zoroark190,0,1,mixed,0.6,0,Ogerpon,__Taichicchi__
+88190927,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88190927.json,zoroark190,0,1,mixed,0.6,0,Ogerpon,__Taichicchi__
+88214806,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88214806.json,zoroark190,0,1,mixed,0.6,0,Ogerpon,__Taichicchi__
+88208966,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88208966.json,zoroark190,1,1,mixed,0.6,0,Ogerpon,__Taichicchi__
+88167140,/Users/nickzwart/Desktop/PTCG-AI-Challenge/__Taichicchi__/88167140.json,zoroark190,0,1,mixed,0.6,0,Ogerpon,__Taichicchi__
+episode-91597627,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91597627-replay.json,Kilupy,1,1,mixed,0.6,0,Ogerpon,oger
+episode-91583806,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91583806-replay.json,Kilupy,0,1,mixed,0.6,0,Ogerpon,oger
+episode-91585657,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91585657-replay.json,Kilupy,1,1,mixed,0.6,0,Ogerpon,oger
+episode-91576364,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91576364-replay.json,Kilupy,1,1,mixed,0.6,0,Ogerpon,oger
+episode-91590279,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91590279-replay.json,Kilupy,0,1,mixed,0.6,0,Ogerpon,oger
+episode-91572657,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91572657-replay.json,Kilupy,0,1,mixed,0.6,0,Ogerpon,oger
+episode-91593977,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91593977-replay.json,Kilupy,1,1,mixed,0.6,0,Ogerpon,oger
+episode-91587495,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91587495-replay.json,Kilupy,0,1,mixed,0.6,0,Ogerpon,oger
+episode-91591232,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91591232-replay.json,Kilupy,1,1,mixed,0.6,0,Ogerpon,oger
+episode-91573566,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91573566-replay.json,Kilupy,1,1,mixed,0.6,0,Ogerpon,oger
+episode-91577283,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91577283-replay.json,Kilupy,0,1,mixed,0.6,0,Ogerpon,oger
+episode-91572564,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91572564-replay.json,Kilupy,0,1,mixed,0.6,0,Ogerpon,oger
+episode-91598656,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91598656-replay.json,Kilupy,0,1,mixed,0.6,0,Ogerpon,oger
+episode-91579149,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91579149-replay.json,Kilupy,1,1,mixed,0.6,0,Ogerpon,oger
+episode-91574497,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91574497-replay.json,Kilupy,0,1,mixed,0.6,0,Ogerpon,oger
+episode-91581973,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91581973-replay.json,Kilupy,0,1,mixed,0.6,0,Ogerpon,oger
+episode-91580066,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91580066-replay.json,Kilupy,1,1,mixed,0.6,0,Ogerpon,oger
+episode-91595877,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91595877-replay.json,Kilupy,1,1,mixed,0.6,0,Ogerpon,oger
+episode-91596808,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91596808-replay.json,Kilupy,0,1,mixed,0.6,0,Ogerpon,oger
+episode-91586536,/Users/nickzwart/Desktop/PTCG-AI-Challenge/oger/episode-91586536-replay.json,Kilupy,0,1,mixed,0.6,0,Ogerpon,oger
+episode-89691424,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_1/episode-89691424-replay.json,sukeke,0,1,mixed,0.6,0,Ogerpon,V12_1
+90019504,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK_05082926/90019504.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,LiamK_05082926
+90037162,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK_05082926/90037162.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,LiamK_05082926
+90026935,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK_05082926/90026935.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,LiamK_05082926
+90110911,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK_05082926/90110911.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,LiamK_05082926
+88173006,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dominic Peel/88173006.json,zoroark190,1,1,mixed,0.6,0,Ogerpon,Dominic Peel
+88692647,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88692647.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88705135,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88705135.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88876848,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88876848.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88673255,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88673255.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88683778,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88683778.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89058232,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89058232.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89054704,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89054704.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88688876,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88688876.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88741990,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88741990.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88879683,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88879683.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88882018,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88882018.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88799580,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88799580.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88958838,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88958838.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88673445,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88673445.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88862348,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88862348.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88683723,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88683723.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89010544,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89010544.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88687449,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88687449.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88885616,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88885616.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88679592,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88679592.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88933639,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88933639.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88669204,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88669204.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88940747,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88940747.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88867039,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88867039.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88876852,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88876852.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88701642,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88701642.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88888435,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88888435.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88856733,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88856733.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88803211,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88803211.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88812816,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88812816.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88864394,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88864394.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88739596,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88739596.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88967770,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88967770.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88687536,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88687536.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89046099,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89046099.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88669678,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88669678.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88864910,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88864910.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88901335,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88901335.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89088371,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89088371.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88868573,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88868573.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89033120,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89033120.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89039487,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89039487.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88879227,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88879227.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88801145,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88801145.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88864383,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88864383.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88863329,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88863329.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88773854,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88773854.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88973270,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88973270.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88686058,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88686058.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89047109,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89047109.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88695463,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88695463.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88862847,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88862847.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88886996,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88886996.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88893055,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88893055.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88755321,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88755321.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88865947,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88865947.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88672605,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88672605.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88727897,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88727897.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88690745,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88690745.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88767362,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88767362.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88684194,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88684194.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88797462,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88797462.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88989632,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88989632.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89060759,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89060759.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88958546,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88958546.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88672853,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88672853.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89049192,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89049192.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88686989,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88686989.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88870095,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88870095.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88750077,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88750077.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89037220,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89037220.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88873705,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88873705.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88861368,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88861368.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88873181,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88873181.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88686531,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88686531.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89038403,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89038403.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88871128,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88871128.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89045099,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89045099.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88867551,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88867551.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88864404,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88864404.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89034898,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89034898.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88882907,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88882907.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88677288,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88677288.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88895796,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88895796.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88687910,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88687910.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89091874,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89091874.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88672511,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88672511.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88875262,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88875262.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89057712,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89057712.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89028970,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89028970.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88890263,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88890263.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89053213,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89053213.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88701166,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88701166.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89042681,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89042681.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88881059,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88881059.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88884719,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88884719.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89052707,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89052707.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88968175,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88968175.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88673228,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88673228.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89044153,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89044153.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89036329,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89036329.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88699758,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88699758.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88673910,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88673910.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88674369,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88674369.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88681386,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88681386.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88707123,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88707123.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89048167,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89048167.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89097020,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89097020.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88700218,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88700218.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88683250,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88683250.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88697356,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88697356.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89056207,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89056207.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89040853,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89040853.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89032280,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89032280.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88954349,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88954349.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88680446,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88680446.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88789102,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88789102.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88871646,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88871646.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88877842,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88877842.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89052209,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89052209.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88846348,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88846348.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89059243,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89059243.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89029842,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89029842.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88876290,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88876290.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88702655,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88702655.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88704144,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88704144.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89020634,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89020634.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88891738,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88891738.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88793828,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88793828.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89043159,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89043159.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88691223,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88691223.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88688852,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88688852.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88698805,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88698805.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88670627,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88670627.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89024072,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89024072.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88973127,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88973127.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88740921,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88740921.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89044130,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89044130.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89035073,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89035073.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88887455,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88887455.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89037222,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89037222.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88878777,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88878777.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88875780,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88875780.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88814440,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88814440.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88999912,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88999912.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88685112,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88685112.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88684646,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88684646.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88863361,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88863361.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88694538,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88694538.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88691690,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88691690.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89040407,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89040407.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89051216,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89051216.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89046592,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89046592.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88695942,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88695942.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88889781,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88889781.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88881974,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88881974.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88694056,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88694056.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88884263,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88884263.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89052695,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89052695.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88892162,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88892162.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88679036,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88679036.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88885166,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88885166.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88852104,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88852104.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88779616,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88779616.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89054202,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89054202.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89053197,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89053197.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88704625,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88704625.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89048667,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89048667.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88885609,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88885609.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88867030,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88867030.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88889780,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88889780.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88692156,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88692156.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88894464,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88894464.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88885625,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88885625.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88671596,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88671596.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89039933,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89039933.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88868081,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88868081.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88803577,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88803577.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88804318,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88804318.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88682793,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88682793.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89046090,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89046090.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88982294,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88982294.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89035382,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89035382.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88880124,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88880124.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88863878,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88863878.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88892181,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88892181.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88872156,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88872156.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89001307,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89001307.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88888922,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88888922.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89041775,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89041775.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88678685,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88678685.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88874217,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88874217.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88716356,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88716356.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89077743,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89077743.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88880581,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88880581.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88679145,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88679145.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88703197,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88703197.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88668742,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88668742.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88889866,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88889866.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89032694,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89032694.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89050694,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89050694.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88893522,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88893522.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89059773,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89059773.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89043145,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89043145.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88866489,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88866489.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88877332,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88877332.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89042685,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89042685.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89044614,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89044614.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88698823,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88698823.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89035350,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89035350.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88846156,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88846156.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89022179,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89022179.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88884727,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88884727.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89053201,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89053201.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88860402,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88860402.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88735260,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88735260.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88692632,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88692632.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89024961,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89024961.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88672061,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88672061.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88699750,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88699750.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88699300,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88699300.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89036272,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89036272.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89046598,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89046598.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89057223,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89057223.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89044618,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89044618.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88869072,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88869072.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88883806,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88883806.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88967973,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88967973.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89069424,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89069424.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89038581,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89038581.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89056222,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89056222.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88891641,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88891641.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88881987,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88881987.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88759028,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88759028.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88895356,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88895356.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88677166,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88677166.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88689792,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88689792.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88717384,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88717384.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88729669,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88729669.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89038129,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89038129.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88678103,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88678103.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88893942,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88893942.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88696888,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88696888.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89011985,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89011985.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89037209,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89037209.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88670159,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88670159.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88677624,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88677624.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88694533,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88694533.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89083587,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89083587.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89060281,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89060281.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89049174,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89049174.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88886127,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88886127.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88689321,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88689321.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88968664,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88968664.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88881066,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88881066.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88773708,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88773708.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88700699,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88700699.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89037680,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89037680.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88878785,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88878785.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88671142,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88671142.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88948552,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88948552.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88693106,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88693106.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89047605,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89047605.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89034002,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89034002.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89052684,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89052684.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89083821,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89083821.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88759048,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88759048.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88670694,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88670694.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88693583,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88693583.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+88678573,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/88678573.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89028109,/Users/nickzwart/Desktop/PTCG-AI-Challenge/James Cox & Henry Chao/89028109.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,James Cox & Henry Chao
+89718179,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89718179.json,Majkel1337,1,1,mixed,0.6,0,Ogerpon,Number 3
+90939953,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Makjkel1337/90939953.json,palsystem,0,1,mixed,0.6,0,Ogerpon,Makjkel1337
+91147595,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Makjkel1337/91147595.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,Makjkel1337
+90990698,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Makjkel1337/90990698.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,Makjkel1337
+90913746,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Makjkel1337/90913746.json,ANDPAD kaggler team,0,1,mixed,0.6,0,Ogerpon,Makjkel1337
+91130124,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Makjkel1337/91130124.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,Makjkel1337
+91150162,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Makjkel1337/91150162.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,Makjkel1337
+91125711,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Makjkel1337/91125711.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,Makjkel1337
+91178397,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Makjkel1337/91178397.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,Makjkel1337
+91344835,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Makjkel1337/91344835.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,Makjkel1337
+91158253,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Makjkel1337/91158253.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,Makjkel1337
+91116151,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Makjkel1337/91116151.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,Makjkel1337
+episode-89842304,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_04082026/episode-89842304-replay.json,xnx,0,1,mixed,0.6,0,Ogerpon,V12_2_04082026
+episode-89845678,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_04082026/episode-89845678-replay.json,Jose Coronel,0,1,mixed,0.6,0,Ogerpon,V12_2_04082026
+episode-89919837,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_04082026/episode-89919837-replay.json,Byer Scrip,1,1,mixed,0.6,0,Ogerpon,V12_2_04082026
+episode-89692506,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_04082026/episode-89692506-replay.json,monnosuke,0,1,mixed,0.6,0,Ogerpon,V12_2_04082026
+episode-89705380,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_04082026/episode-89705380-replay.json,서주영,1,1,mixed,0.6,0,Ogerpon,V12_2_04082026
+88404880,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK/88404880.json,SORA,1,1,mixed,0.6,0,Ogerpon,LiamK
+88502476,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK/88502476.json,James Cox,0,1,mixed,0.6,0,Ogerpon,LiamK
+88530049,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK/88530049.json,James Cox,0,1,mixed,0.6,0,Ogerpon,LiamK
+88399665,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK/88399665.json,James Cox,0,1,mixed,0.6,0,Ogerpon,LiamK
+88340907,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK/88340907.json,James Cox,0,1,mixed,0.6,0,Ogerpon,LiamK
+88504727,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK/88504727.json,James Cox,0,1,mixed,0.6,0,Ogerpon,LiamK
+88599040,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK/88599040.json,James Cox,1,1,mixed,0.6,0,Ogerpon,LiamK
+88614116,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK/88614116.json,James Cox,1,1,mixed,0.6,0,Ogerpon,LiamK
+88345731,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK/88345731.json,James Cox,1,1,mixed,0.6,0,Ogerpon,LiamK
+88578111,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK/88578111.json,James Cox,1,1,mixed,0.6,0,Ogerpon,LiamK
+88496462,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK/88496462.json,James Cox,0,1,mixed,0.6,0,Ogerpon,LiamK
+88507933,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK/88507933.json,James Cox,0,1,mixed,0.6,0,Ogerpon,LiamK
+88521284,/Users/nickzwart/Desktop/PTCG-AI-Challenge/LiamK/88521284.json,James Cox,1,1,mixed,0.6,0,Ogerpon,LiamK
+89933524,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89933524.json,llkarill,0,1,mixed,0.6,0,Ogerpon,number 4_04082026
+89908489,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89908489.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,number 4_04082026
+episode-90165015,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_05082026/episode-90165015-replay.json,Marshall Maximizer,0,1,mixed,0.6,0,Ogerpon,V12_2_05082026
+episode-90120733,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_05082026/episode-90120733-replay.json,Confusion,0,1,mixed,0.6,0,Ogerpon,V12_2_05082026
+episode-90131821,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_05082026/episode-90131821-replay.json,RuiKimura4,1,1,mixed,0.6,0,Ogerpon,V12_2_05082026
+episode-90696775,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_1_08082026/episode-90696775-replay.json,Articuno0144,1,1,mixed,0.6,0,Ogerpon,V12_1_08082026
+episode-90682365,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_1_08082026/episode-90682365-replay.json,SQUIRTLE (prime),1,1,mixed,0.6,0,Ogerpon,V12_1_08082026
+episode-90896280,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_1_08082026/episode-90896280-replay.json,UBI=ISHI,0,1,mixed,0.6,0,Ogerpon,V12_1_08082026
+episode-90928067,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_1_08082026/episode-90928067-replay.json,kazuki0123,1,1,mixed,0.6,0,Ogerpon,V12_1_08082026
+episode-90671890,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_1_08082026/episode-90671890-replay.json,hinox13,0,1,mixed,0.6,0,Ogerpon,V12_1_08082026
+episode-90668749,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_1_08082026/episode-90668749-replay.json,SQUIRTLE (prime),0,1,mixed,0.6,0,Ogerpon,V12_1_08082026
+episode-90827567,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_1_08082026/episode-90827567-replay.json,NoOneAhead,0,1,mixed,0.6,0,Ogerpon,V12_1_08082026
+episode-90685575,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_1_08082026/episode-90685575-replay.json,WUHAOZHE618,1,1,mixed,0.6,0,Ogerpon,V12_1_08082026
+episode-90985559,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_1_08092026/episode-90985559-replay.json,Boss's Orders Are All You Need,1,1,mixed,0.6,0,Ogerpon,V12_1_08092026
+episode-90993941,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_1_08092026/episode-90993941-replay.json,DarkLayer,1,1,mixed,0.6,0,Ogerpon,V12_1_08092026
+episode-89755007,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_1_04082026/episode-89755007-replay.json,monnosuke,0,1,mixed,0.6,0,Ogerpon,V12_1_04082026
+88339858,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88339858.json,James Cox,1,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88276480,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88276480.json,James Cox,0,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88345190,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88345190.json,James Cox,0,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88410102,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88410102.json,James Cox,1,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88344149,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88344149.json,James Cox,0,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88390697,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88390697.json,James Cox,1,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88331998,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88331998.json,James Cox,0,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88343625,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88343625.json,James Cox,1,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88309616,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88309616.json,James Cox,1,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88408016,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88408016.json,James Cox,0,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88307517,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88307517.json,James Cox,0,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88401756,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88401756.json,James Cox,0,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88332011,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88332011.json,James Cox,1,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88411167,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88411167.json,James Cox,1,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88315322,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88315322.json,James Cox,1,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88349417,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88349417.json,James Cox,0,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88347855,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88347855.json,James Cox,0,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88379229,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88379229.json,James Cox,1,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88357838,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88357838.json,James Cox,0,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88353640,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88353640.json,James Cox,0,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88370287,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88370287.json,James Cox,0,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88278632,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88278632.json,James Cox,0,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+88333040,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Dries Tufa Labs/88333040.json,James Cox,1,1,mixed,0.6,0,Ogerpon,Dries Tufa Labs
+90024186,/Users/nickzwart/Desktop/PTCG-AI-Challenge/ntumInoob/90024186.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,ntumInoob
+90079574,/Users/nickzwart/Desktop/PTCG-AI-Challenge/ntumInoob/90079574.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,ntumInoob
+90011217,/Users/nickzwart/Desktop/PTCG-AI-Challenge/ntumInoob/90011217.json,llkarill,1,1,mixed,0.6,0,Ogerpon,ntumInoob
+89522779,/Users/nickzwart/Desktop/PTCG-AI-Challenge/ntumInoob/89522779.json,Majkel1337,1,1,mixed,0.6,0,Ogerpon,ntumInoob
+89538947,/Users/nickzwart/Desktop/PTCG-AI-Challenge/ntumInoob/89538947.json,tonakaiiii,0,1,mixed,0.6,0,Ogerpon,ntumInoob
+89823687,/Users/nickzwart/Desktop/PTCG-AI-Challenge/ntumInoob/89823687.json,Tatsuya Kayama,0,1,mixed,0.6,0,Ogerpon,ntumInoob
+90028304,/Users/nickzwart/Desktop/PTCG-AI-Challenge/ntumInoob/90028304.json,Majkel1337,0,1,mixed,0.6,0,Ogerpon,ntumInoob
+90046936,/Users/nickzwart/Desktop/PTCG-AI-Challenge/ntumInoob/90046936.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,ntumInoob
+89971378,/Users/nickzwart/Desktop/PTCG-AI-Challenge/ntumInoob/89971378.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,ntumInoob
+89579037,/Users/nickzwart/Desktop/PTCG-AI-Challenge/ntumInoob/89579037.json,Majkel1337,0,1,mixed,0.6,0,Ogerpon,ntumInoob
+episode-90357652,/Users/nickzwart/Desktop/PTCG-AI-Challenge/grimm_06082026/episode-90357652-replay.json,Tatsuya Kayama,1,1,mixed,0.6,0,Ogerpon,grimm_06082026
+episode-90212928,/Users/nickzwart/Desktop/PTCG-AI-Challenge/grimm_06082026/episode-90212928-replay.json,Battle Data Base,0,1,mixed,0.6,0,Ogerpon,grimm_06082026
+episode-90120060,/Users/nickzwart/Desktop/PTCG-AI-Challenge/grimm_06082026/episode-90120060-replay.json,タニシ,1,1,mixed,0.6,0,Ogerpon,grimm_06082026
+episode-90157284,/Users/nickzwart/Desktop/PTCG-AI-Challenge/grimm_06082026/episode-90157284-replay.json,Jie Orkarin,1,1,mixed,0.6,0,Ogerpon,grimm_06082026
+89531529,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Majkel1337/89531529.json,Jose Coronel,0,1,mixed,0.6,0,Ogerpon,Majkel1337
+88352053,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88352053.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+88403333,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88403333.json,James Cox,0,1,mixed,0.6,0,Ogerpon,flg
+88313284,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88313284.json,James Cox,0,1,mixed,0.6,0,Ogerpon,flg
+88326763,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88326763.json,James Cox,0,1,mixed,0.6,0,Ogerpon,flg
+88309597,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88309597.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+88297470,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88297470.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+88311676,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88311676.json,James Cox,0,1,mixed,0.6,0,Ogerpon,flg
+88324164,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88324164.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+88338278,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88338278.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+88328847,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88328847.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+88321502,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88321502.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+88339325,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88339325.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+88332509,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88332509.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+88320987,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88320987.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+88404374,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88404374.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+88404354,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88404354.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+88338284,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88338284.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+88324675,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88324675.json,James Cox,0,1,mixed,0.6,0,Ogerpon,flg
+88345737,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88345737.json,James Cox,0,1,mixed,0.6,0,Ogerpon,flg
+88343084,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88343084.json,James Cox,0,1,mixed,0.6,0,Ogerpon,flg
+88318412,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88318412.json,James Cox,0,1,mixed,0.6,0,Ogerpon,flg
+88344151,/Users/nickzwart/Desktop/PTCG-AI-Challenge/flg/88344151.json,James Cox,1,1,mixed,0.6,0,Ogerpon,flg
+90292332,/Users/nickzwart/Desktop/PTCG-AI-Challenge/AlphaStarmie/90292332.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,AlphaStarmie
+91139748,/Users/nickzwart/Desktop/PTCG-AI-Challenge/AlphaStarmie/91139748.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,AlphaStarmie
+90462225,/Users/nickzwart/Desktop/PTCG-AI-Challenge/AlphaStarmie/90462225.json,sadwat,0,1,mixed,0.6,0,Ogerpon,AlphaStarmie
+90536370,/Users/nickzwart/Desktop/PTCG-AI-Challenge/AlphaStarmie/90536370.json,ANDPAD kaggler team,1,1,mixed,0.6,0,Ogerpon,AlphaStarmie
+91145798,/Users/nickzwart/Desktop/PTCG-AI-Challenge/AlphaStarmie/91145798.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,AlphaStarmie
+90892739,/Users/nickzwart/Desktop/PTCG-AI-Challenge/AlphaStarmie/90892739.json,palsystem,0,1,mixed,0.6,0,Ogerpon,AlphaStarmie
+90544850,/Users/nickzwart/Desktop/PTCG-AI-Challenge/AlphaStarmie/90544850.json,James Cox & Henry Chao,1,1,mixed,0.6,0,Ogerpon,AlphaStarmie
+91154723,/Users/nickzwart/Desktop/PTCG-AI-Challenge/AlphaStarmie/91154723.json,James Cox & Henry Chao,0,1,mixed,0.6,0,Ogerpon,AlphaStarmie
+90174623,/Users/nickzwart/Desktop/PTCG-AI-Challenge/JB Bryant/90174623.json,tonakaiiii,1,1,mixed,0.6,0,Ogerpon,JB Bryant
+episode-90723008,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_08082026/episode-90723008-replay.json,Boss's Orders Are All You Need,0,1,mixed,0.6,0,Ogerpon,V12_2_08082026
+episode-90830722,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_08082026/episode-90830722-replay.json,Lemmes Yad,0,1,mixed,0.6,0,Ogerpon,V12_2_08082026
+episode-90691194,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_08082026/episode-90691194-replay.json,jhammer4,0,1,mixed,0.6,0,Ogerpon,V12_2_08082026
+episode-88819016,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12-30072026_02/episode-88819016-replay.json,jp_nerdery,1,1,mixed,0.6,0,Ogerpon,V12-30072026_02
+episode-91015473,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_08092026/episode-91015473-replay.json,kazuki0123,0,1,mixed,0.6,0,Ogerpon,V12_2_08092026
+episode-90972869,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_08092026/episode-90972869-replay.json,Masatoshi Hidaka,0,1,mixed,0.6,0,Ogerpon,V12_2_08092026
+episode-91193185,/Users/nickzwart/Desktop/PTCG-AI-Challenge/V12_2_08092026/episode-91193185-replay.json,kazuki0123,0,1,mixed,0.6,0,Ogerpon,V12_2_08092026
+episode-91573598,/Users/nickzwart/Desktop/PTCG-AI-Challenge/luc/episode-91573598-replay.json,Jose Coronel,0,1,mixed,0.6,0,Ogerpon,luc
+episode-91526155,/Users/nickzwart/Desktop/PTCG-AI-Challenge/luc/episode-91526155-replay.json,WJui,0,1,mixed,0.6,0,Ogerpon,luc
+episode-91581087,/Users/nickzwart/Desktop/PTCG-AI-Challenge/luc/episode-91581087-replay.json,Tianfu Wang (王天夫),0,1,mixed,0.6,0,Ogerpon,luc
+episode-91441217,/Users/nickzwart/Desktop/PTCG-AI-Challenge/grimm/episode-91441217-replay.json,palsystem,1,1,mixed,0.6,0,Ogerpon,grimm
+episode-91449350,/Users/nickzwart/Desktop/PTCG-AI-Challenge/grimm/episode-91449350-replay.json,Nghia Tran + ketchum alt,0,1,mixed,0.6,0,Ogerpon,grimm
+episode-91460250,/Users/nickzwart/Desktop/PTCG-AI-Challenge/grimm/episode-91460250-replay.json,kazuki0123,1,1,mixed,0.6,0,Ogerpon,grimm

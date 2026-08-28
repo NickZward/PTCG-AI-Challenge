@@ -1,0 +1,71 @@
+== GRIMMSNARL VALUE-HEAD REFRESH: outcomes vs the NEW fleet ==
+  25/120 games -> 1847 states
+  50/120 games -> 3838 states
+  75/120 games -> 5523 states
+  100/120 games -> 7438 states
+DONE: 120 games (0 void) -> 8855 our-side states -> model/az/vh_drag_v4.npz (14MB)  feat=2
+  25/120 games -> 2016 states
+  50/120 games -> 4166 states
+  75/120 games -> 6530 states
+  100/120 games -> 8681 states
+DONE: 120 games (1 void) -> 10344 our-side states -> model/az/vh_mlop_imit.npz (16MB)  feat=2
+  25/120 games -> 1466 states
+  50/120 games -> 3126 states
+  75/120 games -> 4591 states
+  100/120 games -> 6071 states
+DONE: 120 games (0 void) -> 7263 our-side states -> model/az/vh_mluc_v2.npz (11MB)  feat=2
+  25/120 games -> 2237 states
+  50/120 games -> 4249 states
+  75/120 games -> 6345 states
+  100/120 games -> 8236 states
+DONE: 120 games (1 void) -> 9812 our-side states -> model/az/vh_ala_imit.npz (15MB)  feat=2
+  25/120 games -> 2221 states
+  50/120 games -> 4793 states
+  75/120 games -> 7209 states
+  100/120 games -> 9864 states
+DONE: 120 games (0 void) -> 12000 our-side states -> model/az/vh_crustle_imit.npz (19MB)  feat=2
+  25/120 games -> 1820 states
+  50/120 games -> 3536 states
+  75/120 games -> 5187 states
+  100/120 games -> 6945 states
+DONE: 120 games (1 void) -> 8414 our-side states -> model/az/vh_oger_v4i.npz (13MB)  feat=2
+value corpora: model/az/vh_ala_imit.npz,model/az/vh_crustle_imit.npz,model/az/vh_drag_v4.npz,model/az/vh_mlop_imit.npz,model/az/vh_mluc_v2.npz,model/az/vh_oger_v4i.npz
+  + vh_ala_imit.npz: 9812 decisions, players ['selfplay']
+  + vh_crustle_imit.npz: 12000 decisions, players ['selfplay']
+  + vh_drag_v4.npz: 8855 decisions, players ['selfplay']
+  + vh_mlop_imit.npz: 10344 decisions, players ['selfplay']
+  + vh_mluc_v2.npz: 7263 decisions, players ['selfplay']
+  + vh_oger_v4i.npz: 8414 decisions, players ['selfplay']
+train: 56688 self-play states | held-out: 18852 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.755  auc_T1-6=0.665  auc_T7-10=0.783  auc_T11+=0.841  agree_ref=1.000
+epoch 0: loss 0.1425 (val 0.1295 kl 0.0065)  REAL: auc_all=0.744  auc_T1-6=0.653  auc_T7-10=0.781  auc_T11+=0.823  agree_ref=0.973  121s
+epoch 1: loss 0.1216 (val 0.1005 kl 0.0105)  REAL: auc_all=0.732  auc_T1-6=0.643  auc_T7-10=0.770  auc_T11+=0.803  agree_ref=0.966  120s
+epoch 2: loss 0.0981 (val 0.0801 kl 0.0090)  REAL: auc_all=0.725  auc_T1-6=0.643  auc_T7-10=0.761  auc_T11+=0.794  agree_ref=0.961  120s
+BEST real-ladder value AUC: 0.755 (baseline 0.755)
+Traceback (most recent call last):
+  File "<stdin>", line 3, in <module>
+AssertionError: no grimm_vh checkpoint
+== value signal check (must slope, not flatline) ==
+  File "/Users/nickzwart/Desktop/PTCG-AI-Challenge/analysis/value_head_spread.py", line 31, in <module>
+    spec.loader.exec_module(PNN)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1023, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1160, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1218, in get_data
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/nickzwart/Desktop/PTCG-AI-Challenge/my-agent/grimm_vh/np_common.py'
+== GATE: grimm_vh vs v12, N=130 ==
+Traceback (most recent call last):
+  File "/tmp/gate_kd.py", line 24, in <module>
+    w,l = head2head(cand, "my-agent/grimm_v12_live", N)
+          ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/gate_kd.py", line 11, in head2head
+    FG._purge_private(); FG._prime_path(a_dir); a0,d0 = RR.load(a_dir,n0)
+                                                        ~~~~~~~^^^^^^^^^^
+  File "/Users/nickzwart/Desktop/PTCG-AI-Challenge/analysis/round_robin.py", line 29, in load
+    m = importlib.util.module_from_spec(spec); sys.modules[nm] = m; spec.loader.exec_module(m)
+                                                                    ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "<frozen importlib._bootstrap_external>", line 1023, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1160, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1218, in get_data
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/nickzwart/Desktop/PTCG-AI-Challenge/my-agent/grimm_vh/main.py'
+GVH_DONE

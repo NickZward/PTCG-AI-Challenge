@@ -1,0 +1,45 @@
+loading ['model/az/imit_drag_f2.npz']
+  + imit_drag_f2.npz: 87544 decisions, players ['Petit Canard', 'Dipam Chakraborty', 'やる気元気ミワハルキ', 'cyrus', 'e-toppo + kurupical']...
+decoder feat=2 vocab=73883
+87544 decisions -> 87103 after filter (min_wr=0.0 wins_only=False main_only=False)
+818 games detected -> held-out 48 games / 5061 decisions (disjoint from the 82042 training decisions)
+boosting players ['Dipam Chakraborty'] -> pids [1] x3.0
+hashing candidate bags for tie groups...
+tie mask ready: 6109 extra credited candidates (0.07/decision)
+  [held-out baselines] n=5061  random=23.0%  always-0=29.0%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=82042 held=5061 epochs=10 bs=128
+    ep0 500/640 loss 2.1744
+epoch 0: loss 2.1109 (pol 2.1078 val 0.0101)  MAIN-top1 45.3%  all-top1 55.1% (strict 54.9%)  top3 86.3%  194s
+    t0:45%(2407)  t1:62%(2470)  t4:50%(42)  t8:98%(94)  t9:100%(48)
+    ep1 500/640 loss 1.7963
+epoch 1: loss 1.7864 (pol 1.7862 val 0.0009)  MAIN-top1 48.6%  all-top1 58.8% (strict 58.5%)  top3 88.6%  186s
+    t0:49%(2407)  t1:67%(2470)  t4:57%(42)  t8:98%(94)  t9:100%(48)
+    ep2 500/640 loss 1.6403
+epoch 2: loss 1.6280 (pol 1.6278 val 0.0005)  MAIN-top1 49.1%  all-top1 59.8% (strict 59.4%)  top3 89.2%  186s
+    t0:49%(2407)  t1:68%(2470)  t4:52%(42)  t8:98%(94)  t9:100%(48)
+    ep3 500/640 loss 1.4932
+epoch 3: loss 1.4858 (pol 1.4857 val 0.0003)  MAIN-top1 51.7%  all-top1 61.2% (strict 60.9%)  top3 90.0%  186s
+    t0:52%(2407)  t1:68%(2470)  t4:55%(42)  t8:98%(94)  t9:100%(48)
+    ep4 500/640 loss 1.3359
+epoch 4: loss 1.3342 (pol 1.3341 val 0.0003)  MAIN-top1 53.2%  all-top1 61.3% (strict 60.9%)  top3 90.3%  186s
+    t0:53%(2407)  t1:67%(2470)  t4:48%(42)  t8:98%(94)  t9:100%(48)
+    ep5 500/640 loss 1.1607
+epoch 5: loss 1.1648 (pol 1.1647 val 0.0003)  MAIN-top1 51.6%  all-top1 61.1% (strict 60.7%)  top3 90.1%  193s
+    t0:52%(2407)  t1:68%(2470)  t4:48%(42)  t8:98%(94)  t9:100%(48)
+    ep6 500/640 loss 0.9905
+epoch 6: loss 0.9925 (pol 0.9924 val 0.0003)  MAIN-top1 52.5%  all-top1 61.3% (strict 60.9%)  top3 90.0%  184s
+    t0:53%(2407)  t1:68%(2470)  t4:45%(42)  t8:98%(94)  t9:100%(48)
+    ep7 500/640 loss 0.8429
+epoch 7: loss 0.8427 (pol 0.8426 val 0.0003)  MAIN-top1 52.3%  all-top1 60.7% (strict 60.3%)  top3 89.8%  187s
+    t0:52%(2407)  t1:67%(2470)  t4:45%(42)  t8:98%(94)  t9:100%(48)
+    ep8 500/640 loss 0.7369
+epoch 8: loss 0.7338 (pol 0.7337 val 0.0004)  MAIN-top1 52.2%  all-top1 60.4% (strict 60.0%)  top3 89.6%  185s
+    t0:52%(2407)  t1:66%(2470)  t4:43%(42)  t8:98%(94)  t9:100%(48)
+    ep9 500/640 loss 0.6771
+epoch 9: loss 0.6774 (pol 0.6772 val 0.0004)  MAIN-top1 52.2%  all-top1 60.2% (strict 59.8%)  top3 89.4%  187s
+    t0:52%(2407)  t1:66%(2470)  t4:40%(42)  t8:98%(94)  t9:100%(48)
+
+BEST held-out top1: 61.3%  -> model/az/drag_v1_best.pth
+D1_DONE

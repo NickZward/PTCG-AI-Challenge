@@ -1,0 +1,24 @@
+resolved 1/1 target teams:
+  LiamK (team 16463316)
+crawl 10: 1/1 resolved, queue 2024
+crawl 20: 1/1 resolved, queue 3333
+  LiamK: sub 55248965 -> 128 fresh eps (team total 128)
+  LiamK: sub 55090635 -> 0 fresh eps (team total 128)
+  LiamK: sub 54907538 -> 0 fresh eps (team total 128)
+  LiamK: sub 55195669 -> 2 fresh eps (team total 130)
+  LiamK: sub 54895414 -> 0 fresh eps (team total 130)
+  LiamK: sub 55195673 -> 5 fresh eps (team total 135)
+  LiamK: sub 55011514 -> 0 fresh eps (team total 135)
+  LiamK: sub 55248957 -> 91 fresh eps (team total 226)
+
+FRESH EPISODE TOTALS:
+  LiamK: 226
+
+LiamK: downloading 226 -> /Users/nickzwart/Desktop/PTCG-AI-Challenge/liamk_solo/LiamK
+  50/226 (+21 new, 0 fail)
+  100/226 (+21 new, 0 fail)
+  150/226 (+21 new, 0 fail)
+  200/226 (+21 new, 0 fail)
+  DONE LiamK: +21, had 205, fail 0
+
+All done.

@@ -1,0 +1,29 @@
+encoder your_deck <- mlop_elite_deck.csv (60 cards)
+3277 games / 61 players / cap=64 main_only=False feat=2
+  250/3277 games -> 19048 decisions
+  500/3277 games -> 38359 decisions
+  750/3277 games -> 57654 decisions
+  1000/3277 games -> 78401 decisions
+  1250/3277 games -> 98387 decisions
+  1500/3277 games -> 117957 decisions
+  1750/3277 games -> 137580 decisions
+  2000/3277 games -> 156792 decisions
+  2250/3277 games -> 176659 decisions
+  2500/3277 games -> 196594 decisions
+  2750/3277 games -> 216198 decisions
+  3000/3277 games -> 235046 decisions
+  3250/3277 games -> 255257 decisions
+
+DONE: 3277 games -> 256990 decisions -> model/az/imit_mlop.npz (456MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                  312808  (93.5% of drops)
+  trivial_single_option                           17298  ( 5.2% of drops)
+  no_select_or_action                              3486  ( 1.0% of drops)
+  target_not_enumerated_type1                       501  ( 0.1% of drops)
+  empty_choice                                      301  ( 0.1% of drops)
+  TOTAL DROPPED                                  334394   kept 256990 (43.5% of all decisions)
+
+kept by select type: {0: 177968, 1: 75702, 9: 1790, 8: 795, 5: 456, 4: 279}
+candidates: mean 9.5 median 7 p90 20 max 64
+target index: mean 4.17  frac==0 29.0%  random-guess top1 18.4%

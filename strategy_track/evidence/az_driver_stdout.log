@@ -1,0 +1,20 @@
+[08-06 10:28] === AZ DRIVER START (resuming at iter 0) ===
+[08-06 10:28] iter 1: generating 3x350 games...
+[08-07 06:22] iter 1: training on 2 npz files...
+[08-07 06:25] iter 1 train tail:   + iter1_w1.npz: 60911 decisions, players ['selfplay']
+  + iter1_w2.npz: 30258 decisions, players ['selfplay']
+train: 91169 self-play states | held-out: 18231 REAL ladder states | feat=2 vocab=73883
+BASELINE (v11 head on real ladder states): auc_all=0.820  auc_T1-6=0.730  auc_T7-10=0.863  auc_T11+=0.887  agree_ref=1.000
+epoch 0: loss 0.1712 (val 0.1599 kl 0.0056)  REAL: auc_all=0.830  auc_T1-6=0.740  auc_T7-10=0.874  auc_T11+=0.904  agree_ref=0.970  168s
+  -> saved (auc 0.830)
+BEST real-ladder value AUC: 0.830 (baseline 0.820)
+
+[08-07 06:25] iter 1: ACCEPTED -> best.pth updated
+[08-07 06:26] EXPORT FAIL: del/az", f"{name}_arch.json")))
+  File "/opt/anaconda3/lib/python3.13/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+                 ~~~~~~~^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80 in position 64: invalid start byte
+
+[08-07 06:26] iter 1: gating vs v12 (N=45, idle)...

@@ -1,0 +1,19 @@
+== CRUSTLE: new imitation vs bc_crustle clone ==
+Traceback (most recent call last):
+  File "/tmp/ab_kd.py", line 14, in <module>
+    assert d0 == d1, "decks differ — not a one-variable A/B"
+           ^^^^^^^^
+AssertionError: decks differ — not a one-variable A/B
+== CRUSTLE: vs our live Ogerpon build (the cell that is 0-5 on the ladder) ==
+Traceback (most recent call last):
+  File "/tmp/ab_kd.py", line 14, in <module>
+    assert d0 == d1, "decks differ — not a one-variable A/B"
+           ^^^^^^^^
+AssertionError: decks differ — not a one-variable A/B
+CRUSTLE_DONE
+== CRUSTLE vs bc_crustle (instrument upgrade test) ==
+  crustle_imit vs bc_crustle: 46-14 = 76.7%  (N=60)
+  ONE VARIABLE: identical deck, identical mcts_agent, identical SEARCH; only model weights differ.
+== CRUSTLE vs oger_vf1 (ladder-reproduction test: real Crustle beat our Ogerpon 5-0) ==
+  crustle_imit vs oger_vf1: 34-6 = 85.0%  (N=40)
+  ONE VARIABLE: identical deck, identical mcts_agent, identical SEARCH; only model weights differ.

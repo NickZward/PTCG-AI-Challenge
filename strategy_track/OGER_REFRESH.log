@@ -1,0 +1,133 @@
+== OGERPON REFRESH Thu Aug 13 23:31:56 CEST 2026 ==
+Sixth Sense sub 55488723: 56 episodes
+Sixth Sense: 10 NEW episodes -> /tmp/harvest_ss_0813.json
+Dipam Chakraborty sub 55462428: 66 episodes
+Dipam Chakraborty sub 55487254: 57 episodes
+Dipam Chakraborty: 58 NEW episodes -> /tmp/harvest_oger_dipam.json
+palsystem sub 55337493: 165 episodes
+palsystem sub 55480973: 65 episodes
+palsystem: 76 NEW episodes -> /tmp/harvest_oger_pal.json
+  10/10 (ok 10)
+done: 10 fetched, 0 skipped, 0 failed
+  10/58 (ok 10)
+  20/58 (ok 20)
+  30/58 (ok 30)
+  40/58 (ok 40)
+  50/58 (ok 50)
+done: 58 fetched, 0 skipped, 0 failed
+  10/76 (ok 10)
+  20/76 (ok 20)
+  30/76 (ok 30)
+  40/76 (ok 40)
+  50/76 (ok 50)
+  60/76 (ok 60)
+  70/76 (ok 70)
+done: 76 fetched, 0 skipped, 0 failed
+indexing 190 files with 6 workers...
+wrote dump_index_harvest.csv: 190 games
+oger_final2_manifest.csv: 2593 sides (1379W/1214L)
+top pilots: [('Dipam Chakraborty', 262), ('palsystem', 178), ('ANDPAD kaggler team', 123), ('tktkyamyam', 122), ('takayosi', 119), ('Battle Data Base', 103), ('Confusion', 85), ('sobameshi', 79)]
+OK: ss_oger_deck.csv from 14 games of Sixth Sense (Ogerpon)
+   14x Basic {G} Energy
+   4x Ultra Ball
+   4x Bug Catching Set
+   4x Lillie's Determination
+   4x Teal Mask Ogerpon ex
+   3x Forest of Vitality
+   2x Bayleef
+   2x Tapu Bulu
+   2x Chikorita
+   2x Applin
+encoder your_deck <- ss_oger_deck.csv (60 cards)
+2463 games / 55 players / cap=64 main_only=False feat=2
+  250/2463 games -> 17066 decisions
+  500/2463 games -> 33624 decisions
+  750/2463 games -> 49542 decisions
+  1000/2463 games -> 64957 decisions
+  1250/2463 games -> 79907 decisions
+  1500/2463 games -> 95754 decisions
+  1750/2463 games -> 111512 decisions
+  2000/2463 games -> 127650 decisions
+  2250/2463 games -> 143364 decisions
+
+DONE: 2463 games -> 158052 decisions -> model/az/imit_oger_v6s.npz (252MB)
+
+DROP LEDGER (decisions not turned into samples):
+  inactive_seat                                  197542  (89.3% of drops)
+  trivial_single_option                           20263  ( 9.2% of drops)
+  no_select_or_action                              2593  ( 1.2% of drops)
+  target_not_enumerated_type1                       509  ( 0.2% of drops)
+  empty_choice                                      357  ( 0.2% of drops)
+  target_not_enumerated_type2                        10  ( 0.0% of drops)
+  TOTAL DROPPED                                  221274   kept 158052 (41.7% of all decisions)
+
+kept by select type: {0: 103574, 1: 48386, 4: 2606, 9: 2218, 8: 629, 5: 578, 2: 61}
+candidates: mean 7.2 median 6 p90 14 max 64
+target index: mean 2.76  frac==0 37.9%  random-guess top1 22.7%
+loading ['model/az/imit_oger_v6s.npz']
+  + imit_oger_v6s.npz: 158052 decisions, players ['palsystem', 'Artalmaz31', 'takayosi', 'ANDPAD kaggler team', 'flg']...
+decoder feat=2 vocab=73883
+158052 decisions -> 155213 after filter (min_wr=0.0 wins_only=False main_only=False)
+2593 games detected -> held-out 78 games / 4937 decisions (disjoint from the 150276 training decisions)
+boosting players ['Sixth Sense', 'Dipam Chakraborty', 'palsystem'] -> pids [0, 9, 35] x3.0
+hashing candidate bags for tie groups...
+tie mask ready: 21811 extra credited candidates (0.14/decision)
+  [held-out baselines] n=4937  random=21.1%  always-0=36.9%
+device=mps  params=13,859,458  objective=softmax CE
+
+train=150276 held=4937 epochs=10 bs=128
+    ep0 500/1174 loss 1.5500
+    ep0 1000/1174 loss 1.4456
+epoch 0: loss 1.4248 (pol 1.2403 val 0.0922)  MAIN-top1 54.9%  all-top1 58.7% (strict 58.1%)  top3 85.8%  271s
+    t0:55%(3360)  t1:65%(1433)  t4:73%(77)  t9:100%(54)
+    ep1 500/1174 loss 1.2387
+    ep1 1000/1174 loss 1.2146
+epoch 1: loss 1.2056 (pol 1.0632 val 0.0712)  MAIN-top1 58.4%  all-top1 62.6% (strict 62.0%)  top3 88.3%  281s
+    t0:58%(3360)  t1:71%(1433)  t4:62%(77)  t9:100%(54)
+    ep2 500/1174 loss 1.0821
+    ep2 1000/1174 loss 1.0675
+epoch 2: loss 1.0649 (pol 0.9514 val 0.0568)  MAIN-top1 61.3%  all-top1 64.5% (strict 63.8%)  top3 89.5%  265s
+    t0:61%(3360)  t1:70%(1433)  t4:66%(77)  t9:100%(54)
+    ep3 500/1174 loss 0.9466
+    ep3 1000/1174 loss 0.9486
+epoch 3: loss 0.9466 (pol 0.8511 val 0.0477)  MAIN-top1 61.7%  all-top1 64.8% (strict 64.1%)  top3 90.0%  264s
+    t0:62%(3360)  t1:71%(1433)  t4:65%(77)  t9:100%(54)
+    ep4 500/1174 loss 0.8268
+    ep4 1000/1174 loss 0.8206
+epoch 4: loss 0.8198 (pol 0.7390 val 0.0404)  MAIN-top1 61.9%  all-top1 65.0% (strict 64.4%)  top3 89.9%  258s
+    t0:62%(3360)  t1:71%(1433)  t4:65%(77)  t9:100%(54)
+    ep5 500/1174 loss 0.6695
+    ep5 1000/1174 loss 0.6788
+epoch 5: loss 0.6810 (pol 0.6111 val 0.0349)  MAIN-top1 61.9%  all-top1 64.6% (strict 63.9%)  top3 89.8%  238s
+    t0:62%(3360)  t1:69%(1433)  t4:68%(77)  t9:100%(54)
+    ep6 500/1174 loss 0.5489
+    ep6 1000/1174 loss 0.5485
+epoch 6: loss 0.5481 (pol 0.4851 val 0.0315)  MAIN-top1 61.3%  all-top1 64.2% (strict 63.5%)  top3 89.5%  238s
+    t0:61%(3360)  t1:69%(1433)  t4:66%(77)  t9:100%(54)
+    ep7 500/1174 loss 0.4277
+    ep7 1000/1174 loss 0.4328
+epoch 7: loss 0.4333 (pol 0.3749 val 0.0292)  MAIN-top1 60.4%  all-top1 63.5% (strict 62.9%)  top3 89.2%  239s
+    t0:60%(3360)  t1:69%(1433)  t4:68%(77)  t9:100%(54)
+    ep8 500/1174 loss 0.3578
+    ep8 1000/1174 loss 0.3578
+epoch 8: loss 0.3576 (pol 0.3023 val 0.0277)  MAIN-top1 60.8%  all-top1 64.0% (strict 63.3%)  top3 89.4%  239s
+    t0:61%(3360)  t1:70%(1433)  t4:68%(77)  t9:100%(54)
+    ep9 500/1174 loss 0.3211
+    ep9 1000/1174 loss 0.3225
+epoch 9: loss 0.3220 (pol 0.2680 val 0.0270)  MAIN-top1 60.7%  all-top1 63.9% (strict 63.2%)  top3 89.3%  239s
+    t0:61%(3360)  t1:70%(1433)  t4:68%(77)  t9:100%(54)
+
+BEST held-out top1: 65.0%  -> model/az/oger_v6s_best.pth
+exported /Users/nickzwart/Desktop/PTCG-AI-Challenge/model/az/oger_v6s_np.npz (28MB fp16)
+checked 120 real decisions over 1 games: argmax agreement 120/120 = 100.0%  max |value diff| 0.0010  max |logit diff| 0.0044
+PASS
+== oger_v6s vs oger_v4i (run 1, N=120) ==
+  oger_v6s vs oger_v4i: 73-47 = 60.8%  (N=120)
+  (cross-deck head-to-head)
+== oger_v6s vs oger_v4i (replication, N=120) ==
+  oger_v6s vs oger_v4i: 61-59 = 50.8%  (N=120)
+  (cross-deck head-to-head)
+== oger_v6s vs drag_v5 (band probe, N=120) ==
+  oger_v6s vs drag_v5: 64-56 = 53.3%  (N=120)
+  (cross-deck head-to-head)
+OGER_REFRESH_DONE

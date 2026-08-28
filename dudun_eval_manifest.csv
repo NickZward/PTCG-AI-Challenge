@@ -1,0 +1,295 @@
+episode,path,player,side,won,opp_deck,player_winrate,player_games,my_deck,src
+89684932,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89684932.json,やる気元気ミワハルキ,1,1,other,0.6,0,Dudunsparce,n3
+89685508,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89685508.json,やる気元気ミワハルキ,0,1,Alakazam,0.6,0,Dudunsparce,n3
+89686075,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89686075.json,やる気元気ミワハルキ,1,1,Archaludon,0.6,0,Dudunsparce,n3
+89686637,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89686637.json,やる気元気ミワハルキ,1,1,Alakazam,0.6,0,Dudunsparce,n3
+89687203,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89687203.json,やる気元気ミワハルキ,0,0,other,0.6,0,Dudunsparce,n3
+89687796,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89687796.json,やる気元気ミワハルキ,0,1,Alakazam,0.6,0,Dudunsparce,n3
+89688366,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89688366.json,やる気元気ミワハルキ,1,0,M-Lucario,0.6,0,Dudunsparce,n3
+89688953,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89688953.json,やる気元気ミワハルキ,0,1,Dudunsparce,0.6,0,Dudunsparce,n3
+89688953,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89688953.json,DON,1,0,Dudunsparce,0.6,0,Dudunsparce,n3
+89689505,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89689505.json,やる気元気ミワハルキ,0,1,Cynthia-Garchomp,0.6,0,Dudunsparce,n3
+89690088,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89690088.json,やる気元気ミワハルキ,0,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89690654,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89690654.json,やる気元気ミワハルキ,0,0,Dudunsparce,0.6,0,Dudunsparce,n3
+89690654,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89690654.json,fle3n,1,1,Dudunsparce,0.6,0,Dudunsparce,n3
+89691245,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89691245.json,やる気元気ミワハルキ,1,1,Alakazam,0.6,0,Dudunsparce,n3
+89691277,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89691277.json,Shirag Maharaj,0,0,Dudunsparce,0.6,0,Dudunsparce,n3
+89691277,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89691277.json,やる気元気ミワハルキ,1,1,Dudunsparce,0.6,0,Dudunsparce,n3
+89691812,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89691812.json,やる気元気ミワハルキ,0,1,M-Kangaskhan,0.6,0,Dudunsparce,n3
+89691996,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89691996.json,やる気元気ミワハルキ,0,1,Crustle,0.6,0,Dudunsparce,n3
+89692376,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89692376.json,やる気元気ミワハルキ,0,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89692958,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89692958.json,やる気元気ミワハルキ,0,1,Dragapult,0.6,0,Dudunsparce,n3
+89693535,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89693535.json,やる気元気ミワハルキ,0,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89694107,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89694107.json,やる気元気ミワハルキ,0,1,Dipplin,0.6,0,Dudunsparce,n3
+89694674,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89694674.json,やる気元気ミワハルキ,1,0,Cynthia-Garchomp,0.6,0,Dudunsparce,n3
+89695256,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89695256.json,やる気元気ミワハルキ,1,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89695767,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89695767.json,やる気元気ミワハルキ,1,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89696388,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89696388.json,やる気元気ミワハルキ,1,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89696953,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89696953.json,やる気元気ミワハルキ,1,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89697511,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89697511.json,やる気元気ミワハルキ,0,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89698088,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89698088.json,やる気元気ミワハルキ,0,1,M-Kangaskhan,0.6,0,Dudunsparce,n3
+89698657,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89698657.json,やる気元気ミワハルキ,0,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89699235,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89699235.json,やる気元気ミワハルキ,0,0,Grimmsnarl,0.6,0,Dudunsparce,n3
+89699816,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89699816.json,やる気元気ミワハルキ,1,1,Meganium,0.6,0,Dudunsparce,n3
+89700379,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89700379.json,やる気元気ミワハルキ,0,1,other,0.6,0,Dudunsparce,n3
+89700947,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89700947.json,やる気元気ミワハルキ,0,1,Alakazam,0.6,0,Dudunsparce,n3
+89701536,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89701536.json,やる気元気ミワハルキ,0,1,Dudunsparce,0.6,0,Dudunsparce,n3
+89701536,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89701536.json,ポケカ前線,1,0,Dudunsparce,0.6,0,Dudunsparce,n3
+89702090,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89702090.json,やる気元気ミワハルキ,1,1,Meganium,0.6,0,Dudunsparce,n3
+89702650,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89702650.json,やる気元気ミワハルキ,0,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89703232,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89703232.json,やる気元気ミワハルキ,1,1,Meganium,0.6,0,Dudunsparce,n3
+89703804,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89703804.json,やる気元気ミワハルキ,1,1,Dipplin,0.6,0,Dudunsparce,n3
+89704382,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89704382.json,やる気元気ミワハルキ,1,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89704949,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89704949.json,やる気元気ミワハルキ,1,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89705515,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89705515.json,やる気元気ミワハルキ,1,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89706085,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89706085.json,やる気元気ミワハルキ,0,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89706654,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89706654.json,やる気元気ミワハルキ,0,1,Meganium,0.6,0,Dudunsparce,n3
+89707220,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89707220.json,やる気元気ミワハルキ,1,1,Dragapult,0.6,0,Dudunsparce,n3
+89707788,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89707788.json,やる気元気ミワハルキ,0,1,Dudunsparce,0.6,0,Dudunsparce,n3
+89707788,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89707788.json,Iolzpo + emonga,1,0,Dudunsparce,0.6,0,Dudunsparce,n3
+89708365,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89708365.json,やる気元気ミワハルキ,1,1,M-Kangaskhan,0.6,0,Dudunsparce,n3
+89708940,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89708940.json,やる気元気ミワハルキ,1,1,Dipplin,0.6,0,Dudunsparce,n3
+89709525,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89709525.json,やる気元気ミワハルキ,0,1,other,0.6,0,Dudunsparce,n3
+89710079,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89710079.json,やる気元気ミワハルキ,0,0,Alakazam,0.6,0,Dudunsparce,n3
+89710686,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89710686.json,やる気元気ミワハルキ,1,0,Dragapult,0.6,0,Dudunsparce,n3
+89710747,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89710747.json,やる気元気ミワハルキ,0,0,M-Lucario,0.6,0,Dudunsparce,n3
+89711272,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89711272.json,やる気元気ミワハルキ,0,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89711846,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89711846.json,やる気元気ミワハルキ,0,1,Cynthia-Garchomp,0.6,0,Dudunsparce,n3
+89712414,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89712414.json,やる気元気ミワハルキ,1,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89713000,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89713000.json,やる気元気ミワハルキ,1,1,Dipplin,0.6,0,Dudunsparce,n3
+89713570,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89713570.json,やる気元気ミワハルキ,0,1,Crustle,0.6,0,Dudunsparce,n3
+89714137,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89714137.json,やる気元気ミワハルキ,0,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89714624,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89714624.json,やる気元気ミワハルキ,1,1,Meganium,0.6,0,Dudunsparce,n3
+89715291,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89715291.json,やる気元気ミワハルキ,0,1,Crustle,0.6,0,Dudunsparce,n3
+89715852,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89715852.json,やる気元気ミワハルキ,1,0,Alakazam,0.6,0,Dudunsparce,n3
+89716428,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89716428.json,やる気元気ミワハルキ,1,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89717015,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89717015.json,やる気元気ミワハルキ,0,1,Cynthia-Garchomp,0.6,0,Dudunsparce,n3
+89717598,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89717598.json,やる気元気ミワハルキ,1,0,Grimmsnarl,0.6,0,Dudunsparce,n3
+89718179,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89718179.json,やる気元気ミワハルキ,0,0,Meganium,0.6,0,Dudunsparce,n3
+89718756,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89718756.json,やる気元気ミワハルキ,0,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89719337,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89719337.json,やる気元気ミワハルキ,1,0,Grimmsnarl,0.6,0,Dudunsparce,n3
+89719941,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89719941.json,やる気元気ミワハルキ,1,0,M-Lucario,0.6,0,Dudunsparce,n3
+89719952,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89719952.json,やる気元気ミワハルキ,0,1,Meganium,0.6,0,Dudunsparce,n3
+89724577,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89724577.json,やる気元気ミワハルキ,1,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89726780,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89726780.json,やる気元気ミワハルキ,1,0,M-Lucario,0.6,0,Dudunsparce,n3
+89741515,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89741515.json,やる気元気ミワハルキ,1,1,Grimmsnarl,0.6,0,Dudunsparce,n3
+89741829,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89741829.json,やる気元気ミワハルキ,0,1,Alakazam,0.6,0,Dudunsparce,n3
+89747404,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89747404.json,やる気元気ミワハルキ,0,1,Dragapult,0.6,0,Dudunsparce,n3
+89755677,/Users/nickzwart/Desktop/PTCG-AI-Challenge/Number 3/89755677.json,やる気元気ミワハルキ,1,1,M-Kangaskhan,0.6,0,Dudunsparce,n3
+89901630,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89901630.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Spidops,0.6,0,Dudunsparce,n4
+89902247,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89902247.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Alakazam,0.6,0,Dudunsparce,n4
+89902863,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89902863.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Grimmsnarl,0.6,0,Dudunsparce,n4
+89903502,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89903502.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Dragapult,0.6,0,Dudunsparce,n4
+89904123,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89904123.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,M-Kangaskhan,0.6,0,Dudunsparce,n4
+89904759,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89904759.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Alakazam,0.6,0,Dudunsparce,n4
+89905366,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89905366.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Grimmsnarl,0.6,0,Dudunsparce,n4
+89905982,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89905982.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Meganium,0.6,0,Dudunsparce,n4
+89906592,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89906592.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,0,Cynthia-Garchomp,0.6,0,Dudunsparce,n4
+89907229,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89907229.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Dragapult,0.6,0,Dudunsparce,n4
+89907845,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89907845.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Spidops,0.6,0,Dudunsparce,n4
+89907863,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89907863.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Alakazam,0.6,0,Dudunsparce,n4
+89908489,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89908489.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,0,M-Kangaskhan,0.6,0,Dudunsparce,n4
+89909103,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89909103.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Grimmsnarl,0.6,0,Dudunsparce,n4
+89909707,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89909707.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Grimmsnarl,0.6,0,Dudunsparce,n4
+89910334,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89910334.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,M-Kangaskhan,0.6,0,Dudunsparce,n4
+89910961,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89910961.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Cynthia-Garchomp,0.6,0,Dudunsparce,n4
+89911576,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89911576.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Alakazam,0.6,0,Dudunsparce,n4
+89912203,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89912203.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,0,Cynthia-Garchomp,0.6,0,Dudunsparce,n4
+89912824,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89912824.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Meganium,0.6,0,Dudunsparce,n4
+89913433,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89913433.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Dipplin,0.6,0,Dudunsparce,n4
+89914065,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89914065.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,other,0.6,0,Dudunsparce,n4
+89914785,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89914785.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,M-Kangaskhan,0.6,0,Dudunsparce,n4
+89915284,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89915284.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,M-Starmie,0.6,0,Dudunsparce,n4
+89915902,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89915902.json,想要成为kaggle大师,0,0,Dudunsparce,0.6,0,Dudunsparce,n4
+89915902,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89915902.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Dudunsparce,0.6,0,Dudunsparce,n4
+89916534,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89916534.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Grimmsnarl,0.6,0,Dudunsparce,n4
+89917155,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89917155.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,other,0.6,0,Dudunsparce,n4
+89917804,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89917804.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Alakazam,0.6,0,Dudunsparce,n4
+89918461,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89918461.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Grimmsnarl,0.6,0,Dudunsparce,n4
+89919042,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89919042.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Alakazam,0.6,0,Dudunsparce,n4
+89919676,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89919676.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Dudunsparce,0.6,0,Dudunsparce,n4
+89919676,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89919676.json,やる気元気ミワハルキ,1,1,Dudunsparce,0.6,0,Dudunsparce,n4
+89920317,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89920317.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,M-Kangaskhan,0.6,0,Dudunsparce,n4
+89920945,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89920945.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Grimmsnarl,0.6,0,Dudunsparce,n4
+89921539,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89921539.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,other,0.6,0,Dudunsparce,n4
+89922308,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89922308.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Grimmsnarl,0.6,0,Dudunsparce,n4
+89922831,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89922831.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Meganium,0.6,0,Dudunsparce,n4
+89923440,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89923440.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Grimmsnarl,0.6,0,Dudunsparce,n4
+89924086,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89924086.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Alakazam,0.6,0,Dudunsparce,n4
+89924701,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89924701.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Alakazam,0.6,0,Dudunsparce,n4
+89925323,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89925323.json,insuperabilehart,0,0,Dudunsparce,0.6,0,Dudunsparce,n4
+89925323,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89925323.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Dudunsparce,0.6,0,Dudunsparce,n4
+89925986,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89925986.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Cynthia-Garchomp,0.6,0,Dudunsparce,n4
+89926584,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89926584.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Dragapult,0.6,0,Dudunsparce,n4
+89927212,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89927212.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Crustle,0.6,0,Dudunsparce,n4
+89927756,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89927756.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Cynthia-Garchomp,0.6,0,Dudunsparce,n4
+89928464,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89928464.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,0,Grimmsnarl,0.6,0,Dudunsparce,n4
+89929090,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89929090.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Dudunsparce,0.6,0,Dudunsparce,n4
+89929090,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89929090.json,やる気元気ミワハルキ,1,0,Dudunsparce,0.6,0,Dudunsparce,n4
+89929105,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89929105.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,0,Alakazam,0.6,0,Dudunsparce,n4
+89929775,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89929775.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Dudunsparce,0.6,0,Dudunsparce,n4
+89929775,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89929775.json,Iolzpo + emonga,1,0,Dudunsparce,0.6,0,Dudunsparce,n4
+89930361,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89930361.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Cynthia-Garchomp,0.6,0,Dudunsparce,n4
+89930999,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89930999.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,other,0.6,0,Dudunsparce,n4
+89931599,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89931599.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Grimmsnarl,0.6,0,Dudunsparce,n4
+89932258,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89932258.json,やる気元気ミワハルキ,0,0,Dudunsparce,0.6,0,Dudunsparce,n4
+89932258,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89932258.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Dudunsparce,0.6,0,Dudunsparce,n4
+89932887,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89932887.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Meganium,0.6,0,Dudunsparce,n4
+89933524,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89933524.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,0,Meganium,0.6,0,Dudunsparce,n4
+89934157,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89934157.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Meganium,0.6,0,Dudunsparce,n4
+89934896,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89934896.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Crustle,0.6,0,Dudunsparce,n4
+89935433,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89935433.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Dudunsparce,0.6,0,Dudunsparce,n4
+89935433,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89935433.json,matsurih,1,0,Dudunsparce,0.6,0,Dudunsparce,n4
+89936048,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89936048.json,やる気元気ミワハルキ,0,0,Dudunsparce,0.6,0,Dudunsparce,n4
+89936048,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89936048.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Dudunsparce,0.6,0,Dudunsparce,n4
+89936671,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89936671.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Crustle,0.6,0,Dudunsparce,n4
+89937306,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89937306.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Alakazam,0.6,0,Dudunsparce,n4
+89937902,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89937902.json,やる気元気ミワハルキ,0,1,Dudunsparce,0.6,0,Dudunsparce,n4
+89937902,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89937902.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,0,Dudunsparce,0.6,0,Dudunsparce,n4
+89938007,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89938007.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,0,M-Lucario,0.6,0,Dudunsparce,n4
+89938568,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89938568.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Dipplin,0.6,0,Dudunsparce,n4
+89939242,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89939242.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Dipplin,0.6,0,Dudunsparce,n4
+89939824,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89939824.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Dipplin,0.6,0,Dudunsparce,n4
+89940444,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89940444.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Dudunsparce,0.6,0,Dudunsparce,n4
+89940444,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89940444.json,やる気元気ミワハルキ,1,0,Dudunsparce,0.6,0,Dudunsparce,n4
+89940453,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89940453.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Dudunsparce,0.6,0,Dudunsparce,n4
+89940453,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89940453.json,李秉叡（ntumlnoob）,1,0,Dudunsparce,0.6,0,Dudunsparce,n4
+89941093,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89941093.json,やる気元気ミワハルキ,0,0,Dudunsparce,0.6,0,Dudunsparce,n4
+89941093,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89941093.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,1,Dudunsparce,0.6,0,Dudunsparce,n4
+89941806,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89941806.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Alakazam,0.6,0,Dudunsparce,n4
+89951977,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89951977.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,1,Grimmsnarl,0.6,0,Dudunsparce,n4
+89964049,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89964049.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Dragapult,0.6,0,Dudunsparce,n4
+89965595,/Users/nickzwart/Desktop/PTCG-AI-Challenge/number 4_04082026/89965595.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,0,M-Lucario,0.6,0,Dudunsparce,n4
+90004541,/Users/nickzwart/Desktop/LiamK_05082926/90004541.json,LiamK,1,1,Alakazam,0.6,0,Dudunsparce,lk
+90005185,/Users/nickzwart/Desktop/LiamK_05082926/90005185.json,LiamK,1,1,M-Lucario,0.6,0,Dudunsparce,lk
+90005843,/Users/nickzwart/Desktop/LiamK_05082926/90005843.json,LiamK,0,1,Archaludon,0.6,0,Dudunsparce,lk
+90006495,/Users/nickzwart/Desktop/LiamK_05082926/90006495.json,LiamK,1,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90007138,/Users/nickzwart/Desktop/LiamK_05082926/90007138.json,LiamK,1,1,Alakazam,0.6,0,Dudunsparce,lk
+90007786,/Users/nickzwart/Desktop/LiamK_05082926/90007786.json,LiamK,0,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90008435,/Users/nickzwart/Desktop/LiamK_05082926/90008435.json,LiamK,0,1,Crustle,0.6,0,Dudunsparce,lk
+90009080,/Users/nickzwart/Desktop/LiamK_05082926/90009080.json,LiamK,1,0,M-Lucario,0.6,0,Dudunsparce,lk
+90009726,/Users/nickzwart/Desktop/LiamK_05082926/90009726.json,LiamK,0,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90010381,/Users/nickzwart/Desktop/LiamK_05082926/90010381.json,LiamK,0,1,Meganium,0.6,0,Dudunsparce,lk
+90011034,/Users/nickzwart/Desktop/LiamK_05082926/90011034.json,LiamK,1,1,Meganium,0.6,0,Dudunsparce,lk
+90011306,/Users/nickzwart/Desktop/LiamK_05082926/90011306.json,LiamK,0,1,Dragapult,0.6,0,Dudunsparce,lk
+90011681,/Users/nickzwart/Desktop/LiamK_05082926/90011681.json,LiamK,0,0,Alakazam,0.6,0,Dudunsparce,lk
+90012332,/Users/nickzwart/Desktop/LiamK_05082926/90012332.json,LiamK,0,0,M-Kangaskhan,0.6,0,Dudunsparce,lk
+90012981,/Users/nickzwart/Desktop/LiamK_05082926/90012981.json,LiamK,0,1,Meganium,0.6,0,Dudunsparce,lk
+90013624,/Users/nickzwart/Desktop/LiamK_05082926/90013624.json,LiamK,1,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90014275,/Users/nickzwart/Desktop/LiamK_05082926/90014275.json,LiamK,1,1,Dragapult,0.6,0,Dudunsparce,lk
+90014931,/Users/nickzwart/Desktop/LiamK_05082926/90014931.json,LiamK,1,1,Dipplin,0.6,0,Dudunsparce,lk
+90015572,/Users/nickzwart/Desktop/LiamK_05082926/90015572.json,LiamK,1,1,Alakazam,0.6,0,Dudunsparce,lk
+90016221,/Users/nickzwart/Desktop/LiamK_05082926/90016221.json,LiamK,0,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90016868,/Users/nickzwart/Desktop/LiamK_05082926/90016868.json,LiamK,0,1,Alakazam,0.6,0,Dudunsparce,lk
+90017521,/Users/nickzwart/Desktop/LiamK_05082926/90017521.json,LiamK,0,1,Crustle,0.6,0,Dudunsparce,lk
+90018172,/Users/nickzwart/Desktop/LiamK_05082926/90018172.json,LiamK,0,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90018855,/Users/nickzwart/Desktop/LiamK_05082926/90018855.json,LiamK,0,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90018855,/Users/nickzwart/Desktop/LiamK_05082926/90018855.json,李秉叡（ntumlnoob）,1,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90019504,/Users/nickzwart/Desktop/LiamK_05082926/90019504.json,LiamK,1,0,M-Kangaskhan,0.6,0,Dudunsparce,lk
+90020161,/Users/nickzwart/Desktop/LiamK_05082926/90020161.json,LiamK,0,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90020161,/Users/nickzwart/Desktop/LiamK_05082926/90020161.json,やる気元気ミワハルキ,1,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90020298,/Users/nickzwart/Desktop/LiamK_05082926/90020298.json,LiamK,0,0,Alakazam,0.6,0,Dudunsparce,lk
+90020816,/Users/nickzwart/Desktop/LiamK_05082926/90020816.json,LiamK,1,0,Dragapult,0.6,0,Dudunsparce,lk
+90021466,/Users/nickzwart/Desktop/LiamK_05082926/90021466.json,LiamK,0,0,M-Kangaskhan,0.6,0,Dudunsparce,lk
+90022117,/Users/nickzwart/Desktop/LiamK_05082926/90022117.json,LiamK,1,1,Meganium,0.6,0,Dudunsparce,lk
+90022238,/Users/nickzwart/Desktop/LiamK_05082926/90022238.json,LiamK,0,1,Dipplin,0.6,0,Dudunsparce,lk
+90022773,/Users/nickzwart/Desktop/LiamK_05082926/90022773.json,LiamK,0,1,Dragapult,0.6,0,Dudunsparce,lk
+90023428,/Users/nickzwart/Desktop/LiamK_05082926/90023428.json,LiamK,0,1,Meganium,0.6,0,Dudunsparce,lk
+90023536,/Users/nickzwart/Desktop/LiamK_05082926/90023536.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90023536,/Users/nickzwart/Desktop/LiamK_05082926/90023536.json,LiamK,1,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90024090,/Users/nickzwart/Desktop/LiamK_05082926/90024090.json,LiamK,1,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90024175,/Users/nickzwart/Desktop/LiamK_05082926/90024175.json,やる気元気ミワハルキ,0,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90024175,/Users/nickzwart/Desktop/LiamK_05082926/90024175.json,LiamK,1,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90024783,/Users/nickzwart/Desktop/LiamK_05082926/90024783.json,やる気元気ミワハルキ,0,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90024783,/Users/nickzwart/Desktop/LiamK_05082926/90024783.json,LiamK,1,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90025462,/Users/nickzwart/Desktop/LiamK_05082926/90025462.json,LiamK,0,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90025462,/Users/nickzwart/Desktop/LiamK_05082926/90025462.json,DavidFreelan,1,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90025714,/Users/nickzwart/Desktop/LiamK_05082926/90025714.json,Iolzpo + emonga,0,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90025714,/Users/nickzwart/Desktop/LiamK_05082926/90025714.json,LiamK,1,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90026175,/Users/nickzwart/Desktop/LiamK_05082926/90026175.json,LiamK,1,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90026854,/Users/nickzwart/Desktop/LiamK_05082926/90026854.json,LiamK,1,1,Meganium,0.6,0,Dudunsparce,lk
+90026914,/Users/nickzwart/Desktop/LiamK_05082926/90026914.json,LiamK,0,0,M-Lucario,0.6,0,Dudunsparce,lk
+90026928,/Users/nickzwart/Desktop/LiamK_05082926/90026928.json,LiamK,0,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90026928,/Users/nickzwart/Desktop/LiamK_05082926/90026928.json,やる気元気ミワハルキ,1,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90026935,/Users/nickzwart/Desktop/LiamK_05082926/90026935.json,LiamK,1,0,M-Kangaskhan,0.6,0,Dudunsparce,lk
+90027544,/Users/nickzwart/Desktop/LiamK_05082926/90027544.json,LiamK,0,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90028238,/Users/nickzwart/Desktop/LiamK_05082926/90028238.json,LiamK,0,1,Alakazam,0.6,0,Dudunsparce,lk
+90028927,/Users/nickzwart/Desktop/LiamK_05082926/90028927.json,LiamK,1,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90028973,/Users/nickzwart/Desktop/LiamK_05082926/90028973.json,LiamK,1,0,M-Lucario,0.6,0,Dudunsparce,lk
+90029597,/Users/nickzwart/Desktop/LiamK_05082926/90029597.json,LiamK,1,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90029663,/Users/nickzwart/Desktop/LiamK_05082926/90029663.json,LiamK,0,1,M-Kangaskhan,0.6,0,Dudunsparce,lk
+90030291,/Users/nickzwart/Desktop/LiamK_05082926/90030291.json,LiamK,0,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90030291,/Users/nickzwart/Desktop/LiamK_05082926/90030291.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90030360,/Users/nickzwart/Desktop/LiamK_05082926/90030360.json,LiamK,1,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90030988,/Users/nickzwart/Desktop/LiamK_05082926/90030988.json,LiamK,0,0,M-Lucario,0.6,0,Dudunsparce,lk
+90031775,/Users/nickzwart/Desktop/LiamK_05082926/90031775.json,LiamK,1,0,Alakazam,0.6,0,Dudunsparce,lk
+90031808,/Users/nickzwart/Desktop/LiamK_05082926/90031808.json,LiamK,1,0,M-Lucario,0.6,0,Dudunsparce,lk
+90032371,/Users/nickzwart/Desktop/LiamK_05082926/90032371.json,LiamK,1,0,Dragapult,0.6,0,Dudunsparce,lk
+90033071,/Users/nickzwart/Desktop/LiamK_05082926/90033071.json,LiamK,1,0,Dragapult,0.6,0,Dudunsparce,lk
+90033758,/Users/nickzwart/Desktop/LiamK_05082926/90033758.json,LiamK,1,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90034445,/Users/nickzwart/Desktop/LiamK_05082926/90034445.json,LiamK,0,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90035129,/Users/nickzwart/Desktop/LiamK_05082926/90035129.json,LiamK,0,0,Cynthia-Garchomp,0.6,0,Dudunsparce,lk
+90035154,/Users/nickzwart/Desktop/LiamK_05082926/90035154.json,LiamK,0,0,Alakazam,0.6,0,Dudunsparce,lk
+90035811,/Users/nickzwart/Desktop/LiamK_05082926/90035811.json,LiamK,0,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90036475,/Users/nickzwart/Desktop/LiamK_05082926/90036475.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90036475,/Users/nickzwart/Desktop/LiamK_05082926/90036475.json,LiamK,1,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90036489,/Users/nickzwart/Desktop/LiamK_05082926/90036489.json,LiamK,0,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90036489,/Users/nickzwart/Desktop/LiamK_05082926/90036489.json,李秉叡（ntumlnoob）,1,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90037143,/Users/nickzwart/Desktop/LiamK_05082926/90037143.json,LiamK,0,1,Dragapult,0.6,0,Dudunsparce,lk
+90037162,/Users/nickzwart/Desktop/LiamK_05082926/90037162.json,LiamK,0,0,M-Kangaskhan,0.6,0,Dudunsparce,lk
+90037843,/Users/nickzwart/Desktop/LiamK_05082926/90037843.json,LiamK,0,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90037843,/Users/nickzwart/Desktop/LiamK_05082926/90037843.json,李秉叡（ntumlnoob）,1,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90037864,/Users/nickzwart/Desktop/LiamK_05082926/90037864.json,LiamK,1,1,Dragapult,0.6,0,Dudunsparce,lk
+90038550,/Users/nickzwart/Desktop/LiamK_05082926/90038550.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90038550,/Users/nickzwart/Desktop/LiamK_05082926/90038550.json,LiamK,1,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90038551,/Users/nickzwart/Desktop/LiamK_05082926/90038551.json,LiamK,0,1,M-Kangaskhan,0.6,0,Dudunsparce,lk
+90039235,/Users/nickzwart/Desktop/LiamK_05082926/90039235.json,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90039235,/Users/nickzwart/Desktop/LiamK_05082926/90039235.json,LiamK,1,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90039896,/Users/nickzwart/Desktop/LiamK_05082926/90039896.json,LiamK,0,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90039896,/Users/nickzwart/Desktop/LiamK_05082926/90039896.json,李秉叡（ntumlnoob）,1,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90040564,/Users/nickzwart/Desktop/LiamK_05082926/90040564.json,LiamK,0,0,M-Lucario,0.6,0,Dudunsparce,lk
+90040579,/Users/nickzwart/Desktop/LiamK_05082926/90040579.json,LiamK,1,1,Dragapult,0.6,0,Dudunsparce,lk
+90041257,/Users/nickzwart/Desktop/LiamK_05082926/90041257.json,LiamK,0,1,Dragapult,0.6,0,Dudunsparce,lk
+90041937,/Users/nickzwart/Desktop/LiamK_05082926/90041937.json,LiamK,1,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90041956,/Users/nickzwart/Desktop/LiamK_05082926/90041956.json,LiamK,0,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90042619,/Users/nickzwart/Desktop/LiamK_05082926/90042619.json,LiamK,0,0,Grimmsnarl,0.6,0,Dudunsparce,lk
+90043291,/Users/nickzwart/Desktop/LiamK_05082926/90043291.json,LiamK,0,0,M-Lucario,0.6,0,Dudunsparce,lk
+90043308,/Users/nickzwart/Desktop/LiamK_05082926/90043308.json,LiamK,0,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90043990,/Users/nickzwart/Desktop/LiamK_05082926/90043990.json,LiamK,1,0,Alakazam,0.6,0,Dudunsparce,lk
+90044716,/Users/nickzwart/Desktop/LiamK_05082926/90044716.json,LiamK,0,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90044716,/Users/nickzwart/Desktop/LiamK_05082926/90044716.json,李秉叡（ntumlnoob）,1,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90045483,/Users/nickzwart/Desktop/LiamK_05082926/90045483.json,LiamK,0,1,Crustle,0.6,0,Dudunsparce,lk
+90046220,/Users/nickzwart/Desktop/LiamK_05082926/90046220.json,LiamK,0,1,Grimmsnarl,0.6,0,Dudunsparce,lk
+90046942,/Users/nickzwart/Desktop/LiamK_05082926/90046942.json,LiamK,0,1,M-Lucario,0.6,0,Dudunsparce,lk
+90047591,/Users/nickzwart/Desktop/LiamK_05082926/90047591.json,LiamK,0,0,M-Lucario,0.6,0,Dudunsparce,lk
+90047610,/Users/nickzwart/Desktop/LiamK_05082926/90047610.json,LiamK,0,1,Spidops,0.6,0,Dudunsparce,lk
+90048316,/Users/nickzwart/Desktop/LiamK_05082926/90048316.json,LiamK,0,0,Dragapult,0.6,0,Dudunsparce,lk
+90048666,/Users/nickzwart/Desktop/LiamK_05082926/90048666.json,LiamK,0,1,Meganium,0.6,0,Dudunsparce,lk
+90048940,/Users/nickzwart/Desktop/LiamK_05082926/90048940.json,LiamK,0,0,M-Lucario,0.6,0,Dudunsparce,lk
+90049682,/Users/nickzwart/Desktop/LiamK_05082926/90049682.json,LiamK,1,1,Alakazam,0.6,0,Dudunsparce,lk
+90050387,/Users/nickzwart/Desktop/LiamK_05082926/90050387.json,LiamK,0,1,M-Kangaskhan,0.6,0,Dudunsparce,lk
+90051052,/Users/nickzwart/Desktop/LiamK_05082926/90051052.json,LiamK,0,0,M-Lucario,0.6,0,Dudunsparce,lk
+90054496,/Users/nickzwart/Desktop/LiamK_05082926/90054496.json,LiamK,1,0,M-Lucario,0.6,0,Dudunsparce,lk
+90055856,/Users/nickzwart/Desktop/LiamK_05082926/90055856.json,LiamK,1,0,M-Lucario,0.6,0,Dudunsparce,lk
+90060578,/Users/nickzwart/Desktop/LiamK_05082926/90060578.json,LiamK,0,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90060578,/Users/nickzwart/Desktop/LiamK_05082926/90060578.json,Rmy,1,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90074145,/Users/nickzwart/Desktop/LiamK_05082926/90074145.json,LiamK,1,0,M-Lucario,0.6,0,Dudunsparce,lk
+90076875,/Users/nickzwart/Desktop/LiamK_05082926/90076875.json,LiamK,1,0,M-Lucario,0.6,0,Dudunsparce,lk
+90079530,/Users/nickzwart/Desktop/LiamK_05082926/90079530.json,LiamK,0,0,M-Lucario,0.6,0,Dudunsparce,lk
+90081553,/Users/nickzwart/Desktop/LiamK_05082926/90081553.json,LiamK,1,0,M-Lucario,0.6,0,Dudunsparce,lk
+90083581,/Users/nickzwart/Desktop/LiamK_05082926/90083581.json,LiamK,1,0,M-Lucario,0.6,0,Dudunsparce,lk
+90084905,/Users/nickzwart/Desktop/LiamK_05082926/90084905.json,LiamK,1,0,M-Lucario,0.6,0,Dudunsparce,lk
+90086270,/Users/nickzwart/Desktop/LiamK_05082926/90086270.json,LiamK,1,0,M-Lucario,0.6,0,Dudunsparce,lk
+90089004,/Users/nickzwart/Desktop/LiamK_05082926/90089004.json,LiamK,0,1,M-Lucario,0.6,0,Dudunsparce,lk
+90091719,/Users/nickzwart/Desktop/LiamK_05082926/90091719.json,LiamK,1,0,M-Lucario,0.6,0,Dudunsparce,lk
+90096473,/Users/nickzwart/Desktop/LiamK_05082926/90096473.json,LiamK,0,0,M-Lucario,0.6,0,Dudunsparce,lk
+90097143,/Users/nickzwart/Desktop/LiamK_05082926/90097143.json,LiamK,1,0,M-Lucario,0.6,0,Dudunsparce,lk
+90104053,/Users/nickzwart/Desktop/LiamK_05082926/90104053.json,LiamK,0,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90104053,/Users/nickzwart/Desktop/LiamK_05082926/90104053.json,Marshall Maximizer,1,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90108871,/Users/nickzwart/Desktop/LiamK_05082926/90108871.json,LiamK,1,1,M-Kangaskhan,0.6,0,Dudunsparce,lk
+90110802,/Users/nickzwart/Desktop/LiamK_05082926/90110802.json,LiamK,0,0,M-Lucario,0.6,0,Dudunsparce,lk
+90110911,/Users/nickzwart/Desktop/LiamK_05082926/90110911.json,LiamK,1,0,M-Kangaskhan,0.6,0,Dudunsparce,lk
+90112155,/Users/nickzwart/Desktop/LiamK_05082926/90112155.json,LiamK,0,0,M-Lucario,0.6,0,Dudunsparce,lk
+90115526,/Users/nickzwart/Desktop/LiamK_05082926/90115526.json,Marshall Maximizer,0,1,Dudunsparce,0.6,0,Dudunsparce,lk
+90115526,/Users/nickzwart/Desktop/LiamK_05082926/90115526.json,LiamK,1,0,Dudunsparce,0.6,0,Dudunsparce,lk
+90118335,/Users/nickzwart/Desktop/LiamK_05082926/90118335.json,LiamK,0,0,Grimmsnarl,0.6,0,Dudunsparce,lk
