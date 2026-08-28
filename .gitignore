@@ -12,7 +12,7 @@
 !/*.csv
 !/strategy_track/**
 
-# Huge data/weight directories — never descend
+# Huge data/weight directories, never descend
 model/
 scraped/
 kaggle_ds/
