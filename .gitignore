@@ -29,3 +29,4 @@ __pycache__/
 *.pt
 *.ckpt
 *.db
+.DS_Store

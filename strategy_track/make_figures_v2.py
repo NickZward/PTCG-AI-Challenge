@@ -15,7 +15,7 @@ OUT.mkdir(exist_ok=True)
 INK, MUTED, GRID = "#1b1b1f", "#8a8a94", "#e3e3e8"
 WIN, LOSS, NEUTRAL, ACCENT = "#2f7d4f", "#b4433a", "#4a6fa5", "#c8892a"
 plt.rcParams.update({
-    "figure.dpi": 160, "savefig.dpi": 160, "savefig.bbox": "tight",
+    "figure.dpi": 320, "savefig.dpi": 320, "savefig.bbox": "tight",
     "font.family": "DejaVu Sans", "font.size": 9,
     "axes.edgecolor": MUTED, "axes.labelcolor": INK, "text.color": INK,
     "xtick.color": MUTED, "ytick.color": MUTED,
@@ -25,8 +25,12 @@ plt.rcParams.update({
 })
 
 def title(ax, main, sub=None, pad=None):
+    import textwrap
+    if sub:
+        sub = "\n".join(textwrap.wrap(sub, 96))
+    nl = (sub.count("\n") + 1) if sub else 0
     ax.set_title(main, loc="left", fontsize=11.5, fontweight="bold",
-                 pad=(pad if pad is not None else (24 if sub else 8)))
+                 pad=(pad if pad is not None else (24 + 11 * max(nl - 1, 0) if sub else 8)))
     if sub:
         ax.annotate(sub, xy=(0, 1), xycoords="axes fraction", textcoords="offset points",
                     xytext=(0, 7), fontsize=8.6, color=MUTED, va="bottom", ha="left")
@@ -77,25 +81,34 @@ def fig2():
         ("oger Dipam v4i", 53.8, 2), ("DRAG v4 (#1 corpus)", 60.0, 3),
         ("drag veto layer", 46.7, 0), ("oger Ala-boost v5", 36.2, 0),
         ("drag_v5 fresh refresh", 54.6, 2), ("oger_v5b fresh refresh", 50.4, 0),
+        ("drag_v6f recovered teacher games", 58.3, 3), ("drag_v7 +762-game breadth", 46.3, 0),
+        ("drag_v8 four-teacher blend", 54.2, 0), ("oger_ss single-teacher (pre-reg)", 53.3, 2),
     ]
-    fig, ax = plt.subplots(figsize=(7.4, 8.6))
-    y = np.arange(len(rows))[::-1]
-    for yy, (lab, v, k) in zip(y, rows):
-        if k == -2:
-            ax.axhline(yy, color=INK, lw=1.1, ls="--")
-            ax.text(97, yy + 0.35, "adversarial audit: five instrument bugs found & fixed",
-                    fontsize=8, color=ACCENT, ha="right", fontweight="bold")
-            continue
-        col = WIN if k in (1, 3) else (ACCENT if k == 2 else LOSS)
-        ax.barh(yy, max(v, 0), color=col, height=0.7, zorder=3)
-        ax.text(max(v, 0) + 1.2, yy, f"{v:.1f}" if v >= 0 else "AUC-rejected",
-                va="center", fontsize=7.2, color=MUTED)
-    ax.set_yticks(y)
-    ax.set_yticklabels([r[0] for r in rows], fontsize=7.8)
-    ax.axvline(50, color=INK, lw=1.3)
-    ax.set_xlim(0, 100); ax.set_xlabel("Win rate vs. the reigning best (%)")
-    title(ax, "Fig 2 — 30+ gated challengers across two arcs",
-          "Green replaced the best. Amber beat its own line post-audit. Red closed a lever with a number.")
+    fig, axs = plt.subplots(1, 2, figsize=(12.6, 5.9), sharex=True)
+    halves = [rows[:17], rows[17:]]
+    for ax, part in zip(axs, halves):
+        y = np.arange(len(part))[::-1]
+        for yy, (lab, v, k) in zip(y, part):
+            if k == -2:
+                ax.axhline(yy, color=INK, lw=1.1, ls="--")
+                ax.text(97, yy + 0.35, "adversarial audit: five instrument bugs found & fixed",
+                        fontsize=6.8, color=ACCENT, ha="right", fontweight="bold")
+                continue
+            col = WIN if k in (1, 3) else (ACCENT if k == 2 else LOSS)
+            ax.barh(yy, max(v, 0), color=col, height=0.7, zorder=3)
+            ax.text(max(v, 0) + 1.2, yy, f"{v:.1f}" if v >= 0 else "AUC-rejected",
+                    va="center", fontsize=7.0, color=MUTED)
+        ax.set_yticks(y)
+        ax.set_yticklabels([r[0] for r in part], fontsize=7.8)
+        ax.axvline(50, color=INK, lw=1.3)
+        ax.set_xlim(0, 100)
+        ax.set_xlabel("Win rate vs. the reigning best (%)")
+    fig.suptitle("Fig 2 — 34 gated challengers across the campaign's three arcs",
+                 x=0.008, ha="left", fontsize=12.5, fontweight="bold")
+    fig.text(0.008, 0.92, "Green replaced the best. Amber beat its own line post-audit. Red closed a lever "
+             "with a number. Read the left column top-to-bottom, then the right.",
+             fontsize=8.6, color=MUTED)
+    fig.subplots_adjust(top=0.86, wspace=0.55)
     footer(fig, "All post-audit gates: N>=120 with independent replication; pooled values shown.")
     fig.savefig(OUT / "fig2_challengers.png"); plt.close(fig)
 
@@ -234,6 +247,7 @@ def fig8():
         ("2nd-deck attempts\n(bugged era)", 649, LOSS),
         ("value-repaired\nbuilds", 687, ACCENT),
         ("DRAG v4\n(#1's corpus)", 890, WIN),
+        ("v6f: recovered\nteacher games", 908, WIN),
     ]
     fig, ax = plt.subplots(figsize=(7.4, 4.0))
     x = np.arange(len(events))
@@ -247,16 +261,32 @@ def fig8():
                 fontsize=8, color=col, fontweight="bold")
     ax.set_xticks([]); ax.set_ylabel("ladder score")
     ax.set_ylim(520, 1120)
+    ax.annotate("FINAL: 908\nrank 418/6,807 — BRONZE", (len(events)-1, 908), textcoords="offset points",
+                xytext=(-52, 52), ha="right", fontsize=8.2, fontweight="bold", color=WIN)
     title(ax, "Fig 8 — The campaign in ladder scores",
           "Note the shape: the peak-era 1009 and the 890 are different metas (the whole ladder deflated); "
-          "the second rise is the audited pipeline paying out on a second archetype.")
+          "the second rise is the audited pipeline paying out on a second archetype, ending in a bronze medal.")
     footer(fig, "Points are representative submissions; scores are era-local and not directly comparable across meta shifts.")
     fig.savefig(OUT / "fig8_trajectory.png"); plt.close(fig)
+
+
+def pad_16x9():
+    from PIL import Image
+    for p in sorted(OUT.glob("fig*.png")):
+        im = Image.open(p).convert("RGB")
+        w, h = im.size
+        tw, th = w, int(round(w * 9 / 16))
+        if th < h:
+            tw, th = int(round(h * 16 / 9)), h
+        canvas = Image.new("RGB", (tw, th), "white")
+        canvas.paste(im, ((tw - w) // 2, (th - h) // 2))
+        canvas.save(p)
 
 
 if __name__ == "__main__":
     for f in (fig1, fig2, fig3, fig4, fig5, fig6, fig7, fig8):
         f()
+    pad_16x9()
     print("wrote:")
     for p in sorted(OUT.glob("*.png")):
         print("  ", p.name, f"{p.stat().st_size//1024} KB")
